@@ -1,0 +1,94 @@
+11c11
+< packet_size = int(sys.argv[1])
+---
+> packet_size = float(sys.argv[1])
+18a19,20
+> 
+> 
+39c41
+<     if len(routes) > 0 :
+---
+>     if len(routes) > 0:
+45c47
+<         out += "%s -> %s |"% (n, ", ".join(p))
+---
+>         out += "%s -> %s |" % (n, ", ".join(p))
+53d54
+< 
+62a64,65
+> 
+> 
+84c87
+< 
+---
+>                     break
+87d89
+< 
+90a93,94
+> 
+> 
+94d97
+< 
+97a101,102
+> 
+> 
+104d108
+< 
+107a112,113
+> 
+> 
+111d116
+< 
+113d117
+< 
+119d122
+< 
+121d123
+< 
+127c129
+<     global number_of_packets,remaining_data_size,data_size,node_source,node_target
+---
+>     global number_of_packets, remaining_data_size, data_size, node_source, node_target
+149,155c151,157
+<         int(pos.split(";")[0]), #posX
+<         int(pos.split(";")[1]), #posY
+<         int(range.split(";")[0]), #rangeX1
+<         int(range.split(";")[1]), #rangeX2
+<         int(range.split(";")[2]), #rangeY1
+<         int(range.split(";")[3]), #rangeY2
+<         int(battery_level)
+---
+>         float(pos.split(";")[0]), #posX
+>         float(pos.split(";")[1]), #posY
+>         float(range.split(";")[0]), #rangeX1
+>         float(range.split(";")[1]), #rangeX2
+>         float(range.split(";")[2]), #rangeY1
+>         float(range.split(";")[3]), #rangeY2
+>         float(battery_level)
+172c174
+<         calculate_routes()
+---
+>         #calculate_routes()
+185c187
+<         calculate_routes()
+---
+>         #calculate_routes()
+194c196
+<         calculate_routes()
+---
+>         #calculate_routes()
+214,215d215
+<         #print(commands)
+< 
+221c221
+<     print ("SIMULATION TIME: %02d:%02d:%02d" % (time / 3600, (time / 60) % 60, time % 60))
+---
+>     print("SIMULATION TIME: %02d:%02d:%02d" % (time / 3600, (time / 60) % 60, time % 60))
+225a226,227
+>                 #if not init:
+>                     #calculate_routes()
+233a236,237
+>         if params[0] == "RMNODE" or params[0] == "MOVE" or params[0] == "CHBTTRY" or params[0] == "CRNODE":
+>             calculate_routes()
+242d245
+< 
