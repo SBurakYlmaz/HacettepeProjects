@@ -1,0 +1,36 @@
+Q1, Hatay, Bursa, 2, R
+There is no way!
+Q1, Ardahan, Aydin, 3, H
+Ardahan, H, Agri, A, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, H, Erzincan, A, Kayseri, A, Konya, H, Burdur, A, Aydin
+Ardahan, H, Agri, H, Erzincan, A, Bolu, H, Bursa, A, Aydin
+Ardahan, H, Agri, H, Erzincan, R, Malatya, H, Kayseri, A, Konya, H, Burdur, A, Aydin
+Q2, Agri, Burdur, Kayseri
+Agri, A, Diyarbakir, H, Malatya, H, Kayseri, A, Konya, H, Burdur
+Agri, H, Erzincan, A, Kayseri, A, Konya, H, Burdur
+Agri, H, Erzincan, R, Malatya, H, Kayseri, A, Konya, H, Burdur
+Agri, R, Hatay, A, Kayseri, A, Konya, H, Burdur
+Q3, Erzincan, Burdur, R
+Erzincan, R, Malatya, H, Kayseri, A, Konya, H, Burdur
+Q2, Diyarbakir, Aydin, Bolu
+Diyarbakir, A, Tokat, A, Bolu, A, Burdur, A, Aydin
+Diyarbakir, A, Tokat, A, Bolu, H, Bursa, A, Aydin
+Q4, Ardahan, Burdur, A2, H2, R1
+Ardahan, A, Erzincan, R, Malatya, H, Kayseri, A, Konya, H, Burdur
+Ardahan, H, Agri, R, Hatay, A, Kayseri, A, Konya, H, Burdur
+Q3, Diyarbakir, Burdur, A
+Diyarbakir, A, Tokat, A, Bolu, A, Burdur
+PRINTGRAPH
+Ardahan --> Erzincan Agri Hatay Tokat 
+Agri --> Diyarbakir Erzincan Hatay 
+Erzincan --> Kayseri Bolu Malatya 
+Diyarbakir --> Tokat Malatya 
+Hatay --> Kayseri 
+Malatya --> Kayseri 
+Tokat --> Bolu 
+Kayseri --> Konya 
+Bolu --> Burdur Bursa 
+Konya --> Burdur 
+Bursa --> Aydin 
+Burdur --> Aydin 
+Aydin --> 
