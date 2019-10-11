@@ -1,0 +1,188 @@
+Niue  1190,0
+Falkland Islands (Islas Malvinas)  2931,0
+Saint Pierre and Miquelon  5595,0
+Cook Islands  9556,0
+Nauru  9591,0
+Tuvalu  10959,0
+Palau  21347,0
+Gibraltar  29328,0
+Monaco  30581,0
+San Marino  33285,0
+Liechtenstein  37937,0
+Faroe Islands  50456,0
+Northern Mariana Islands  53467,0
+American Samoa  54194,0
+Bermuda  70537,0
+Marshall Islands  73376,0
+Andorra  85660,0
+Isle of Man  88195,0
+Seychelles  93186,0
+Tonga  106513,0
+Kiribati  106925,0
+Guam  162742,0
+Sao Tome and Principe  197541,0
+Samoa  198926,0
+New Caledonia  275355,0
+Vanuatu  277554,0
+French Polynesia  285321,0
+Iceland  335878,0
+Maldives  392960,0
+Malta  415196,0
+Brunei  436620,0
+Cabo Verde  553432,0
+Luxembourg  582291,0
+Suriname  585824,0
+Western Sahara  587020,0
+Macau  597425,0
+Solomon Islands  635027,0
+Montenegro  644578,0
+Guyana  735909,0
+Bhutan  750125,0
+Equatorial Guinea  759451,0
+Comoros  794678,0
+Djibouti  846687,0
+Fiji  915303,0
+Cyprus  1205575,0
+Estonia  1258545,0
+Timor-Leste  1261072,0
+Mauritius  1348242,0
+Bahrain  1378904,0
+Swaziland  1451428,0
+Gabon  1738541,0
+Gaza Strip  1753327,0
+Guinea-Bissau  1759159,0
+Kosovo  1883018,0
+Lesotho  1953070,0
+Latvia  1965686,0
+Slovenia  1978029,0
+The Gambia  2009648,0
+Macedonia  2100025,0
+Botswana  2209208,0
+Qatar  2258283,0
+Namibia  2436469,0
+West Bank  2697687,0
+Kuwait  2832776,0
+Lithuania  2854235,0
+Mongolia  3031330,0
+Albania  3038594,0
+Armenia  3051250,0
+Uruguay  3351016,0
+Oman  3355262,0
+Moldova  3510485,0
+Mauritania  3677293,0
+Bosnia and Herzegovina  3861912,0
+Liberia  4299944,0
+Croatia  4313707,0
+New Zealand  4474549,0
+Congo (Brazzaville)  4852412,0
+Georgia  4928052,0
+Ireland  4952473,0
+Norway  5265158,0
+Turkmenistan  5291317,0
+Slovakia  5445802,0
+Finland  5498211,0
+Denmark  5593785,0
+Kyrgyzstan  5727553,0
+Singapore  5781728,0
+Eritrea  5869869,0
+Sierra Leone  6018888,0
+Lebanon  6237738,0
+Libya  6541948,0
+Papua New Guinea  6791317,0
+Paraguay  6862812,0
+Laos  7019073,0
+Serbia  7143921,0
+Bulgaria  7144653,0
+Hong Kong  7167403,0
+Togo  7756937,0
+Israel  8174527,0
+Switzerland  8179294,0
+Jordan  8185384,0
+Tajikistan  8330946,0
+Austria  8711770,0
+Belarus  9570376,0
+Azerbaijan  9872765,0
+Hungary  9874784,0
+Sweden  9880604,0
+Czechia  10644842,0
+Benin  10741458,0
+Greece  10773253,0
+Somalia  10817354,0
+Portugal  10833816,0
+Bolivia  10969649,0
+Burundi  11099298,0
+Tunisia  11134588,0
+Belgium  11409077,0
+Chad  11852462,0
+Guinea  12093349,0
+Rwanda  12988423,0
+Senegal  14320055,0
+Zimbabwe  14546961,0
+Zambia  15510711,0
+Cambodia  15957223,0
+Ecuador  16080778,0
+Netherlands  17016968,0
+Syria  17185170,0
+Mali  17467108,0
+Chile  17650114,0
+Kazakhstan  18360352,0
+Malawi  18570320,0
+Niger  18638600,0
+Burkina Faso  19512532,0
+Angola  20172332,0
+Romania  21599736,0
+Sri Lanka  22235000,0
+Australia  22992654,0
+Taiwan  23464788,0
+Cote d'Ivoire  23740424,0
+Cameroon  24360804,0
+Madagascar  24430324,0
+North Korea  25115312,0
+Mozambique  25930150,0
+Ghana  26908262,0
+Yemen  27392780,0
+Saudi Arabia  28160272,0
+Nepal  29033914,0
+Uzbekistan  29473614,0
+Peru  30741062,0
+Venezuela  30912302,0
+Malaysia  30949962,0
+Afghanistan  33332024,0
+Morocco  33655784,0
+Canada  35362904,0
+Iraq  38146024,0
+Uganda  38319240,0
+Poland  38523260,0
+Algeria  40263712,0
+Argentina  43886748,0
+Ukraine  44209732,0
+Kenya  46790760,0
+Colombia  47220856,0
+Spain  48563476,0
+South Korea  50924172,0
+Tanzania  52482728,0
+South Africa  54300704,0
+Burma  56890416,0
+Italy  62007540,0
+United Kingdom  64430428,0
+France  66836152,0
+Thailand  68200824,0
+Turkey  80274608,0
+Germany  80722792,0
+DRC  81331048,0
+Iran  82801632,0
+Egypt  94666992,0
+Vietnam  95261024,0
+Ethiopia  102374048,0
+Philippines  102624208,0
+Mexico  123166752,0
+Japan  126702136,0
+Russia  142355408,0
+Bangladesh  156186880,0
+Nigeria  186053392,0
+Pakistan  201995536,0
+Brazil  205823664,0
+Indonesia  258316048,0
+United States  323995520,0
+India  1266883584,0
+China  1373541248,0
