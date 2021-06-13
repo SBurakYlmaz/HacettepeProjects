@@ -1,0 +1,22 @@
+/*************************************/
+afirca:52
+america:18
+asia:34
+australia:19
+europe:48
+middle-east:17
+total:188
+/*************************************/
+Government-Country name-conventional short form
+/*************************************/
+area-total
+area-land
+area-water
+population
+median_age-male
+median_age-female
+birth_rate
+death_rate
+literacy-female
+airports
+/*************************************/

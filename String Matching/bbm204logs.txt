@@ -1,0 +1,6221 @@
+hello
+bbm204-19-4/b20926888/src
+start
+readme.txt
+readme.txt
+readme.txt
+readme.txt
+finish
+bbm204-19-4/b21127534/src
+start
+africa
+america
+asia
+australia
+europe
+middle-east
+***command : area-total,top,3
+[Brazil, China, Russia]
+***command : area-land,top,2+airports,top,4
+[Bolivia, Brazil, China, Mexico, Russia]
+***command : area-water,top,2+population,top,3
+[Brazil, China, Indonesia, Russia]
+***command : median_age-female,last,6+population,top,3+birth_rate,top,2
+[Brazil, Burkina Faso, Burundi, China, Indonesia, Malawi, Mali, Mozambique, Uganda]
+***command : area-land,last,3+death_rate,top,3
+[Burundi, Chad, Ethiopia, Malawi, Mali, Russia]
+africa
+america
+asia
+australia
+europe
+middle-east
+***command : airports,top,5
+[Bolivia, Brazil, Colombia, Mexico, Russia]
+***command : population,last,3+area-land,last,3
+[Benin, Bolivia, Burundi, Ethiopia, Greece, Malawi]
+***command : death_rate,top,3+literacy-female,top,4+area-water,top,2
+[Chad, China, Kazakhstan, Mali, North Korea, Russia, Spain]
+***command : airports,last,3+death_rate,last,2+literacy-female,top,2
+[Benin, Burundi, Ghana, Iraq, Kazakhstan, North Korea, Syria]
+***command : area-water,last,4+population,top,2+area-land,last,1
+[Burkina Faso, China, Ethiopia, Guinea, Indonesia, Morocco, North Korea]
+africa
+america
+asia
+australia
+europe
+middle-east
+***command : area-total,top,5
+[Brazil, China, Kazakhstan, Mexico, Russia]
+***command : area-land,top,5
+[Brazil, China, Kazakhstan, Mexico, Russia]
+***command : area-water,top,5
+[Brazil, China, Colombia, Ethiopia, Russia]
+***command : population,top,5
+[Brazil, China, Indonesia, Mexico, Russia]
+***command : median_age-male,top,5
+[Chile, China, Greece, Russia, Spain]
+***command : median_age-female,top,5
+[China, Greece, North Korea, Russia, Spain]
+***command : birth_rate,top,5
+[Burkina Faso, Burundi, Malawi, Mali, Uganda]
+***command : death_rate,top,5
+[Burkina Faso, Chad, Mali, Mozambique, Russia]
+***command : literacy-female,top,5
+[Chile, Kazakhstan, North Korea, Russia, Spain]
+***command : airports,top,5
+[Bolivia, Brazil, Colombia, Mexico, Russia]
+africa
+america
+asia
+australia
+europe
+middle-east
+***command : area-total,last,5
+[Benin, Burundi, Chad, Malawi, North Korea]
+***command : area-land,last,5
+[Benin, Burundi, Ethiopia, Malawi, North Korea]
+***command : area-water,last,5
+[Burkina Faso, Guinea, Iraq, Morocco, North Korea]
+***command : population,last,5
+[Benin, Bolivia, Burundi, Chad, Greece]
+***command : median_age-male,last,5
+[Chad, Malawi, Mali, Mozambique, Uganda]
+***command : median_age-female,last,5
+[Burkina Faso, Burundi, Malawi, Mali, Uganda]
+***command : birth_rate,last,5
+[Chile, China, Greece, Russia, Spain]
+***command : death_rate,last,5
+[Ecuador, Egypt, Iraq, Morocco, Syria]
+***command : literacy-female,last,5
+[Benin, Burkina Faso, Chad, Guinea, Mali]
+***command : airports,last,5
+[Benin, Burundi, Ghana, Guinea, Senegal]
+finish
+bbm204-19-4/b21127567/src
+start
+[Brazil, China, Russia]
+[Bolivia, Brazil, China, Colombia, Mexico, Russia]
+[Brazil, China, Indonesia, Mexico, Russia]
+[]
+[]
+
+[Bolivia, Brazil, Colombia, Mexico, Russia]
+[]
+[Brazil, Chad, Chile, China, Kazakhstan, Mali, North Korea, Russia, Spain]
+[]
+[]
+
+[Brazil, China, Kazakhstan, Mexico, Russia]
+[Brazil, China, Kazakhstan, Mexico, Russia]
+[Brazil, China, Colombia, Ethiopia, Russia]
+[Brazil, China, Indonesia, Mexico, Russia]
+[Chile, China, Greece, Russia, Spain]
+[China, Greece, North Korea, Russia, Spain]
+[Burkina Faso, Burundi, Malawi, Mali, Uganda]
+[Burkina Faso, Chad, Mali, Mozambique, Russia]
+[Chile, Kazakhstan, North Korea, Russia, Spain]
+[Bolivia, Brazil, Colombia, Mexico, Russia]
+
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+
+finish
+bbm204-19-4/b21228841/src
+start
+finish
+bbm204-19-4/b21305599/src
+Exp4.java:8: error: package com.fasterxml.jackson.databind does not exist
+	import com.fasterxml.jackson.databind.ObjectMapper;
+	                                     ^
+Exp4.java:17: error: cannot find symbol
+        ObjectMapper mapper = new ObjectMapper();
+        ^
+  symbol:   class ObjectMapper
+  location: class Exp4
+Exp4.java:17: error: cannot find symbol
+        ObjectMapper mapper = new ObjectMapper();
+                                  ^
+  symbol:   class ObjectMapper
+  location: class Exp4
+3 errors
+start
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+finish
+bbm204-19-4/b21305657/src
+start
+finish
+bbm204-19-4/b21327604/src
+start
+finish
+bbm204-19-4/b21328279/src
+Exp4.java:651: error: cannot access Query
+	public static ArrayList<Query> getQueries(String line, int index)
+	                        ^
+  bad class file: ./Query.class
+    class file contains wrong class: java.lang.Exception
+    Please remove or make sure it appears in the correct subdirectory of the classpath.
+start
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.search(Exp4.java:14)
+	at Exp4.main(Exp4.java:35)
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.search(Exp4.java:14)
+	at Exp4.main(Exp4.java:35)
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.search(Exp4.java:14)
+	at Exp4.main(Exp4.java:35)
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.search(Exp4.java:14)
+	at Exp4.main(Exp4.java:35)
+finish
+bbm204-19-4/b21328284/src
+Exp4.java:31: error: '(' expected
+	static void area-total(){		
+	                ^
+Exp4.java:31: error: invalid method declaration; return type required
+	static void area-total(){		
+	                 ^
+Exp4.java:33: error: '(' expected
+	static void area-land(){		
+	                ^
+Exp4.java:33: error: invalid method declaration; return type required
+	static void area-land(){		
+	                 ^
+Exp4.java:35: error: '(' expected
+	static void area-water(){		
+	                ^
+Exp4.java:35: error: invalid method declaration; return type required
+	static void area-water(){		
+	                 ^
+Exp4.java:37: error: '(' expected
+	static void median_age-male(){		
+	                      ^
+Exp4.java:37: error: invalid method declaration; return type required
+	static void median_age-male(){		
+	                       ^
+Exp4.java:39: error: '(' expected
+	static void median_age-female(){		
+	                      ^
+Exp4.java:39: error: invalid method declaration; return type required
+	static void median_age-female(){		
+	                       ^
+Exp4.java:45: error: '(' expected
+	static void literacy-female(){		
+	                    ^
+Exp4.java:45: error: invalid method declaration; return type required
+	static void literacy-female(){		
+	                     ^
+12 errors
+start
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+finish
+bbm204-19-4/b21328466/src
+start
+Exception in thread "main" java.lang.NullPointerException
+	at Operations.createCountries(Operations.java:64)
+	at Exp4.main(Exp4.java:18)
+Exception in thread "main" java.lang.NullPointerException
+	at Operations.createCountries(Operations.java:64)
+	at Exp4.main(Exp4.java:18)
+Exception in thread "main" java.lang.NullPointerException
+	at Operations.createCountries(Operations.java:64)
+	at Exp4.main(Exp4.java:18)
+Exception in thread "main" java.lang.NullPointerException
+	at Operations.createCountries(Operations.java:64)
+	at Exp4.main(Exp4.java:18)
+finish
+bbm204-19-4/b21426495/src
+start
+Exception in thread "main" java.io.FileNotFoundException: /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa (Is a directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileReader.<init>(FileReader.java:72)
+	at ReadFiles.ReadAllFiles(ReadFiles.java:50)
+	at Exp4.main(Exp4.java:26)
+Exception in thread "main" java.io.FileNotFoundException: /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa (Is a directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileReader.<init>(FileReader.java:72)
+	at ReadFiles.ReadAllFiles(ReadFiles.java:50)
+	at Exp4.main(Exp4.java:26)
+Exception in thread "main" java.io.FileNotFoundException: /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa (Is a directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileReader.<init>(FileReader.java:72)
+	at ReadFiles.ReadAllFiles(ReadFiles.java:50)
+	at Exp4.main(Exp4.java:26)
+Exception in thread "main" java.io.FileNotFoundException: /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa (Is a directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileReader.<init>(FileReader.java:72)
+	at ReadFiles.ReadAllFiles(ReadFiles.java:50)
+	at Exp4.main(Exp4.java:26)
+finish
+bbm204-19-4/b21426591/src
+start
+Exception in thread "main" java.lang.NumberFormatException: For input string: "2+airports"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.valueOf(Integer.java:766)
+	at Exp4.prosess_imput_comand(Exp4.java:77)
+	at Exp4.main(Exp4.java:15)
+Exception in thread "main" java.lang.NumberFormatException: For input string: "3+area-land"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.valueOf(Integer.java:766)
+	at Exp4.prosess_imput_comand(Exp4.java:77)
+	at Exp4.main(Exp4.java:15)
+finish
+bbm204-19-4/b21426941/src
+start
+Reading File: bn.json
+Reading File: by.json
+Reading File: cd.json
+Reading File: eg.json
+Reading File: et.json
+Reading File: gh.json
+Reading File: gv.json
+Reading File: iv.json
+Reading File: mi.json
+Reading File: ml.json
+Reading File: mo.json
+Reading File: mz.json
+Reading File: sf.json
+Reading File: sg.json
+Reading File: ug.json
+Reading File: uv.json
+Reading File: bl.json
+Reading File: br.json
+Reading File: ci.json
+Reading File: co.json
+Reading File: ec.json
+Reading File: mx.json
+Reading File: ve.json
+Reading File: ch.json
+Reading File: id.json
+Reading File: kn.json
+Reading File: kz.json
+Reading File: rs.json
+Reading File: vm.json
+Reading File: gr.json
+Reading File: sp.json
+Reading File: iz.json
+Reading File: sy.json
+This file is not in selected countries list, ignoring: readme.txt
+
+Problem is here: literacy-female-33
+java.lang.NullPointerException
+	at ValueTree.insert(ValueTree.java:32)
+	at Exp4.treeConstructor(Exp4.java:37)
+	at Exp4.main(Exp4.java:836)
+java.lang.NullPointerException
+	at Exp4.resulter(Exp4.java:666)
+	at Exp4.fileIOOperations(Exp4.java:763)
+	at Exp4.main(Exp4.java:839)
+
+Same data has been written on output1.txt
+Reading File: bn.json
+Reading File: by.json
+Reading File: cd.json
+Reading File: eg.json
+Reading File: et.json
+Reading File: gh.json
+Reading File: gv.json
+Reading File: iv.json
+Reading File: mi.json
+Reading File: ml.json
+Reading File: mo.json
+Reading File: mz.json
+Reading File: sf.json
+Reading File: sg.json
+Reading File: ug.json
+Reading File: uv.json
+Reading File: bl.json
+Reading File: br.json
+Reading File: ci.json
+Reading File: co.json
+Reading File: ec.json
+Reading File: mx.json
+Reading File: ve.json
+Reading File: ch.json
+Reading File: id.json
+Reading File: kn.json
+Reading File: kz.json
+Reading File: rs.json
+Reading File: vm.json
+Reading File: gr.json
+Reading File: sp.json
+Reading File: iz.json
+Reading File: sy.json
+This file is not in selected countries list, ignoring: readme.txt
+
+Problem is here: literacy-female-33
+java.lang.NullPointerException
+	at ValueTree.insert(ValueTree.java:32)
+	at Exp4.treeConstructor(Exp4.java:37)
+	at Exp4.main(Exp4.java:836)
+java.lang.NullPointerException
+	at Exp4.resulter(Exp4.java:666)
+	at Exp4.fileIOOperations(Exp4.java:763)
+	at Exp4.main(Exp4.java:839)
+
+Same data has been written on output2.txt
+Reading File: bn.json
+Reading File: by.json
+Reading File: cd.json
+Reading File: eg.json
+Reading File: et.json
+Reading File: gh.json
+Reading File: gv.json
+Reading File: iv.json
+Reading File: mi.json
+Reading File: ml.json
+Reading File: mo.json
+Reading File: mz.json
+Reading File: sf.json
+Reading File: sg.json
+Reading File: ug.json
+Reading File: uv.json
+Reading File: bl.json
+Reading File: br.json
+Reading File: ci.json
+Reading File: co.json
+Reading File: ec.json
+Reading File: mx.json
+Reading File: ve.json
+Reading File: ch.json
+Reading File: id.json
+Reading File: kn.json
+Reading File: kz.json
+Reading File: rs.json
+Reading File: vm.json
+Reading File: gr.json
+Reading File: sp.json
+Reading File: iz.json
+Reading File: sy.json
+This file is not in selected countries list, ignoring: readme.txt
+
+Problem is here: literacy-female-33
+java.lang.NullPointerException
+	at ValueTree.insert(ValueTree.java:32)
+	at Exp4.treeConstructor(Exp4.java:37)
+	at Exp4.main(Exp4.java:836)
+java.lang.NullPointerException
+	at Exp4.resulter(Exp4.java:666)
+	at Exp4.fileIOOperations(Exp4.java:763)
+	at Exp4.main(Exp4.java:839)
+
+Same data has been written on output3.txt
+Reading File: bn.json
+Reading File: by.json
+Reading File: cd.json
+Reading File: eg.json
+Reading File: et.json
+Reading File: gh.json
+Reading File: gv.json
+Reading File: iv.json
+Reading File: mi.json
+Reading File: ml.json
+Reading File: mo.json
+Reading File: mz.json
+Reading File: sf.json
+Reading File: sg.json
+Reading File: ug.json
+Reading File: uv.json
+Reading File: bl.json
+Reading File: br.json
+Reading File: ci.json
+Reading File: co.json
+Reading File: ec.json
+Reading File: mx.json
+Reading File: ve.json
+Reading File: ch.json
+Reading File: id.json
+Reading File: kn.json
+Reading File: kz.json
+Reading File: rs.json
+Reading File: vm.json
+Reading File: gr.json
+Reading File: sp.json
+Reading File: iz.json
+Reading File: sy.json
+This file is not in selected countries list, ignoring: readme.txt
+
+Problem is here: literacy-female-33
+java.lang.NullPointerException
+	at ValueTree.insert(ValueTree.java:32)
+	at Exp4.treeConstructor(Exp4.java:37)
+	at Exp4.main(Exp4.java:836)
+java.lang.NullPointerException
+	at Exp4.resulter(Exp4.java:666)
+	at Exp4.fileIOOperations(Exp4.java:763)
+	at Exp4.main(Exp4.java:839)
+
+Same data has been written on output4.txt
+finish
+bbm204-19-4/b21427052/src
+start
+Exception in thread "main" java.io.FileNotFoundException: /mnt/akademik/akd/basal/bbm204-4-test/CIF (Is a directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:126)
+	at Exp4.main(Exp4.java:28)
+Exception in thread "main" java.io.FileNotFoundException: /mnt/akademik/akd/basal/bbm204-4-test/CIF (Is a directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:126)
+	at Exp4.main(Exp4.java:28)
+Exception in thread "main" java.io.FileNotFoundException: /mnt/akademik/akd/basal/bbm204-4-test/CIF (Is a directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:126)
+	at Exp4.main(Exp4.java:28)
+Exception in thread "main" java.io.FileNotFoundException: /mnt/akademik/akd/basal/bbm204-4-test/CIF (Is a directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:126)
+	at Exp4.main(Exp4.java:28)
+finish
+bbm204-19-4/b21427138/src
+start
+
+File no 1 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/bn.json
+-------------------------------------
+
+valueAsString = 10,741,458
+valueAsString = 10741458
+valueAsDouble = 10741458.000000
+CountryName, keyword, value = bn, "Population", 1.0741458E7
+valueAsString = 112,622 sq km
+valueAsString = 112622
+valueAsDouble = 112622.000000
+CountryName, keyword, value = bn, "Area", 112622.0
+valueAsString = 110,622 sq km
+valueAsString = 110622
+valueAsDouble = 110622.000000
+CountryName, keyword, value = bn, "Area", 110622.0
+valueAsString = 2,000 sq km
+valueAsString = 2000
+valueAsDouble = 2000.000000
+CountryName, keyword, value = bn, "Area", 2000.0
+valueAsString = 17.7 years
+valueAsString = 17.7
+valueAsDouble = 17.700000
+CountryName, keyword, value = bn, "Median age", 17.7
+valueAsString = 18.4 years (2016 est.)
+valueAsString = 18.4
+valueAsDouble = 18.400000
+CountryName, keyword, value = bn, "Median age", 18.4
+valueAsString = 35.5 births/1,000 population (2016 est.)
+valueAsString = 35.5
+valueAsDouble = 35.500000
+CountryName, keyword, value = bn, "Birth rate", 35.5
+valueAsString = 8 deaths/1,000 population (2016 est.)
+valueAsString = 8
+valueAsDouble = 8.000000
+CountryName, keyword, value = bn, "Death rate", 8.0
+valueAsString = 27.3% (2015 est.)
+valueAsString = 27.3
+valueAsDouble = 27.300000
+CountryName, keyword, value = bn, "Literacy", 27.3
+valueAsString = 6 (2013)
+valueAsString = 6
+valueAsDouble = 6.000000
+CountryName, keyword, value = bn, "Airports", 6.0
+Population Tree
+bn
+null
+null
+null
+null
+AreaTotal Tree
+bn
+null
+null
+null
+null
+AreaLand Tree
+bn
+null
+null
+null
+null
+AreaWater Tree
+bn
+null
+null
+null
+null
+
+File no 2 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/by.json
+-------------------------------------
+
+valueAsString = 11,099,298
+valueAsString = 11099298
+valueAsDouble = 11099298.000000
+CountryName, keyword, value = by, "Population", 1.1099298E7
+valueAsString = 27,830 sq km
+valueAsString = 27830
+valueAsDouble = 27830.000000
+CountryName, keyword, value = by, "Area", 27830.0
+valueAsString = 25,680 sq km
+valueAsString = 25680
+valueAsDouble = 25680.000000
+CountryName, keyword, value = by, "Area", 25680.0
+valueAsString = 2,150 sq km
+valueAsString = 2150
+valueAsDouble = 2150.000000
+CountryName, keyword, value = by, "Area", 2150.0
+valueAsString = 16.8 years
+valueAsString = 16.8
+valueAsDouble = 16.800000
+CountryName, keyword, value = by, "Median age", 16.8
+valueAsString = 17.2 years (2016 est.)
+valueAsString = 17.2
+valueAsDouble = 17.200000
+CountryName, keyword, value = by, "Median age", 17.2
+valueAsString = 41.7 births/1,000 population (2016 est.)
+valueAsString = 41.7
+valueAsDouble = 41.700000
+CountryName, keyword, value = by, "Birth rate", 41.7
+valueAsString = 9 deaths/1,000 population (2016 est.)
+valueAsString = 9
+valueAsDouble = 9.000000
+CountryName, keyword, value = by, "Death rate", 9.0
+valueAsString = 83.1% (2015 est.)
+valueAsString = 83.1
+valueAsDouble = 83.100000
+CountryName, keyword, value = by, "Literacy", 83.1
+valueAsString = 7 (2013)
+valueAsString = 7
+valueAsDouble = 7.000000
+CountryName, keyword, value = by, "Airports", 7.0
+Population Tree
+bn
+by
+null
+null
+null
+AreaTotal Tree
+by
+bn
+null
+null
+null
+AreaLand Tree
+by
+bn
+null
+null
+null
+AreaWater Tree
+bn
+by
+null
+null
+null
+
+File no 3 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/cd.json
+-------------------------------------
+
+valueAsString = 11,852,462 (July 2016 est.)
+valueAsString = 11852462
+valueAsDouble = 11852462.000000
+CountryName, keyword, value = cd, "Population", 1.1852462E7
+valueAsString = 1.284 million sq km
+valueAsString = 1.284
+valueAsDouble = 1.284000
+CountryName, keyword, value = cd, "Area", 1.284
+valueAsString = 1,259,200 sq km
+valueAsString = 1259200
+valueAsDouble = 1259200.000000
+CountryName, keyword, value = cd, "Area", 1259200.0
+valueAsString = 24,800 sq km
+valueAsString = 24800
+valueAsDouble = 24800.000000
+CountryName, keyword, value = cd, "Area", 24800.0
+valueAsString = 16.6 years
+valueAsString = 16.6
+valueAsDouble = 16.600000
+CountryName, keyword, value = cd, "Median age", 16.6
+valueAsString = 18.6 years (2016 est.)
+valueAsString = 18.6
+valueAsDouble = 18.600000
+CountryName, keyword, value = cd, "Median age", 18.6
+valueAsString = 36.1 births/1,000 population (2016 est.)
+valueAsString = 36.1
+valueAsDouble = 36.100000
+CountryName, keyword, value = cd, "Birth rate", 36.1
+valueAsString = 14 deaths/1,000 population (2016 est.)
+valueAsString = 14
+valueAsDouble = 14.000000
+CountryName, keyword, value = cd, "Death rate", 14.0
+valueAsString = 31.9% (2015 est.)
+valueAsString = 31.9
+valueAsDouble = 31.900000
+CountryName, keyword, value = cd, "Literacy", 31.9
+valueAsString = 59 (2013)
+valueAsString = 59
+valueAsDouble = 59.000000
+CountryName, keyword, value = cd, "Airports", 59.0
+Population Tree
+bn
+by
+cd
+null
+null
+AreaTotal Tree
+cd
+by
+bn
+null
+null
+AreaLand Tree
+by
+bn
+cd
+null
+null
+AreaWater Tree
+bn
+by
+cd
+null
+null
+
+File no 4 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/eg.json
+-------------------------------------
+
+valueAsString = 94,666,993 (July 2016 est.)
+valueAsString = 94666993
+valueAsDouble = 94666993.000000
+CountryName, keyword, value = eg, "Population", 9.4666993E7
+valueAsString = 1,001,450 sq km
+valueAsString = 1001450
+valueAsDouble = 1001450.000000
+CountryName, keyword, value = eg, "Area", 1001450.0
+valueAsString = 995,450 sq km
+valueAsString = 995450
+valueAsDouble = 995450.000000
+CountryName, keyword, value = eg, "Area", 995450.0
+valueAsString = 6,000 sq km
+valueAsString = 6000
+valueAsDouble = 6000.000000
+CountryName, keyword, value = eg, "Area", 6000.0
+valueAsString = 23.5 years
+valueAsString = 23.5
+valueAsDouble = 23.500000
+CountryName, keyword, value = eg, "Median age", 23.5
+valueAsString = 24.1 years (2016 est.)
+valueAsString = 24.1
+valueAsDouble = 24.100000
+CountryName, keyword, value = eg, "Median age", 24.1
+valueAsString = 30.3 births/1,000 population (2016 est.)
+valueAsString = 30.3
+valueAsDouble = 30.300000
+CountryName, keyword, value = eg, "Birth rate", 30.3
+valueAsString = 4.7 deaths/1,000 population (2016 est.)
+valueAsString = 4.7
+valueAsDouble = 4.700000
+CountryName, keyword, value = eg, "Death rate", 4.7
+valueAsString = 65.4% (2015 est.)
+valueAsString = 65.4
+valueAsDouble = 65.400000
+CountryName, keyword, value = eg, "Literacy", 65.4
+valueAsString = 83 (2013)
+valueAsString = 83
+valueAsDouble = 83.000000
+CountryName, keyword, value = eg, "Airports", 83.0
+Population Tree
+bn
+by
+cd
+eg
+null
+AreaTotal Tree
+cd
+by
+bn
+eg
+null
+AreaLand Tree
+by
+bn
+eg
+cd
+null
+AreaWater Tree
+bn
+by
+eg
+cd
+null
+
+File no 5 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/et.json
+-------------------------------------
+
+valueAsString = 102,374,044
+valueAsString = 102374044
+valueAsDouble = 102374044.000000
+CountryName, keyword, value = et, "Population", 1.02374044E8
+valueAsString = 1,104,300 sq km
+valueAsString = 1104300
+valueAsDouble = 1104300.000000
+CountryName, keyword, value = et, "Area", 1104300.0
+valueAsString = 1 million sq km
+valueAsString = 1
+valueAsDouble = 1.000000
+CountryName, keyword, value = et, "Area", 1.0
+valueAsString = 104,300 sq km
+valueAsString = 104300
+valueAsDouble = 104300.000000
+CountryName, keyword, value = et, "Area", 104300.0
+valueAsString = 17.6 years
+valueAsString = 17.6
+valueAsDouble = 17.600000
+CountryName, keyword, value = et, "Median age", 17.6
+valueAsString = 18 years (2016 est.)
+valueAsString = 18
+valueAsDouble = 18.000000
+CountryName, keyword, value = et, "Median age", 18.0
+valueAsString = 36.9 births/1,000 population (2016 est.)
+valueAsString = 36.9
+valueAsDouble = 36.900000
+CountryName, keyword, value = et, "Birth rate", 36.9
+valueAsString = 7.9 deaths/1,000 population (2016 est.)
+valueAsString = 7.9
+valueAsDouble = 7.900000
+CountryName, keyword, value = et, "Death rate", 7.9
+valueAsString = 41.1% (2015 est.)
+valueAsString = 41.1
+valueAsDouble = 41.100000
+CountryName, keyword, value = et, "Literacy", 41.1
+valueAsString = 57 (2013)
+valueAsString = 57
+valueAsDouble = 57.000000
+CountryName, keyword, value = et, "Airports", 57.0
+Population Tree
+bn
+by
+cd
+eg
+et
+AreaTotal Tree
+cd
+by
+bn
+eg
+et
+AreaLand Tree
+et
+by
+bn
+eg
+cd
+AreaWater Tree
+bn
+by
+eg
+cd
+et
+
+File no 6 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/gh.json
+-------------------------------------
+
+valueAsString = 26,908,262
+valueAsString = 26908262
+valueAsDouble = 26908262.000000
+CountryName, keyword, value = gh, "Population", 2.6908262E7
+valueAsString = 238,533 sq km
+valueAsString = 238533
+valueAsDouble = 238533.000000
+CountryName, keyword, value = gh, "Area", 238533.0
+valueAsString = 227,533 sq km
+valueAsString = 227533
+valueAsDouble = 227533.000000
+CountryName, keyword, value = gh, "Area", 227533.0
+valueAsString = 11,000 sq km
+valueAsString = 11000
+valueAsDouble = 11000.000000
+CountryName, keyword, value = gh, "Area", 11000.0
+valueAsString = 20.5 years
+valueAsString = 20.5
+valueAsDouble = 20.500000
+CountryName, keyword, value = gh, "Median age", 20.5
+valueAsString = 21.5 years (2016 est.)
+valueAsString = 21.5
+valueAsDouble = 21.500000
+CountryName, keyword, value = gh, "Median age", 21.5
+valueAsString = 30.8 births/1,000 population (2016 est.)
+valueAsString = 30.8
+valueAsDouble = 30.800000
+CountryName, keyword, value = gh, "Birth rate", 30.8
+valueAsString = 7.1 deaths/1,000 population (2016 est.)
+valueAsString = 7.1
+valueAsDouble = 7.100000
+CountryName, keyword, value = gh, "Death rate", 7.1
+valueAsString = 71.4% (2015 est.)
+valueAsString = 71.4
+valueAsDouble = 71.400000
+CountryName, keyword, value = gh, "Literacy", 71.4
+valueAsString = 10 (2013)
+valueAsString = 10
+valueAsDouble = 10.000000
+CountryName, keyword, value = gh, "Airports", 10.0
+Population Tree
+bn
+by
+cd
+gh
+eg
+AreaTotal Tree
+cd
+by
+bn
+gh
+eg
+AreaLand Tree
+et
+by
+bn
+gh
+eg
+AreaWater Tree
+bn
+by
+eg
+gh
+cd
+
+File no 7 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/gv.json
+-------------------------------------
+
+valueAsString = 12,093,349 (July 2016 est.)
+valueAsString = 12093349
+valueAsDouble = 12093349.000000
+CountryName, keyword, value = gv, "Population", 1.2093349E7
+valueAsString = 245,857 sq km
+valueAsString = 245857
+valueAsDouble = 245857.000000
+CountryName, keyword, value = gv, "Area", 245857.0
+valueAsString = 245,717 sq km
+valueAsString = 245717
+valueAsDouble = 245717.000000
+CountryName, keyword, value = gv, "Area", 245717.0
+valueAsString = 140 sq km
+valueAsString = 140
+valueAsDouble = 140.000000
+CountryName, keyword, value = gv, "Area", 140.0
+valueAsString = 18.6 years
+valueAsString = 18.6
+valueAsDouble = 18.600000
+CountryName, keyword, value = gv, "Median age", 18.6
+valueAsString = 19.1 years (2016 est.)
+valueAsString = 19.1
+valueAsDouble = 19.100000
+CountryName, keyword, value = gv, "Median age", 19.1
+valueAsString = 35.4 births/1,000 population (2016 est.)
+valueAsString = 35.4
+valueAsDouble = 35.400000
+CountryName, keyword, value = gv, "Birth rate", 35.4
+valueAsString = 9.2 deaths/1,000 population (2016 est.)
+valueAsString = 9.2
+valueAsDouble = 9.200000
+CountryName, keyword, value = gv, "Death rate", 9.2
+valueAsString = 22.8% (2015 est.)
+valueAsString = 22.8
+valueAsDouble = 22.800000
+CountryName, keyword, value = gv, "Literacy", 22.8
+valueAsString = 16 (2013)
+valueAsString = 16
+valueAsDouble = 16.000000
+CountryName, keyword, value = gv, "Airports", 16.0
+Population Tree
+bn
+by
+cd
+gv
+gh
+AreaTotal Tree
+cd
+by
+bn
+gh
+gv
+AreaLand Tree
+et
+by
+bn
+gh
+gv
+AreaWater Tree
+gv
+bn
+by
+eg
+gh
+
+File no 8 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/iv.json
+-------------------------------------
+
+valueAsString = 23,740,424
+valueAsString = 23740424
+valueAsDouble = 23740424.000000
+CountryName, keyword, value = iv, "Population", 2.3740424E7
+valueAsString = 322,463 sq km
+valueAsString = 322463
+valueAsDouble = 322463.000000
+CountryName, keyword, value = iv, "Area", 322463.0
+valueAsString = 318,003 sq km
+valueAsString = 318003
+valueAsDouble = 318003.000000
+CountryName, keyword, value = iv, "Area", 318003.0
+valueAsString = 4,460 sq km
+valueAsString = 4460
+valueAsDouble = 4460.000000
+CountryName, keyword, value = iv, "Area", 4460.0
+valueAsString = 20.8 years
+valueAsString = 20.8
+valueAsDouble = 20.800000
+CountryName, keyword, value = iv, "Median age", 20.8
+valueAsString = 20.6 years (2016 est.)
+valueAsString = 20.6
+valueAsDouble = 20.600000
+CountryName, keyword, value = iv, "Median age", 20.6
+valueAsString = 28.2 births/1,000 population (2016 est.)
+valueAsString = 28.2
+valueAsDouble = 28.200000
+CountryName, keyword, value = iv, "Birth rate", 28.2
+valueAsString = 9.5 deaths/1,000 population (2016 est.)
+valueAsString = 9.5
+valueAsDouble = 9.500000
+CountryName, keyword, value = iv, "Death rate", 9.5
+valueAsString = 32.5% (2015 est.)
+valueAsString = 32.5
+valueAsDouble = 32.500000
+CountryName, keyword, value = iv, "Literacy", 32.5
+valueAsString = 27 (2013)
+valueAsString = 27
+valueAsDouble = 27.000000
+CountryName, keyword, value = iv, "Airports", 27.0
+Population Tree
+bn
+by
+cd
+gv
+iv
+AreaTotal Tree
+cd
+by
+bn
+gh
+gv
+AreaLand Tree
+et
+by
+bn
+gh
+gv
+AreaWater Tree
+gv
+bn
+by
+iv
+eg
+
+File no 9 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/mi.json
+-------------------------------------
+
+valueAsString = 18,570,321
+valueAsString = 18570321
+valueAsDouble = 18570321.000000
+CountryName, keyword, value = mi, "Population", 1.8570321E7
+valueAsString = 118,484 sq km
+valueAsString = 118484
+valueAsDouble = 118484.000000
+CountryName, keyword, value = mi, "Area", 118484.0
+valueAsString = 94,080 sq km
+valueAsString = 94080
+valueAsDouble = 94080.000000
+CountryName, keyword, value = mi, "Area", 94080.0
+valueAsString = 24,404 sq km
+valueAsString = 24404
+valueAsDouble = 24404.000000
+CountryName, keyword, value = mi, "Area", 24404.0
+valueAsString = 16.3 years
+valueAsString = 16.3
+valueAsDouble = 16.300000
+CountryName, keyword, value = mi, "Median age", 16.3
+valueAsString = 16.6 years (2016 est.)
+valueAsString = 16.6
+valueAsDouble = 16.600000
+CountryName, keyword, value = mi, "Median age", 16.6
+valueAsString = 41.3 births/1,000 population (2016 est.)
+valueAsString = 41.3
+valueAsDouble = 41.300000
+CountryName, keyword, value = mi, "Birth rate", 41.3
+valueAsString = 8.1 deaths/1,000 population (2016 est.)
+valueAsString = 8.1
+valueAsDouble = 8.100000
+CountryName, keyword, value = mi, "Death rate", 8.1
+valueAsString = 58.6% (2015 est.)
+valueAsString = 58.6
+valueAsDouble = 58.600000
+CountryName, keyword, value = mi, "Literacy", 58.6
+valueAsString = 32 (2013)
+valueAsString = 32
+valueAsDouble = 32.000000
+CountryName, keyword, value = mi, "Airports", 32.0
+Population Tree
+bn
+by
+cd
+gv
+mi
+AreaTotal Tree
+cd
+by
+bn
+mi
+gh
+AreaLand Tree
+et
+by
+mi
+bn
+gh
+AreaWater Tree
+gv
+bn
+by
+iv
+eg
+
+File no 10 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/ml.json
+-------------------------------------
+
+valueAsString = 17,467,108 (July 2016 est.)
+valueAsString = 17467108
+valueAsDouble = 17467108.000000
+CountryName, keyword, value = ml, "Population", 1.7467108E7
+valueAsString = 1,240,192 sq km
+valueAsString = 1240192
+valueAsDouble = 1240192.000000
+CountryName, keyword, value = ml, "Area", 1240192.0
+valueAsString = 1,220,190 sq km
+valueAsString = 1220190
+valueAsDouble = 1220190.000000
+CountryName, keyword, value = ml, "Area", 1220190.0
+valueAsString = 20,002 sq km
+valueAsString = 20002
+valueAsDouble = 20002.000000
+CountryName, keyword, value = ml, "Area", 20002.0
+valueAsString = 15.5 years
+valueAsString = 15.5
+valueAsDouble = 15.500000
+CountryName, keyword, value = ml, "Median age", 15.5
+valueAsString = 16.8 years (2016 est.)
+valueAsString = 16.8
+valueAsDouble = 16.800000
+CountryName, keyword, value = ml, "Median age", 16.8
+valueAsString = 44.4 births/1,000 population (2016 est.)
+valueAsString = 44.4
+valueAsDouble = 44.400000
+CountryName, keyword, value = ml, "Birth rate", 44.4
+valueAsString = 12.6 deaths/1,000 population (2016 est.)
+valueAsString = 12.6
+valueAsDouble = 12.600000
+CountryName, keyword, value = ml, "Death rate", 12.6
+valueAsString = 29.2% (2015 est.)
+valueAsString = 29.2
+valueAsDouble = 29.200000
+CountryName, keyword, value = ml, "Literacy", 29.2
+valueAsString = 25 (2013)
+valueAsString = 25
+valueAsDouble = 25.000000
+CountryName, keyword, value = ml, "Airports", 25.0
+Population Tree
+bn
+by
+cd
+gv
+ml
+AreaTotal Tree
+cd
+by
+bn
+mi
+gh
+AreaLand Tree
+et
+by
+mi
+bn
+gh
+AreaWater Tree
+gv
+bn
+by
+iv
+eg
+
+File no 11 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/mo.json
+-------------------------------------
+
+valueAsString = 33,655,786 (July 2016 est.)
+valueAsString = 33655786
+valueAsDouble = 33655786.000000
+CountryName, keyword, value = mo, "Population", 3.3655786E7
+valueAsString = 446,550 sq km
+valueAsString = 446550
+valueAsDouble = 446550.000000
+CountryName, keyword, value = mo, "Area", 446550.0
+valueAsString = 446,300 sq km
+valueAsString = 446300
+valueAsDouble = 446300.000000
+CountryName, keyword, value = mo, "Area", 446300.0
+valueAsString = 250 sq km
+valueAsString = 250
+valueAsDouble = 250.000000
+CountryName, keyword, value = mo, "Area", 250.0
+valueAsString = 28.3 years
+valueAsString = 28.3
+valueAsDouble = 28.300000
+CountryName, keyword, value = mo, "Median age", 28.3
+valueAsString = 29.5 years (2016 est.)
+valueAsString = 29.5
+valueAsDouble = 29.500000
+CountryName, keyword, value = mo, "Median age", 29.5
+valueAsString = 18 births/1,000 population (2016 est.)
+valueAsString = 18
+valueAsDouble = 18.000000
+CountryName, keyword, value = mo, "Birth rate", 18.0
+valueAsString = 4.8 deaths/1,000 population (2016 est.)
+valueAsString = 4.8
+valueAsDouble = 4.800000
+CountryName, keyword, value = mo, "Death rate", 4.8
+valueAsString = 58.8% (2015 est.)
+valueAsString = 58.8
+valueAsDouble = 58.800000
+CountryName, keyword, value = mo, "Literacy", 58.8
+valueAsString = 55 (2013)
+valueAsString = 55
+valueAsDouble = 55.000000
+CountryName, keyword, value = mo, "Airports", 55.0
+Population Tree
+bn
+by
+cd
+gv
+ml
+AreaTotal Tree
+cd
+by
+bn
+mi
+gh
+AreaLand Tree
+et
+by
+mi
+bn
+gh
+AreaWater Tree
+gv
+mo
+bn
+by
+iv
+
+File no 12 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/mz.json
+-------------------------------------
+
+valueAsString = 25,930,150
+valueAsString = 25930150
+valueAsDouble = 25930150.000000
+CountryName, keyword, value = mz, "Population", 2.593015E7
+valueAsString = 799,380 sq km
+valueAsString = 799380
+valueAsDouble = 799380.000000
+CountryName, keyword, value = mz, "Area", 799380.0
+valueAsString = 786,380 sq km
+valueAsString = 786380
+valueAsDouble = 786380.000000
+CountryName, keyword, value = mz, "Area", 786380.0
+valueAsString = 13,000 sq km
+valueAsString = 13000
+valueAsDouble = 13000.000000
+CountryName, keyword, value = mz, "Area", 13000.0
+valueAsString = 16.5 years
+valueAsString = 16.5
+valueAsDouble = 16.500000
+CountryName, keyword, value = mz, "Median age", 16.5
+valueAsString = 17.7 years (2016 est.)
+valueAsString = 17.7
+valueAsDouble = 17.700000
+CountryName, keyword, value = mz, "Median age", 17.7
+valueAsString = 38.3 births/1,000 population (2016 est.)
+valueAsString = 38.3
+valueAsDouble = 38.300000
+CountryName, keyword, value = mz, "Birth rate", 38.3
+valueAsString = 11.9 deaths/1,000 population (2016 est.)
+valueAsString = 11.9
+valueAsDouble = 11.900000
+CountryName, keyword, value = mz, "Death rate", 11.9
+valueAsString = 45.4% (2015 est.)
+valueAsString = 45.4
+valueAsDouble = 45.400000
+CountryName, keyword, value = mz, "Literacy", 45.4
+valueAsString = 98 (2013)
+valueAsString = 98
+valueAsDouble = 98.000000
+CountryName, keyword, value = mz, "Airports", 98.0
+Population Tree
+bn
+by
+cd
+gv
+ml
+AreaTotal Tree
+cd
+by
+bn
+mi
+gh
+AreaLand Tree
+et
+by
+mi
+bn
+gh
+AreaWater Tree
+gv
+mo
+bn
+by
+iv
+
+File no 13 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/sf.json
+-------------------------------------
+
+valueAsString = 54,300,704
+valueAsString = 54300704
+valueAsDouble = 54300704.000000
+CountryName, keyword, value = sf, "Population", 5.4300704E7
+valueAsString = 1,219,090 sq km
+valueAsString = 1219090
+valueAsDouble = 1219090.000000
+CountryName, keyword, value = sf, "Area", 1219090.0
+valueAsString = 1,214,470 sq km
+valueAsString = 1214470
+valueAsDouble = 1214470.000000
+CountryName, keyword, value = sf, "Area", 1214470.0
+valueAsString = 4,620 sq km
+valueAsString = 4620
+valueAsDouble = 4620.000000
+CountryName, keyword, value = sf, "Area", 4620.0
+valueAsString = 26.5 years
+valueAsString = 26.5
+valueAsDouble = 26.500000
+CountryName, keyword, value = sf, "Median age", 26.5
+valueAsString = 27 years (2016 est.)
+valueAsString = 27
+valueAsDouble = 27.000000
+CountryName, keyword, value = sf, "Median age", 27.0
+valueAsString = 20.5 births/1,000 population (2016 est.)
+valueAsString = 20.5
+valueAsDouble = 20.500000
+CountryName, keyword, value = sf, "Birth rate", 20.5
+valueAsString = 9.6 deaths/1,000 population (2016 est.)
+valueAsString = 9.6
+valueAsDouble = 9.600000
+CountryName, keyword, value = sf, "Death rate", 9.6
+valueAsString = 93.1% (2015 est.)
+valueAsString = 93.1
+valueAsDouble = 93.100000
+CountryName, keyword, value = sf, "Literacy", 93.1
+valueAsString = 566 (2013)
+valueAsString = 566
+valueAsDouble = 566.000000
+CountryName, keyword, value = sf, "Airports", 566.0
+Population Tree
+bn
+by
+cd
+gv
+ml
+AreaTotal Tree
+cd
+by
+bn
+mi
+gh
+AreaLand Tree
+et
+by
+mi
+bn
+gh
+AreaWater Tree
+gv
+mo
+bn
+by
+iv
+
+File no 14 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/sg.json
+-------------------------------------
+
+valueAsString = 14,320,055 (July 2016 est.)
+valueAsString = 14320055
+valueAsDouble = 14320055.000000
+CountryName, keyword, value = sg, "Population", 1.4320055E7
+valueAsString = 196,722 sq km
+valueAsString = 196722
+valueAsDouble = 196722.000000
+CountryName, keyword, value = sg, "Area", 196722.0
+valueAsString = 192,530 sq km
+valueAsString = 192530
+valueAsDouble = 192530.000000
+CountryName, keyword, value = sg, "Area", 192530.0
+valueAsString = 4,192 sq km
+valueAsString = 4192
+valueAsDouble = 4192.000000
+CountryName, keyword, value = sg, "Area", 4192.0
+valueAsString = 17.8 years
+valueAsString = 17.8
+valueAsDouble = 17.800000
+CountryName, keyword, value = sg, "Median age", 17.8
+valueAsString = 19.6 years (2016 est.)
+valueAsString = 19.6
+valueAsDouble = 19.600000
+CountryName, keyword, value = sg, "Median age", 19.6
+valueAsString = 34 births/1,000 population (2016 est.)
+valueAsString = 34
+valueAsDouble = 34.000000
+CountryName, keyword, value = sg, "Birth rate", 34.0
+valueAsString = 8.3 deaths/1,000 population (2016 est.)
+valueAsString = 8.3
+valueAsDouble = 8.300000
+CountryName, keyword, value = sg, "Death rate", 8.3
+valueAsString = 46.6% (2015 est.)
+valueAsString = 46.6
+valueAsDouble = 46.600000
+CountryName, keyword, value = sg, "Literacy", 46.6
+valueAsString = 20 (2013)
+valueAsString = 20
+valueAsDouble = 20.000000
+CountryName, keyword, value = sg, "Airports", 20.0
+Population Tree
+bn
+by
+cd
+gv
+sg
+AreaTotal Tree
+cd
+by
+bn
+mi
+sg
+AreaLand Tree
+et
+by
+mi
+bn
+sg
+AreaWater Tree
+gv
+mo
+bn
+by
+sg
+
+File no 15 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/ug.json
+-------------------------------------
+
+valueAsString = 38,319,241
+valueAsString = 38319241
+valueAsDouble = 38319241.000000
+CountryName, keyword, value = ug, "Population", 3.8319241E7
+valueAsString = 241,038 sq km
+valueAsString = 241038
+valueAsDouble = 241038.000000
+CountryName, keyword, value = ug, "Area", 241038.0
+valueAsString = 197,100 sq km
+valueAsString = 197100
+valueAsDouble = 197100.000000
+CountryName, keyword, value = ug, "Area", 197100.0
+valueAsString = 43,938 sq km
+valueAsString = 43938
+valueAsDouble = 43938.000000
+CountryName, keyword, value = ug, "Area", 43938.0
+valueAsString = 15.6 years
+valueAsString = 15.6
+valueAsDouble = 15.600000
+CountryName, keyword, value = ug, "Median age", 15.6
+valueAsString = 15.8 years (2016 est.)
+valueAsString = 15.8
+valueAsDouble = 15.800000
+CountryName, keyword, value = ug, "Median age", 15.8
+valueAsString = 43.4 births/1,000 population (2016 est.)
+valueAsString = 43.4
+valueAsDouble = 43.400000
+CountryName, keyword, value = ug, "Birth rate", 43.4
+valueAsString = 10.4 deaths/1,000 population (2016 est.)
+valueAsString = 10.4
+valueAsDouble = 10.400000
+CountryName, keyword, value = ug, "Death rate", 10.4
+valueAsString = 71.5% (2015 est.)
+valueAsString = 71.5
+valueAsDouble = 71.500000
+CountryName, keyword, value = ug, "Literacy", 71.5
+valueAsString = 47 (2013)
+valueAsString = 47
+valueAsDouble = 47.000000
+CountryName, keyword, value = ug, "Airports", 47.0
+Population Tree
+bn
+by
+cd
+gv
+sg
+AreaTotal Tree
+cd
+by
+bn
+mi
+sg
+AreaLand Tree
+et
+by
+mi
+bn
+sg
+AreaWater Tree
+gv
+mo
+bn
+by
+sg
+
+File no 16 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/uv.json
+-------------------------------------
+
+valueAsString = 19,512,533
+valueAsString = 19512533
+valueAsDouble = 19512533.000000
+CountryName, keyword, value = uv, "Population", 1.9512533E7
+valueAsString = 274,200 sq km
+valueAsString = 274200
+valueAsDouble = 274200.000000
+CountryName, keyword, value = uv, "Area", 274200.0
+valueAsString = 273,800 sq km
+valueAsString = 273800
+valueAsDouble = 273800.000000
+CountryName, keyword, value = uv, "Area", 273800.0
+valueAsString = 400 sq km
+valueAsString = 400
+valueAsDouble = 400.000000
+CountryName, keyword, value = uv, "Area", 400.0
+valueAsString = 17 years
+valueAsString = 17
+valueAsDouble = 17.000000
+CountryName, keyword, value = uv, "Median age", 17.0
+valueAsString = 17.3 years (2016 est.)
+valueAsString = 17.3
+valueAsDouble = 17.300000
+CountryName, keyword, value = uv, "Median age", 17.3
+valueAsString = 41.6 births/1,000 population (2016 est.)
+valueAsString = 41.6
+valueAsDouble = 41.600000
+CountryName, keyword, value = uv, "Birth rate", 41.6
+valueAsString = 11.5 deaths/1,000 population (2016 est.)
+valueAsString = 11.5
+valueAsDouble = 11.500000
+CountryName, keyword, value = uv, "Death rate", 11.5
+valueAsString = 29.3% (2015 est.)
+valueAsString = 29.3
+valueAsDouble = 29.300000
+CountryName, keyword, value = uv, "Literacy", 29.3
+valueAsString = 23 (2013)
+valueAsString = 23
+valueAsDouble = 23.000000
+CountryName, keyword, value = uv, "Airports", 23.0
+Population Tree
+bn
+by
+cd
+gv
+sg
+AreaTotal Tree
+cd
+by
+bn
+mi
+sg
+AreaLand Tree
+et
+by
+mi
+bn
+sg
+AreaWater Tree
+gv
+mo
+uv
+bn
+by
+
+File no 1 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/bn.json
+-------------------------------------
+
+valueAsString = 10,741,458
+valueAsString = 10741458
+valueAsDouble = 10741458.000000
+CountryName, keyword, value = bn, "Population", 1.0741458E7
+valueAsString = 112,622 sq km
+valueAsString = 112622
+valueAsDouble = 112622.000000
+CountryName, keyword, value = bn, "Area", 112622.0
+valueAsString = 110,622 sq km
+valueAsString = 110622
+valueAsDouble = 110622.000000
+CountryName, keyword, value = bn, "Area", 110622.0
+valueAsString = 2,000 sq km
+valueAsString = 2000
+valueAsDouble = 2000.000000
+CountryName, keyword, value = bn, "Area", 2000.0
+valueAsString = 17.7 years
+valueAsString = 17.7
+valueAsDouble = 17.700000
+CountryName, keyword, value = bn, "Median age", 17.7
+valueAsString = 18.4 years (2016 est.)
+valueAsString = 18.4
+valueAsDouble = 18.400000
+CountryName, keyword, value = bn, "Median age", 18.4
+valueAsString = 35.5 births/1,000 population (2016 est.)
+valueAsString = 35.5
+valueAsDouble = 35.500000
+CountryName, keyword, value = bn, "Birth rate", 35.5
+valueAsString = 8 deaths/1,000 population (2016 est.)
+valueAsString = 8
+valueAsDouble = 8.000000
+CountryName, keyword, value = bn, "Death rate", 8.0
+valueAsString = 27.3% (2015 est.)
+valueAsString = 27.3
+valueAsDouble = 27.300000
+CountryName, keyword, value = bn, "Literacy", 27.3
+valueAsString = 6 (2013)
+valueAsString = 6
+valueAsDouble = 6.000000
+CountryName, keyword, value = bn, "Airports", 6.0
+Population Tree
+bn
+null
+null
+null
+null
+AreaTotal Tree
+bn
+null
+null
+null
+null
+AreaLand Tree
+bn
+null
+null
+null
+null
+AreaWater Tree
+bn
+null
+null
+null
+null
+
+File no 2 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/by.json
+-------------------------------------
+
+valueAsString = 11,099,298
+valueAsString = 11099298
+valueAsDouble = 11099298.000000
+CountryName, keyword, value = by, "Population", 1.1099298E7
+valueAsString = 27,830 sq km
+valueAsString = 27830
+valueAsDouble = 27830.000000
+CountryName, keyword, value = by, "Area", 27830.0
+valueAsString = 25,680 sq km
+valueAsString = 25680
+valueAsDouble = 25680.000000
+CountryName, keyword, value = by, "Area", 25680.0
+valueAsString = 2,150 sq km
+valueAsString = 2150
+valueAsDouble = 2150.000000
+CountryName, keyword, value = by, "Area", 2150.0
+valueAsString = 16.8 years
+valueAsString = 16.8
+valueAsDouble = 16.800000
+CountryName, keyword, value = by, "Median age", 16.8
+valueAsString = 17.2 years (2016 est.)
+valueAsString = 17.2
+valueAsDouble = 17.200000
+CountryName, keyword, value = by, "Median age", 17.2
+valueAsString = 41.7 births/1,000 population (2016 est.)
+valueAsString = 41.7
+valueAsDouble = 41.700000
+CountryName, keyword, value = by, "Birth rate", 41.7
+valueAsString = 9 deaths/1,000 population (2016 est.)
+valueAsString = 9
+valueAsDouble = 9.000000
+CountryName, keyword, value = by, "Death rate", 9.0
+valueAsString = 83.1% (2015 est.)
+valueAsString = 83.1
+valueAsDouble = 83.100000
+CountryName, keyword, value = by, "Literacy", 83.1
+valueAsString = 7 (2013)
+valueAsString = 7
+valueAsDouble = 7.000000
+CountryName, keyword, value = by, "Airports", 7.0
+Population Tree
+bn
+by
+null
+null
+null
+AreaTotal Tree
+by
+bn
+null
+null
+null
+AreaLand Tree
+by
+bn
+null
+null
+null
+AreaWater Tree
+bn
+by
+null
+null
+null
+
+File no 3 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/cd.json
+-------------------------------------
+
+valueAsString = 11,852,462 (July 2016 est.)
+valueAsString = 11852462
+valueAsDouble = 11852462.000000
+CountryName, keyword, value = cd, "Population", 1.1852462E7
+valueAsString = 1.284 million sq km
+valueAsString = 1.284
+valueAsDouble = 1.284000
+CountryName, keyword, value = cd, "Area", 1.284
+valueAsString = 1,259,200 sq km
+valueAsString = 1259200
+valueAsDouble = 1259200.000000
+CountryName, keyword, value = cd, "Area", 1259200.0
+valueAsString = 24,800 sq km
+valueAsString = 24800
+valueAsDouble = 24800.000000
+CountryName, keyword, value = cd, "Area", 24800.0
+valueAsString = 16.6 years
+valueAsString = 16.6
+valueAsDouble = 16.600000
+CountryName, keyword, value = cd, "Median age", 16.6
+valueAsString = 18.6 years (2016 est.)
+valueAsString = 18.6
+valueAsDouble = 18.600000
+CountryName, keyword, value = cd, "Median age", 18.6
+valueAsString = 36.1 births/1,000 population (2016 est.)
+valueAsString = 36.1
+valueAsDouble = 36.100000
+CountryName, keyword, value = cd, "Birth rate", 36.1
+valueAsString = 14 deaths/1,000 population (2016 est.)
+valueAsString = 14
+valueAsDouble = 14.000000
+CountryName, keyword, value = cd, "Death rate", 14.0
+valueAsString = 31.9% (2015 est.)
+valueAsString = 31.9
+valueAsDouble = 31.900000
+CountryName, keyword, value = cd, "Literacy", 31.9
+valueAsString = 59 (2013)
+valueAsString = 59
+valueAsDouble = 59.000000
+CountryName, keyword, value = cd, "Airports", 59.0
+Population Tree
+bn
+by
+cd
+null
+null
+AreaTotal Tree
+cd
+by
+bn
+null
+null
+AreaLand Tree
+by
+bn
+cd
+null
+null
+AreaWater Tree
+bn
+by
+cd
+null
+null
+
+File no 4 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/eg.json
+-------------------------------------
+
+valueAsString = 94,666,993 (July 2016 est.)
+valueAsString = 94666993
+valueAsDouble = 94666993.000000
+CountryName, keyword, value = eg, "Population", 9.4666993E7
+valueAsString = 1,001,450 sq km
+valueAsString = 1001450
+valueAsDouble = 1001450.000000
+CountryName, keyword, value = eg, "Area", 1001450.0
+valueAsString = 995,450 sq km
+valueAsString = 995450
+valueAsDouble = 995450.000000
+CountryName, keyword, value = eg, "Area", 995450.0
+valueAsString = 6,000 sq km
+valueAsString = 6000
+valueAsDouble = 6000.000000
+CountryName, keyword, value = eg, "Area", 6000.0
+valueAsString = 23.5 years
+valueAsString = 23.5
+valueAsDouble = 23.500000
+CountryName, keyword, value = eg, "Median age", 23.5
+valueAsString = 24.1 years (2016 est.)
+valueAsString = 24.1
+valueAsDouble = 24.100000
+CountryName, keyword, value = eg, "Median age", 24.1
+valueAsString = 30.3 births/1,000 population (2016 est.)
+valueAsString = 30.3
+valueAsDouble = 30.300000
+CountryName, keyword, value = eg, "Birth rate", 30.3
+valueAsString = 4.7 deaths/1,000 population (2016 est.)
+valueAsString = 4.7
+valueAsDouble = 4.700000
+CountryName, keyword, value = eg, "Death rate", 4.7
+valueAsString = 65.4% (2015 est.)
+valueAsString = 65.4
+valueAsDouble = 65.400000
+CountryName, keyword, value = eg, "Literacy", 65.4
+valueAsString = 83 (2013)
+valueAsString = 83
+valueAsDouble = 83.000000
+CountryName, keyword, value = eg, "Airports", 83.0
+Population Tree
+bn
+by
+cd
+eg
+null
+AreaTotal Tree
+cd
+by
+bn
+eg
+null
+AreaLand Tree
+by
+bn
+eg
+cd
+null
+AreaWater Tree
+bn
+by
+eg
+cd
+null
+
+File no 5 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/et.json
+-------------------------------------
+
+valueAsString = 102,374,044
+valueAsString = 102374044
+valueAsDouble = 102374044.000000
+CountryName, keyword, value = et, "Population", 1.02374044E8
+valueAsString = 1,104,300 sq km
+valueAsString = 1104300
+valueAsDouble = 1104300.000000
+CountryName, keyword, value = et, "Area", 1104300.0
+valueAsString = 1 million sq km
+valueAsString = 1
+valueAsDouble = 1.000000
+CountryName, keyword, value = et, "Area", 1.0
+valueAsString = 104,300 sq km
+valueAsString = 104300
+valueAsDouble = 104300.000000
+CountryName, keyword, value = et, "Area", 104300.0
+valueAsString = 17.6 years
+valueAsString = 17.6
+valueAsDouble = 17.600000
+CountryName, keyword, value = et, "Median age", 17.6
+valueAsString = 18 years (2016 est.)
+valueAsString = 18
+valueAsDouble = 18.000000
+CountryName, keyword, value = et, "Median age", 18.0
+valueAsString = 36.9 births/1,000 population (2016 est.)
+valueAsString = 36.9
+valueAsDouble = 36.900000
+CountryName, keyword, value = et, "Birth rate", 36.9
+valueAsString = 7.9 deaths/1,000 population (2016 est.)
+valueAsString = 7.9
+valueAsDouble = 7.900000
+CountryName, keyword, value = et, "Death rate", 7.9
+valueAsString = 41.1% (2015 est.)
+valueAsString = 41.1
+valueAsDouble = 41.100000
+CountryName, keyword, value = et, "Literacy", 41.1
+valueAsString = 57 (2013)
+valueAsString = 57
+valueAsDouble = 57.000000
+CountryName, keyword, value = et, "Airports", 57.0
+Population Tree
+bn
+by
+cd
+eg
+et
+AreaTotal Tree
+cd
+by
+bn
+eg
+et
+AreaLand Tree
+et
+by
+bn
+eg
+cd
+AreaWater Tree
+bn
+by
+eg
+cd
+et
+
+File no 6 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/gh.json
+-------------------------------------
+
+valueAsString = 26,908,262
+valueAsString = 26908262
+valueAsDouble = 26908262.000000
+CountryName, keyword, value = gh, "Population", 2.6908262E7
+valueAsString = 238,533 sq km
+valueAsString = 238533
+valueAsDouble = 238533.000000
+CountryName, keyword, value = gh, "Area", 238533.0
+valueAsString = 227,533 sq km
+valueAsString = 227533
+valueAsDouble = 227533.000000
+CountryName, keyword, value = gh, "Area", 227533.0
+valueAsString = 11,000 sq km
+valueAsString = 11000
+valueAsDouble = 11000.000000
+CountryName, keyword, value = gh, "Area", 11000.0
+valueAsString = 20.5 years
+valueAsString = 20.5
+valueAsDouble = 20.500000
+CountryName, keyword, value = gh, "Median age", 20.5
+valueAsString = 21.5 years (2016 est.)
+valueAsString = 21.5
+valueAsDouble = 21.500000
+CountryName, keyword, value = gh, "Median age", 21.5
+valueAsString = 30.8 births/1,000 population (2016 est.)
+valueAsString = 30.8
+valueAsDouble = 30.800000
+CountryName, keyword, value = gh, "Birth rate", 30.8
+valueAsString = 7.1 deaths/1,000 population (2016 est.)
+valueAsString = 7.1
+valueAsDouble = 7.100000
+CountryName, keyword, value = gh, "Death rate", 7.1
+valueAsString = 71.4% (2015 est.)
+valueAsString = 71.4
+valueAsDouble = 71.400000
+CountryName, keyword, value = gh, "Literacy", 71.4
+valueAsString = 10 (2013)
+valueAsString = 10
+valueAsDouble = 10.000000
+CountryName, keyword, value = gh, "Airports", 10.0
+Population Tree
+bn
+by
+cd
+gh
+eg
+AreaTotal Tree
+cd
+by
+bn
+gh
+eg
+AreaLand Tree
+et
+by
+bn
+gh
+eg
+AreaWater Tree
+bn
+by
+eg
+gh
+cd
+
+File no 7 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/gv.json
+-------------------------------------
+
+valueAsString = 12,093,349 (July 2016 est.)
+valueAsString = 12093349
+valueAsDouble = 12093349.000000
+CountryName, keyword, value = gv, "Population", 1.2093349E7
+valueAsString = 245,857 sq km
+valueAsString = 245857
+valueAsDouble = 245857.000000
+CountryName, keyword, value = gv, "Area", 245857.0
+valueAsString = 245,717 sq km
+valueAsString = 245717
+valueAsDouble = 245717.000000
+CountryName, keyword, value = gv, "Area", 245717.0
+valueAsString = 140 sq km
+valueAsString = 140
+valueAsDouble = 140.000000
+CountryName, keyword, value = gv, "Area", 140.0
+valueAsString = 18.6 years
+valueAsString = 18.6
+valueAsDouble = 18.600000
+CountryName, keyword, value = gv, "Median age", 18.6
+valueAsString = 19.1 years (2016 est.)
+valueAsString = 19.1
+valueAsDouble = 19.100000
+CountryName, keyword, value = gv, "Median age", 19.1
+valueAsString = 35.4 births/1,000 population (2016 est.)
+valueAsString = 35.4
+valueAsDouble = 35.400000
+CountryName, keyword, value = gv, "Birth rate", 35.4
+valueAsString = 9.2 deaths/1,000 population (2016 est.)
+valueAsString = 9.2
+valueAsDouble = 9.200000
+CountryName, keyword, value = gv, "Death rate", 9.2
+valueAsString = 22.8% (2015 est.)
+valueAsString = 22.8
+valueAsDouble = 22.800000
+CountryName, keyword, value = gv, "Literacy", 22.8
+valueAsString = 16 (2013)
+valueAsString = 16
+valueAsDouble = 16.000000
+CountryName, keyword, value = gv, "Airports", 16.0
+Population Tree
+bn
+by
+cd
+gv
+gh
+AreaTotal Tree
+cd
+by
+bn
+gh
+gv
+AreaLand Tree
+et
+by
+bn
+gh
+gv
+AreaWater Tree
+gv
+bn
+by
+eg
+gh
+
+File no 8 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/iv.json
+-------------------------------------
+
+valueAsString = 23,740,424
+valueAsString = 23740424
+valueAsDouble = 23740424.000000
+CountryName, keyword, value = iv, "Population", 2.3740424E7
+valueAsString = 322,463 sq km
+valueAsString = 322463
+valueAsDouble = 322463.000000
+CountryName, keyword, value = iv, "Area", 322463.0
+valueAsString = 318,003 sq km
+valueAsString = 318003
+valueAsDouble = 318003.000000
+CountryName, keyword, value = iv, "Area", 318003.0
+valueAsString = 4,460 sq km
+valueAsString = 4460
+valueAsDouble = 4460.000000
+CountryName, keyword, value = iv, "Area", 4460.0
+valueAsString = 20.8 years
+valueAsString = 20.8
+valueAsDouble = 20.800000
+CountryName, keyword, value = iv, "Median age", 20.8
+valueAsString = 20.6 years (2016 est.)
+valueAsString = 20.6
+valueAsDouble = 20.600000
+CountryName, keyword, value = iv, "Median age", 20.6
+valueAsString = 28.2 births/1,000 population (2016 est.)
+valueAsString = 28.2
+valueAsDouble = 28.200000
+CountryName, keyword, value = iv, "Birth rate", 28.2
+valueAsString = 9.5 deaths/1,000 population (2016 est.)
+valueAsString = 9.5
+valueAsDouble = 9.500000
+CountryName, keyword, value = iv, "Death rate", 9.5
+valueAsString = 32.5% (2015 est.)
+valueAsString = 32.5
+valueAsDouble = 32.500000
+CountryName, keyword, value = iv, "Literacy", 32.5
+valueAsString = 27 (2013)
+valueAsString = 27
+valueAsDouble = 27.000000
+CountryName, keyword, value = iv, "Airports", 27.0
+Population Tree
+bn
+by
+cd
+gv
+iv
+AreaTotal Tree
+cd
+by
+bn
+gh
+gv
+AreaLand Tree
+et
+by
+bn
+gh
+gv
+AreaWater Tree
+gv
+bn
+by
+iv
+eg
+
+File no 9 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/mi.json
+-------------------------------------
+
+valueAsString = 18,570,321
+valueAsString = 18570321
+valueAsDouble = 18570321.000000
+CountryName, keyword, value = mi, "Population", 1.8570321E7
+valueAsString = 118,484 sq km
+valueAsString = 118484
+valueAsDouble = 118484.000000
+CountryName, keyword, value = mi, "Area", 118484.0
+valueAsString = 94,080 sq km
+valueAsString = 94080
+valueAsDouble = 94080.000000
+CountryName, keyword, value = mi, "Area", 94080.0
+valueAsString = 24,404 sq km
+valueAsString = 24404
+valueAsDouble = 24404.000000
+CountryName, keyword, value = mi, "Area", 24404.0
+valueAsString = 16.3 years
+valueAsString = 16.3
+valueAsDouble = 16.300000
+CountryName, keyword, value = mi, "Median age", 16.3
+valueAsString = 16.6 years (2016 est.)
+valueAsString = 16.6
+valueAsDouble = 16.600000
+CountryName, keyword, value = mi, "Median age", 16.6
+valueAsString = 41.3 births/1,000 population (2016 est.)
+valueAsString = 41.3
+valueAsDouble = 41.300000
+CountryName, keyword, value = mi, "Birth rate", 41.3
+valueAsString = 8.1 deaths/1,000 population (2016 est.)
+valueAsString = 8.1
+valueAsDouble = 8.100000
+CountryName, keyword, value = mi, "Death rate", 8.1
+valueAsString = 58.6% (2015 est.)
+valueAsString = 58.6
+valueAsDouble = 58.600000
+CountryName, keyword, value = mi, "Literacy", 58.6
+valueAsString = 32 (2013)
+valueAsString = 32
+valueAsDouble = 32.000000
+CountryName, keyword, value = mi, "Airports", 32.0
+Population Tree
+bn
+by
+cd
+gv
+mi
+AreaTotal Tree
+cd
+by
+bn
+mi
+gh
+AreaLand Tree
+et
+by
+mi
+bn
+gh
+AreaWater Tree
+gv
+bn
+by
+iv
+eg
+
+File no 10 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/ml.json
+-------------------------------------
+
+valueAsString = 17,467,108 (July 2016 est.)
+valueAsString = 17467108
+valueAsDouble = 17467108.000000
+CountryName, keyword, value = ml, "Population", 1.7467108E7
+valueAsString = 1,240,192 sq km
+valueAsString = 1240192
+valueAsDouble = 1240192.000000
+CountryName, keyword, value = ml, "Area", 1240192.0
+valueAsString = 1,220,190 sq km
+valueAsString = 1220190
+valueAsDouble = 1220190.000000
+CountryName, keyword, value = ml, "Area", 1220190.0
+valueAsString = 20,002 sq km
+valueAsString = 20002
+valueAsDouble = 20002.000000
+CountryName, keyword, value = ml, "Area", 20002.0
+valueAsString = 15.5 years
+valueAsString = 15.5
+valueAsDouble = 15.500000
+CountryName, keyword, value = ml, "Median age", 15.5
+valueAsString = 16.8 years (2016 est.)
+valueAsString = 16.8
+valueAsDouble = 16.800000
+CountryName, keyword, value = ml, "Median age", 16.8
+valueAsString = 44.4 births/1,000 population (2016 est.)
+valueAsString = 44.4
+valueAsDouble = 44.400000
+CountryName, keyword, value = ml, "Birth rate", 44.4
+valueAsString = 12.6 deaths/1,000 population (2016 est.)
+valueAsString = 12.6
+valueAsDouble = 12.600000
+CountryName, keyword, value = ml, "Death rate", 12.6
+valueAsString = 29.2% (2015 est.)
+valueAsString = 29.2
+valueAsDouble = 29.200000
+CountryName, keyword, value = ml, "Literacy", 29.2
+valueAsString = 25 (2013)
+valueAsString = 25
+valueAsDouble = 25.000000
+CountryName, keyword, value = ml, "Airports", 25.0
+Population Tree
+bn
+by
+cd
+gv
+ml
+AreaTotal Tree
+cd
+by
+bn
+mi
+gh
+AreaLand Tree
+et
+by
+mi
+bn
+gh
+AreaWater Tree
+gv
+bn
+by
+iv
+eg
+
+File no 11 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/mo.json
+-------------------------------------
+
+valueAsString = 33,655,786 (July 2016 est.)
+valueAsString = 33655786
+valueAsDouble = 33655786.000000
+CountryName, keyword, value = mo, "Population", 3.3655786E7
+valueAsString = 446,550 sq km
+valueAsString = 446550
+valueAsDouble = 446550.000000
+CountryName, keyword, value = mo, "Area", 446550.0
+valueAsString = 446,300 sq km
+valueAsString = 446300
+valueAsDouble = 446300.000000
+CountryName, keyword, value = mo, "Area", 446300.0
+valueAsString = 250 sq km
+valueAsString = 250
+valueAsDouble = 250.000000
+CountryName, keyword, value = mo, "Area", 250.0
+valueAsString = 28.3 years
+valueAsString = 28.3
+valueAsDouble = 28.300000
+CountryName, keyword, value = mo, "Median age", 28.3
+valueAsString = 29.5 years (2016 est.)
+valueAsString = 29.5
+valueAsDouble = 29.500000
+CountryName, keyword, value = mo, "Median age", 29.5
+valueAsString = 18 births/1,000 population (2016 est.)
+valueAsString = 18
+valueAsDouble = 18.000000
+CountryName, keyword, value = mo, "Birth rate", 18.0
+valueAsString = 4.8 deaths/1,000 population (2016 est.)
+valueAsString = 4.8
+valueAsDouble = 4.800000
+CountryName, keyword, value = mo, "Death rate", 4.8
+valueAsString = 58.8% (2015 est.)
+valueAsString = 58.8
+valueAsDouble = 58.800000
+CountryName, keyword, value = mo, "Literacy", 58.8
+valueAsString = 55 (2013)
+valueAsString = 55
+valueAsDouble = 55.000000
+CountryName, keyword, value = mo, "Airports", 55.0
+Population Tree
+bn
+by
+cd
+gv
+ml
+AreaTotal Tree
+cd
+by
+bn
+mi
+gh
+AreaLand Tree
+et
+by
+mi
+bn
+gh
+AreaWater Tree
+gv
+mo
+bn
+by
+iv
+
+File no 12 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/mz.json
+-------------------------------------
+
+valueAsString = 25,930,150
+valueAsString = 25930150
+valueAsDouble = 25930150.000000
+CountryName, keyword, value = mz, "Population", 2.593015E7
+valueAsString = 799,380 sq km
+valueAsString = 799380
+valueAsDouble = 799380.000000
+CountryName, keyword, value = mz, "Area", 799380.0
+valueAsString = 786,380 sq km
+valueAsString = 786380
+valueAsDouble = 786380.000000
+CountryName, keyword, value = mz, "Area", 786380.0
+valueAsString = 13,000 sq km
+valueAsString = 13000
+valueAsDouble = 13000.000000
+CountryName, keyword, value = mz, "Area", 13000.0
+valueAsString = 16.5 years
+valueAsString = 16.5
+valueAsDouble = 16.500000
+CountryName, keyword, value = mz, "Median age", 16.5
+valueAsString = 17.7 years (2016 est.)
+valueAsString = 17.7
+valueAsDouble = 17.700000
+CountryName, keyword, value = mz, "Median age", 17.7
+valueAsString = 38.3 births/1,000 population (2016 est.)
+valueAsString = 38.3
+valueAsDouble = 38.300000
+CountryName, keyword, value = mz, "Birth rate", 38.3
+valueAsString = 11.9 deaths/1,000 population (2016 est.)
+valueAsString = 11.9
+valueAsDouble = 11.900000
+CountryName, keyword, value = mz, "Death rate", 11.9
+valueAsString = 45.4% (2015 est.)
+valueAsString = 45.4
+valueAsDouble = 45.400000
+CountryName, keyword, value = mz, "Literacy", 45.4
+valueAsString = 98 (2013)
+valueAsString = 98
+valueAsDouble = 98.000000
+CountryName, keyword, value = mz, "Airports", 98.0
+Population Tree
+bn
+by
+cd
+gv
+ml
+AreaTotal Tree
+cd
+by
+bn
+mi
+gh
+AreaLand Tree
+et
+by
+mi
+bn
+gh
+AreaWater Tree
+gv
+mo
+bn
+by
+iv
+
+File no 13 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/sf.json
+-------------------------------------
+
+valueAsString = 54,300,704
+valueAsString = 54300704
+valueAsDouble = 54300704.000000
+CountryName, keyword, value = sf, "Population", 5.4300704E7
+valueAsString = 1,219,090 sq km
+valueAsString = 1219090
+valueAsDouble = 1219090.000000
+CountryName, keyword, value = sf, "Area", 1219090.0
+valueAsString = 1,214,470 sq km
+valueAsString = 1214470
+valueAsDouble = 1214470.000000
+CountryName, keyword, value = sf, "Area", 1214470.0
+valueAsString = 4,620 sq km
+valueAsString = 4620
+valueAsDouble = 4620.000000
+CountryName, keyword, value = sf, "Area", 4620.0
+valueAsString = 26.5 years
+valueAsString = 26.5
+valueAsDouble = 26.500000
+CountryName, keyword, value = sf, "Median age", 26.5
+valueAsString = 27 years (2016 est.)
+valueAsString = 27
+valueAsDouble = 27.000000
+CountryName, keyword, value = sf, "Median age", 27.0
+valueAsString = 20.5 births/1,000 population (2016 est.)
+valueAsString = 20.5
+valueAsDouble = 20.500000
+CountryName, keyword, value = sf, "Birth rate", 20.5
+valueAsString = 9.6 deaths/1,000 population (2016 est.)
+valueAsString = 9.6
+valueAsDouble = 9.600000
+CountryName, keyword, value = sf, "Death rate", 9.6
+valueAsString = 93.1% (2015 est.)
+valueAsString = 93.1
+valueAsDouble = 93.100000
+CountryName, keyword, value = sf, "Literacy", 93.1
+valueAsString = 566 (2013)
+valueAsString = 566
+valueAsDouble = 566.000000
+CountryName, keyword, value = sf, "Airports", 566.0
+Population Tree
+bn
+by
+cd
+gv
+ml
+AreaTotal Tree
+cd
+by
+bn
+mi
+gh
+AreaLand Tree
+et
+by
+mi
+bn
+gh
+AreaWater Tree
+gv
+mo
+bn
+by
+iv
+
+File no 14 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/sg.json
+-------------------------------------
+
+valueAsString = 14,320,055 (July 2016 est.)
+valueAsString = 14320055
+valueAsDouble = 14320055.000000
+CountryName, keyword, value = sg, "Population", 1.4320055E7
+valueAsString = 196,722 sq km
+valueAsString = 196722
+valueAsDouble = 196722.000000
+CountryName, keyword, value = sg, "Area", 196722.0
+valueAsString = 192,530 sq km
+valueAsString = 192530
+valueAsDouble = 192530.000000
+CountryName, keyword, value = sg, "Area", 192530.0
+valueAsString = 4,192 sq km
+valueAsString = 4192
+valueAsDouble = 4192.000000
+CountryName, keyword, value = sg, "Area", 4192.0
+valueAsString = 17.8 years
+valueAsString = 17.8
+valueAsDouble = 17.800000
+CountryName, keyword, value = sg, "Median age", 17.8
+valueAsString = 19.6 years (2016 est.)
+valueAsString = 19.6
+valueAsDouble = 19.600000
+CountryName, keyword, value = sg, "Median age", 19.6
+valueAsString = 34 births/1,000 population (2016 est.)
+valueAsString = 34
+valueAsDouble = 34.000000
+CountryName, keyword, value = sg, "Birth rate", 34.0
+valueAsString = 8.3 deaths/1,000 population (2016 est.)
+valueAsString = 8.3
+valueAsDouble = 8.300000
+CountryName, keyword, value = sg, "Death rate", 8.3
+valueAsString = 46.6% (2015 est.)
+valueAsString = 46.6
+valueAsDouble = 46.600000
+CountryName, keyword, value = sg, "Literacy", 46.6
+valueAsString = 20 (2013)
+valueAsString = 20
+valueAsDouble = 20.000000
+CountryName, keyword, value = sg, "Airports", 20.0
+Population Tree
+bn
+by
+cd
+gv
+sg
+AreaTotal Tree
+cd
+by
+bn
+mi
+sg
+AreaLand Tree
+et
+by
+mi
+bn
+sg
+AreaWater Tree
+gv
+mo
+bn
+by
+sg
+
+File no 15 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/ug.json
+-------------------------------------
+
+valueAsString = 38,319,241
+valueAsString = 38319241
+valueAsDouble = 38319241.000000
+CountryName, keyword, value = ug, "Population", 3.8319241E7
+valueAsString = 241,038 sq km
+valueAsString = 241038
+valueAsDouble = 241038.000000
+CountryName, keyword, value = ug, "Area", 241038.0
+valueAsString = 197,100 sq km
+valueAsString = 197100
+valueAsDouble = 197100.000000
+CountryName, keyword, value = ug, "Area", 197100.0
+valueAsString = 43,938 sq km
+valueAsString = 43938
+valueAsDouble = 43938.000000
+CountryName, keyword, value = ug, "Area", 43938.0
+valueAsString = 15.6 years
+valueAsString = 15.6
+valueAsDouble = 15.600000
+CountryName, keyword, value = ug, "Median age", 15.6
+valueAsString = 15.8 years (2016 est.)
+valueAsString = 15.8
+valueAsDouble = 15.800000
+CountryName, keyword, value = ug, "Median age", 15.8
+valueAsString = 43.4 births/1,000 population (2016 est.)
+valueAsString = 43.4
+valueAsDouble = 43.400000
+CountryName, keyword, value = ug, "Birth rate", 43.4
+valueAsString = 10.4 deaths/1,000 population (2016 est.)
+valueAsString = 10.4
+valueAsDouble = 10.400000
+CountryName, keyword, value = ug, "Death rate", 10.4
+valueAsString = 71.5% (2015 est.)
+valueAsString = 71.5
+valueAsDouble = 71.500000
+CountryName, keyword, value = ug, "Literacy", 71.5
+valueAsString = 47 (2013)
+valueAsString = 47
+valueAsDouble = 47.000000
+CountryName, keyword, value = ug, "Airports", 47.0
+Population Tree
+bn
+by
+cd
+gv
+sg
+AreaTotal Tree
+cd
+by
+bn
+mi
+sg
+AreaLand Tree
+et
+by
+mi
+bn
+sg
+AreaWater Tree
+gv
+mo
+bn
+by
+sg
+
+File no 16 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/uv.json
+-------------------------------------
+
+valueAsString = 19,512,533
+valueAsString = 19512533
+valueAsDouble = 19512533.000000
+CountryName, keyword, value = uv, "Population", 1.9512533E7
+valueAsString = 274,200 sq km
+valueAsString = 274200
+valueAsDouble = 274200.000000
+CountryName, keyword, value = uv, "Area", 274200.0
+valueAsString = 273,800 sq km
+valueAsString = 273800
+valueAsDouble = 273800.000000
+CountryName, keyword, value = uv, "Area", 273800.0
+valueAsString = 400 sq km
+valueAsString = 400
+valueAsDouble = 400.000000
+CountryName, keyword, value = uv, "Area", 400.0
+valueAsString = 17 years
+valueAsString = 17
+valueAsDouble = 17.000000
+CountryName, keyword, value = uv, "Median age", 17.0
+valueAsString = 17.3 years (2016 est.)
+valueAsString = 17.3
+valueAsDouble = 17.300000
+CountryName, keyword, value = uv, "Median age", 17.3
+valueAsString = 41.6 births/1,000 population (2016 est.)
+valueAsString = 41.6
+valueAsDouble = 41.600000
+CountryName, keyword, value = uv, "Birth rate", 41.6
+valueAsString = 11.5 deaths/1,000 population (2016 est.)
+valueAsString = 11.5
+valueAsDouble = 11.500000
+CountryName, keyword, value = uv, "Death rate", 11.5
+valueAsString = 29.3% (2015 est.)
+valueAsString = 29.3
+valueAsDouble = 29.300000
+CountryName, keyword, value = uv, "Literacy", 29.3
+valueAsString = 23 (2013)
+valueAsString = 23
+valueAsDouble = 23.000000
+CountryName, keyword, value = uv, "Airports", 23.0
+Population Tree
+bn
+by
+cd
+gv
+sg
+AreaTotal Tree
+cd
+by
+bn
+mi
+sg
+AreaLand Tree
+et
+by
+mi
+bn
+sg
+AreaWater Tree
+gv
+mo
+uv
+bn
+by
+
+File no 1 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/bn.json
+-------------------------------------
+
+valueAsString = 10,741,458
+valueAsString = 10741458
+valueAsDouble = 10741458.000000
+CountryName, keyword, value = bn, "Population", 1.0741458E7
+valueAsString = 112,622 sq km
+valueAsString = 112622
+valueAsDouble = 112622.000000
+CountryName, keyword, value = bn, "Area", 112622.0
+valueAsString = 110,622 sq km
+valueAsString = 110622
+valueAsDouble = 110622.000000
+CountryName, keyword, value = bn, "Area", 110622.0
+valueAsString = 2,000 sq km
+valueAsString = 2000
+valueAsDouble = 2000.000000
+CountryName, keyword, value = bn, "Area", 2000.0
+valueAsString = 17.7 years
+valueAsString = 17.7
+valueAsDouble = 17.700000
+CountryName, keyword, value = bn, "Median age", 17.7
+valueAsString = 18.4 years (2016 est.)
+valueAsString = 18.4
+valueAsDouble = 18.400000
+CountryName, keyword, value = bn, "Median age", 18.4
+valueAsString = 35.5 births/1,000 population (2016 est.)
+valueAsString = 35.5
+valueAsDouble = 35.500000
+CountryName, keyword, value = bn, "Birth rate", 35.5
+valueAsString = 8 deaths/1,000 population (2016 est.)
+valueAsString = 8
+valueAsDouble = 8.000000
+CountryName, keyword, value = bn, "Death rate", 8.0
+valueAsString = 27.3% (2015 est.)
+valueAsString = 27.3
+valueAsDouble = 27.300000
+CountryName, keyword, value = bn, "Literacy", 27.3
+valueAsString = 6 (2013)
+valueAsString = 6
+valueAsDouble = 6.000000
+CountryName, keyword, value = bn, "Airports", 6.0
+Population Tree
+bn
+null
+null
+null
+null
+AreaTotal Tree
+bn
+null
+null
+null
+null
+AreaLand Tree
+bn
+null
+null
+null
+null
+AreaWater Tree
+bn
+null
+null
+null
+null
+
+File no 2 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/by.json
+-------------------------------------
+
+valueAsString = 11,099,298
+valueAsString = 11099298
+valueAsDouble = 11099298.000000
+CountryName, keyword, value = by, "Population", 1.1099298E7
+valueAsString = 27,830 sq km
+valueAsString = 27830
+valueAsDouble = 27830.000000
+CountryName, keyword, value = by, "Area", 27830.0
+valueAsString = 25,680 sq km
+valueAsString = 25680
+valueAsDouble = 25680.000000
+CountryName, keyword, value = by, "Area", 25680.0
+valueAsString = 2,150 sq km
+valueAsString = 2150
+valueAsDouble = 2150.000000
+CountryName, keyword, value = by, "Area", 2150.0
+valueAsString = 16.8 years
+valueAsString = 16.8
+valueAsDouble = 16.800000
+CountryName, keyword, value = by, "Median age", 16.8
+valueAsString = 17.2 years (2016 est.)
+valueAsString = 17.2
+valueAsDouble = 17.200000
+CountryName, keyword, value = by, "Median age", 17.2
+valueAsString = 41.7 births/1,000 population (2016 est.)
+valueAsString = 41.7
+valueAsDouble = 41.700000
+CountryName, keyword, value = by, "Birth rate", 41.7
+valueAsString = 9 deaths/1,000 population (2016 est.)
+valueAsString = 9
+valueAsDouble = 9.000000
+CountryName, keyword, value = by, "Death rate", 9.0
+valueAsString = 83.1% (2015 est.)
+valueAsString = 83.1
+valueAsDouble = 83.100000
+CountryName, keyword, value = by, "Literacy", 83.1
+valueAsString = 7 (2013)
+valueAsString = 7
+valueAsDouble = 7.000000
+CountryName, keyword, value = by, "Airports", 7.0
+Population Tree
+bn
+by
+null
+null
+null
+AreaTotal Tree
+by
+bn
+null
+null
+null
+AreaLand Tree
+by
+bn
+null
+null
+null
+AreaWater Tree
+bn
+by
+null
+null
+null
+
+File no 3 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/cd.json
+-------------------------------------
+
+valueAsString = 11,852,462 (July 2016 est.)
+valueAsString = 11852462
+valueAsDouble = 11852462.000000
+CountryName, keyword, value = cd, "Population", 1.1852462E7
+valueAsString = 1.284 million sq km
+valueAsString = 1.284
+valueAsDouble = 1.284000
+CountryName, keyword, value = cd, "Area", 1.284
+valueAsString = 1,259,200 sq km
+valueAsString = 1259200
+valueAsDouble = 1259200.000000
+CountryName, keyword, value = cd, "Area", 1259200.0
+valueAsString = 24,800 sq km
+valueAsString = 24800
+valueAsDouble = 24800.000000
+CountryName, keyword, value = cd, "Area", 24800.0
+valueAsString = 16.6 years
+valueAsString = 16.6
+valueAsDouble = 16.600000
+CountryName, keyword, value = cd, "Median age", 16.6
+valueAsString = 18.6 years (2016 est.)
+valueAsString = 18.6
+valueAsDouble = 18.600000
+CountryName, keyword, value = cd, "Median age", 18.6
+valueAsString = 36.1 births/1,000 population (2016 est.)
+valueAsString = 36.1
+valueAsDouble = 36.100000
+CountryName, keyword, value = cd, "Birth rate", 36.1
+valueAsString = 14 deaths/1,000 population (2016 est.)
+valueAsString = 14
+valueAsDouble = 14.000000
+CountryName, keyword, value = cd, "Death rate", 14.0
+valueAsString = 31.9% (2015 est.)
+valueAsString = 31.9
+valueAsDouble = 31.900000
+CountryName, keyword, value = cd, "Literacy", 31.9
+valueAsString = 59 (2013)
+valueAsString = 59
+valueAsDouble = 59.000000
+CountryName, keyword, value = cd, "Airports", 59.0
+Population Tree
+bn
+by
+cd
+null
+null
+AreaTotal Tree
+cd
+by
+bn
+null
+null
+AreaLand Tree
+by
+bn
+cd
+null
+null
+AreaWater Tree
+bn
+by
+cd
+null
+null
+
+File no 4 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/eg.json
+-------------------------------------
+
+valueAsString = 94,666,993 (July 2016 est.)
+valueAsString = 94666993
+valueAsDouble = 94666993.000000
+CountryName, keyword, value = eg, "Population", 9.4666993E7
+valueAsString = 1,001,450 sq km
+valueAsString = 1001450
+valueAsDouble = 1001450.000000
+CountryName, keyword, value = eg, "Area", 1001450.0
+valueAsString = 995,450 sq km
+valueAsString = 995450
+valueAsDouble = 995450.000000
+CountryName, keyword, value = eg, "Area", 995450.0
+valueAsString = 6,000 sq km
+valueAsString = 6000
+valueAsDouble = 6000.000000
+CountryName, keyword, value = eg, "Area", 6000.0
+valueAsString = 23.5 years
+valueAsString = 23.5
+valueAsDouble = 23.500000
+CountryName, keyword, value = eg, "Median age", 23.5
+valueAsString = 24.1 years (2016 est.)
+valueAsString = 24.1
+valueAsDouble = 24.100000
+CountryName, keyword, value = eg, "Median age", 24.1
+valueAsString = 30.3 births/1,000 population (2016 est.)
+valueAsString = 30.3
+valueAsDouble = 30.300000
+CountryName, keyword, value = eg, "Birth rate", 30.3
+valueAsString = 4.7 deaths/1,000 population (2016 est.)
+valueAsString = 4.7
+valueAsDouble = 4.700000
+CountryName, keyword, value = eg, "Death rate", 4.7
+valueAsString = 65.4% (2015 est.)
+valueAsString = 65.4
+valueAsDouble = 65.400000
+CountryName, keyword, value = eg, "Literacy", 65.4
+valueAsString = 83 (2013)
+valueAsString = 83
+valueAsDouble = 83.000000
+CountryName, keyword, value = eg, "Airports", 83.0
+Population Tree
+bn
+by
+cd
+eg
+null
+AreaTotal Tree
+cd
+by
+bn
+eg
+null
+AreaLand Tree
+by
+bn
+eg
+cd
+null
+AreaWater Tree
+bn
+by
+eg
+cd
+null
+
+File no 5 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/et.json
+-------------------------------------
+
+valueAsString = 102,374,044
+valueAsString = 102374044
+valueAsDouble = 102374044.000000
+CountryName, keyword, value = et, "Population", 1.02374044E8
+valueAsString = 1,104,300 sq km
+valueAsString = 1104300
+valueAsDouble = 1104300.000000
+CountryName, keyword, value = et, "Area", 1104300.0
+valueAsString = 1 million sq km
+valueAsString = 1
+valueAsDouble = 1.000000
+CountryName, keyword, value = et, "Area", 1.0
+valueAsString = 104,300 sq km
+valueAsString = 104300
+valueAsDouble = 104300.000000
+CountryName, keyword, value = et, "Area", 104300.0
+valueAsString = 17.6 years
+valueAsString = 17.6
+valueAsDouble = 17.600000
+CountryName, keyword, value = et, "Median age", 17.6
+valueAsString = 18 years (2016 est.)
+valueAsString = 18
+valueAsDouble = 18.000000
+CountryName, keyword, value = et, "Median age", 18.0
+valueAsString = 36.9 births/1,000 population (2016 est.)
+valueAsString = 36.9
+valueAsDouble = 36.900000
+CountryName, keyword, value = et, "Birth rate", 36.9
+valueAsString = 7.9 deaths/1,000 population (2016 est.)
+valueAsString = 7.9
+valueAsDouble = 7.900000
+CountryName, keyword, value = et, "Death rate", 7.9
+valueAsString = 41.1% (2015 est.)
+valueAsString = 41.1
+valueAsDouble = 41.100000
+CountryName, keyword, value = et, "Literacy", 41.1
+valueAsString = 57 (2013)
+valueAsString = 57
+valueAsDouble = 57.000000
+CountryName, keyword, value = et, "Airports", 57.0
+Population Tree
+bn
+by
+cd
+eg
+et
+AreaTotal Tree
+cd
+by
+bn
+eg
+et
+AreaLand Tree
+et
+by
+bn
+eg
+cd
+AreaWater Tree
+bn
+by
+eg
+cd
+et
+
+File no 6 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/gh.json
+-------------------------------------
+
+valueAsString = 26,908,262
+valueAsString = 26908262
+valueAsDouble = 26908262.000000
+CountryName, keyword, value = gh, "Population", 2.6908262E7
+valueAsString = 238,533 sq km
+valueAsString = 238533
+valueAsDouble = 238533.000000
+CountryName, keyword, value = gh, "Area", 238533.0
+valueAsString = 227,533 sq km
+valueAsString = 227533
+valueAsDouble = 227533.000000
+CountryName, keyword, value = gh, "Area", 227533.0
+valueAsString = 11,000 sq km
+valueAsString = 11000
+valueAsDouble = 11000.000000
+CountryName, keyword, value = gh, "Area", 11000.0
+valueAsString = 20.5 years
+valueAsString = 20.5
+valueAsDouble = 20.500000
+CountryName, keyword, value = gh, "Median age", 20.5
+valueAsString = 21.5 years (2016 est.)
+valueAsString = 21.5
+valueAsDouble = 21.500000
+CountryName, keyword, value = gh, "Median age", 21.5
+valueAsString = 30.8 births/1,000 population (2016 est.)
+valueAsString = 30.8
+valueAsDouble = 30.800000
+CountryName, keyword, value = gh, "Birth rate", 30.8
+valueAsString = 7.1 deaths/1,000 population (2016 est.)
+valueAsString = 7.1
+valueAsDouble = 7.100000
+CountryName, keyword, value = gh, "Death rate", 7.1
+valueAsString = 71.4% (2015 est.)
+valueAsString = 71.4
+valueAsDouble = 71.400000
+CountryName, keyword, value = gh, "Literacy", 71.4
+valueAsString = 10 (2013)
+valueAsString = 10
+valueAsDouble = 10.000000
+CountryName, keyword, value = gh, "Airports", 10.0
+Population Tree
+bn
+by
+cd
+gh
+eg
+AreaTotal Tree
+cd
+by
+bn
+gh
+eg
+AreaLand Tree
+et
+by
+bn
+gh
+eg
+AreaWater Tree
+bn
+by
+eg
+gh
+cd
+
+File no 7 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/gv.json
+-------------------------------------
+
+valueAsString = 12,093,349 (July 2016 est.)
+valueAsString = 12093349
+valueAsDouble = 12093349.000000
+CountryName, keyword, value = gv, "Population", 1.2093349E7
+valueAsString = 245,857 sq km
+valueAsString = 245857
+valueAsDouble = 245857.000000
+CountryName, keyword, value = gv, "Area", 245857.0
+valueAsString = 245,717 sq km
+valueAsString = 245717
+valueAsDouble = 245717.000000
+CountryName, keyword, value = gv, "Area", 245717.0
+valueAsString = 140 sq km
+valueAsString = 140
+valueAsDouble = 140.000000
+CountryName, keyword, value = gv, "Area", 140.0
+valueAsString = 18.6 years
+valueAsString = 18.6
+valueAsDouble = 18.600000
+CountryName, keyword, value = gv, "Median age", 18.6
+valueAsString = 19.1 years (2016 est.)
+valueAsString = 19.1
+valueAsDouble = 19.100000
+CountryName, keyword, value = gv, "Median age", 19.1
+valueAsString = 35.4 births/1,000 population (2016 est.)
+valueAsString = 35.4
+valueAsDouble = 35.400000
+CountryName, keyword, value = gv, "Birth rate", 35.4
+valueAsString = 9.2 deaths/1,000 population (2016 est.)
+valueAsString = 9.2
+valueAsDouble = 9.200000
+CountryName, keyword, value = gv, "Death rate", 9.2
+valueAsString = 22.8% (2015 est.)
+valueAsString = 22.8
+valueAsDouble = 22.800000
+CountryName, keyword, value = gv, "Literacy", 22.8
+valueAsString = 16 (2013)
+valueAsString = 16
+valueAsDouble = 16.000000
+CountryName, keyword, value = gv, "Airports", 16.0
+Population Tree
+bn
+by
+cd
+gv
+gh
+AreaTotal Tree
+cd
+by
+bn
+gh
+gv
+AreaLand Tree
+et
+by
+bn
+gh
+gv
+AreaWater Tree
+gv
+bn
+by
+eg
+gh
+
+File no 8 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/iv.json
+-------------------------------------
+
+valueAsString = 23,740,424
+valueAsString = 23740424
+valueAsDouble = 23740424.000000
+CountryName, keyword, value = iv, "Population", 2.3740424E7
+valueAsString = 322,463 sq km
+valueAsString = 322463
+valueAsDouble = 322463.000000
+CountryName, keyword, value = iv, "Area", 322463.0
+valueAsString = 318,003 sq km
+valueAsString = 318003
+valueAsDouble = 318003.000000
+CountryName, keyword, value = iv, "Area", 318003.0
+valueAsString = 4,460 sq km
+valueAsString = 4460
+valueAsDouble = 4460.000000
+CountryName, keyword, value = iv, "Area", 4460.0
+valueAsString = 20.8 years
+valueAsString = 20.8
+valueAsDouble = 20.800000
+CountryName, keyword, value = iv, "Median age", 20.8
+valueAsString = 20.6 years (2016 est.)
+valueAsString = 20.6
+valueAsDouble = 20.600000
+CountryName, keyword, value = iv, "Median age", 20.6
+valueAsString = 28.2 births/1,000 population (2016 est.)
+valueAsString = 28.2
+valueAsDouble = 28.200000
+CountryName, keyword, value = iv, "Birth rate", 28.2
+valueAsString = 9.5 deaths/1,000 population (2016 est.)
+valueAsString = 9.5
+valueAsDouble = 9.500000
+CountryName, keyword, value = iv, "Death rate", 9.5
+valueAsString = 32.5% (2015 est.)
+valueAsString = 32.5
+valueAsDouble = 32.500000
+CountryName, keyword, value = iv, "Literacy", 32.5
+valueAsString = 27 (2013)
+valueAsString = 27
+valueAsDouble = 27.000000
+CountryName, keyword, value = iv, "Airports", 27.0
+Population Tree
+bn
+by
+cd
+gv
+iv
+AreaTotal Tree
+cd
+by
+bn
+gh
+gv
+AreaLand Tree
+et
+by
+bn
+gh
+gv
+AreaWater Tree
+gv
+bn
+by
+iv
+eg
+
+File no 9 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/mi.json
+-------------------------------------
+
+valueAsString = 18,570,321
+valueAsString = 18570321
+valueAsDouble = 18570321.000000
+CountryName, keyword, value = mi, "Population", 1.8570321E7
+valueAsString = 118,484 sq km
+valueAsString = 118484
+valueAsDouble = 118484.000000
+CountryName, keyword, value = mi, "Area", 118484.0
+valueAsString = 94,080 sq km
+valueAsString = 94080
+valueAsDouble = 94080.000000
+CountryName, keyword, value = mi, "Area", 94080.0
+valueAsString = 24,404 sq km
+valueAsString = 24404
+valueAsDouble = 24404.000000
+CountryName, keyword, value = mi, "Area", 24404.0
+valueAsString = 16.3 years
+valueAsString = 16.3
+valueAsDouble = 16.300000
+CountryName, keyword, value = mi, "Median age", 16.3
+valueAsString = 16.6 years (2016 est.)
+valueAsString = 16.6
+valueAsDouble = 16.600000
+CountryName, keyword, value = mi, "Median age", 16.6
+valueAsString = 41.3 births/1,000 population (2016 est.)
+valueAsString = 41.3
+valueAsDouble = 41.300000
+CountryName, keyword, value = mi, "Birth rate", 41.3
+valueAsString = 8.1 deaths/1,000 population (2016 est.)
+valueAsString = 8.1
+valueAsDouble = 8.100000
+CountryName, keyword, value = mi, "Death rate", 8.1
+valueAsString = 58.6% (2015 est.)
+valueAsString = 58.6
+valueAsDouble = 58.600000
+CountryName, keyword, value = mi, "Literacy", 58.6
+valueAsString = 32 (2013)
+valueAsString = 32
+valueAsDouble = 32.000000
+CountryName, keyword, value = mi, "Airports", 32.0
+Population Tree
+bn
+by
+cd
+gv
+mi
+AreaTotal Tree
+cd
+by
+bn
+mi
+gh
+AreaLand Tree
+et
+by
+mi
+bn
+gh
+AreaWater Tree
+gv
+bn
+by
+iv
+eg
+
+File no 10 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/ml.json
+-------------------------------------
+
+valueAsString = 17,467,108 (July 2016 est.)
+valueAsString = 17467108
+valueAsDouble = 17467108.000000
+CountryName, keyword, value = ml, "Population", 1.7467108E7
+valueAsString = 1,240,192 sq km
+valueAsString = 1240192
+valueAsDouble = 1240192.000000
+CountryName, keyword, value = ml, "Area", 1240192.0
+valueAsString = 1,220,190 sq km
+valueAsString = 1220190
+valueAsDouble = 1220190.000000
+CountryName, keyword, value = ml, "Area", 1220190.0
+valueAsString = 20,002 sq km
+valueAsString = 20002
+valueAsDouble = 20002.000000
+CountryName, keyword, value = ml, "Area", 20002.0
+valueAsString = 15.5 years
+valueAsString = 15.5
+valueAsDouble = 15.500000
+CountryName, keyword, value = ml, "Median age", 15.5
+valueAsString = 16.8 years (2016 est.)
+valueAsString = 16.8
+valueAsDouble = 16.800000
+CountryName, keyword, value = ml, "Median age", 16.8
+valueAsString = 44.4 births/1,000 population (2016 est.)
+valueAsString = 44.4
+valueAsDouble = 44.400000
+CountryName, keyword, value = ml, "Birth rate", 44.4
+valueAsString = 12.6 deaths/1,000 population (2016 est.)
+valueAsString = 12.6
+valueAsDouble = 12.600000
+CountryName, keyword, value = ml, "Death rate", 12.6
+valueAsString = 29.2% (2015 est.)
+valueAsString = 29.2
+valueAsDouble = 29.200000
+CountryName, keyword, value = ml, "Literacy", 29.2
+valueAsString = 25 (2013)
+valueAsString = 25
+valueAsDouble = 25.000000
+CountryName, keyword, value = ml, "Airports", 25.0
+Population Tree
+bn
+by
+cd
+gv
+ml
+AreaTotal Tree
+cd
+by
+bn
+mi
+gh
+AreaLand Tree
+et
+by
+mi
+bn
+gh
+AreaWater Tree
+gv
+bn
+by
+iv
+eg
+
+File no 11 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/mo.json
+-------------------------------------
+
+valueAsString = 33,655,786 (July 2016 est.)
+valueAsString = 33655786
+valueAsDouble = 33655786.000000
+CountryName, keyword, value = mo, "Population", 3.3655786E7
+valueAsString = 446,550 sq km
+valueAsString = 446550
+valueAsDouble = 446550.000000
+CountryName, keyword, value = mo, "Area", 446550.0
+valueAsString = 446,300 sq km
+valueAsString = 446300
+valueAsDouble = 446300.000000
+CountryName, keyword, value = mo, "Area", 446300.0
+valueAsString = 250 sq km
+valueAsString = 250
+valueAsDouble = 250.000000
+CountryName, keyword, value = mo, "Area", 250.0
+valueAsString = 28.3 years
+valueAsString = 28.3
+valueAsDouble = 28.300000
+CountryName, keyword, value = mo, "Median age", 28.3
+valueAsString = 29.5 years (2016 est.)
+valueAsString = 29.5
+valueAsDouble = 29.500000
+CountryName, keyword, value = mo, "Median age", 29.5
+valueAsString = 18 births/1,000 population (2016 est.)
+valueAsString = 18
+valueAsDouble = 18.000000
+CountryName, keyword, value = mo, "Birth rate", 18.0
+valueAsString = 4.8 deaths/1,000 population (2016 est.)
+valueAsString = 4.8
+valueAsDouble = 4.800000
+CountryName, keyword, value = mo, "Death rate", 4.8
+valueAsString = 58.8% (2015 est.)
+valueAsString = 58.8
+valueAsDouble = 58.800000
+CountryName, keyword, value = mo, "Literacy", 58.8
+valueAsString = 55 (2013)
+valueAsString = 55
+valueAsDouble = 55.000000
+CountryName, keyword, value = mo, "Airports", 55.0
+Population Tree
+bn
+by
+cd
+gv
+ml
+AreaTotal Tree
+cd
+by
+bn
+mi
+gh
+AreaLand Tree
+et
+by
+mi
+bn
+gh
+AreaWater Tree
+gv
+mo
+bn
+by
+iv
+
+File no 12 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/mz.json
+-------------------------------------
+
+valueAsString = 25,930,150
+valueAsString = 25930150
+valueAsDouble = 25930150.000000
+CountryName, keyword, value = mz, "Population", 2.593015E7
+valueAsString = 799,380 sq km
+valueAsString = 799380
+valueAsDouble = 799380.000000
+CountryName, keyword, value = mz, "Area", 799380.0
+valueAsString = 786,380 sq km
+valueAsString = 786380
+valueAsDouble = 786380.000000
+CountryName, keyword, value = mz, "Area", 786380.0
+valueAsString = 13,000 sq km
+valueAsString = 13000
+valueAsDouble = 13000.000000
+CountryName, keyword, value = mz, "Area", 13000.0
+valueAsString = 16.5 years
+valueAsString = 16.5
+valueAsDouble = 16.500000
+CountryName, keyword, value = mz, "Median age", 16.5
+valueAsString = 17.7 years (2016 est.)
+valueAsString = 17.7
+valueAsDouble = 17.700000
+CountryName, keyword, value = mz, "Median age", 17.7
+valueAsString = 38.3 births/1,000 population (2016 est.)
+valueAsString = 38.3
+valueAsDouble = 38.300000
+CountryName, keyword, value = mz, "Birth rate", 38.3
+valueAsString = 11.9 deaths/1,000 population (2016 est.)
+valueAsString = 11.9
+valueAsDouble = 11.900000
+CountryName, keyword, value = mz, "Death rate", 11.9
+valueAsString = 45.4% (2015 est.)
+valueAsString = 45.4
+valueAsDouble = 45.400000
+CountryName, keyword, value = mz, "Literacy", 45.4
+valueAsString = 98 (2013)
+valueAsString = 98
+valueAsDouble = 98.000000
+CountryName, keyword, value = mz, "Airports", 98.0
+Population Tree
+bn
+by
+cd
+gv
+ml
+AreaTotal Tree
+cd
+by
+bn
+mi
+gh
+AreaLand Tree
+et
+by
+mi
+bn
+gh
+AreaWater Tree
+gv
+mo
+bn
+by
+iv
+
+File no 13 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/sf.json
+-------------------------------------
+
+valueAsString = 54,300,704
+valueAsString = 54300704
+valueAsDouble = 54300704.000000
+CountryName, keyword, value = sf, "Population", 5.4300704E7
+valueAsString = 1,219,090 sq km
+valueAsString = 1219090
+valueAsDouble = 1219090.000000
+CountryName, keyword, value = sf, "Area", 1219090.0
+valueAsString = 1,214,470 sq km
+valueAsString = 1214470
+valueAsDouble = 1214470.000000
+CountryName, keyword, value = sf, "Area", 1214470.0
+valueAsString = 4,620 sq km
+valueAsString = 4620
+valueAsDouble = 4620.000000
+CountryName, keyword, value = sf, "Area", 4620.0
+valueAsString = 26.5 years
+valueAsString = 26.5
+valueAsDouble = 26.500000
+CountryName, keyword, value = sf, "Median age", 26.5
+valueAsString = 27 years (2016 est.)
+valueAsString = 27
+valueAsDouble = 27.000000
+CountryName, keyword, value = sf, "Median age", 27.0
+valueAsString = 20.5 births/1,000 population (2016 est.)
+valueAsString = 20.5
+valueAsDouble = 20.500000
+CountryName, keyword, value = sf, "Birth rate", 20.5
+valueAsString = 9.6 deaths/1,000 population (2016 est.)
+valueAsString = 9.6
+valueAsDouble = 9.600000
+CountryName, keyword, value = sf, "Death rate", 9.6
+valueAsString = 93.1% (2015 est.)
+valueAsString = 93.1
+valueAsDouble = 93.100000
+CountryName, keyword, value = sf, "Literacy", 93.1
+valueAsString = 566 (2013)
+valueAsString = 566
+valueAsDouble = 566.000000
+CountryName, keyword, value = sf, "Airports", 566.0
+Population Tree
+bn
+by
+cd
+gv
+ml
+AreaTotal Tree
+cd
+by
+bn
+mi
+gh
+AreaLand Tree
+et
+by
+mi
+bn
+gh
+AreaWater Tree
+gv
+mo
+bn
+by
+iv
+
+File no 14 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/sg.json
+-------------------------------------
+
+valueAsString = 14,320,055 (July 2016 est.)
+valueAsString = 14320055
+valueAsDouble = 14320055.000000
+CountryName, keyword, value = sg, "Population", 1.4320055E7
+valueAsString = 196,722 sq km
+valueAsString = 196722
+valueAsDouble = 196722.000000
+CountryName, keyword, value = sg, "Area", 196722.0
+valueAsString = 192,530 sq km
+valueAsString = 192530
+valueAsDouble = 192530.000000
+CountryName, keyword, value = sg, "Area", 192530.0
+valueAsString = 4,192 sq km
+valueAsString = 4192
+valueAsDouble = 4192.000000
+CountryName, keyword, value = sg, "Area", 4192.0
+valueAsString = 17.8 years
+valueAsString = 17.8
+valueAsDouble = 17.800000
+CountryName, keyword, value = sg, "Median age", 17.8
+valueAsString = 19.6 years (2016 est.)
+valueAsString = 19.6
+valueAsDouble = 19.600000
+CountryName, keyword, value = sg, "Median age", 19.6
+valueAsString = 34 births/1,000 population (2016 est.)
+valueAsString = 34
+valueAsDouble = 34.000000
+CountryName, keyword, value = sg, "Birth rate", 34.0
+valueAsString = 8.3 deaths/1,000 population (2016 est.)
+valueAsString = 8.3
+valueAsDouble = 8.300000
+CountryName, keyword, value = sg, "Death rate", 8.3
+valueAsString = 46.6% (2015 est.)
+valueAsString = 46.6
+valueAsDouble = 46.600000
+CountryName, keyword, value = sg, "Literacy", 46.6
+valueAsString = 20 (2013)
+valueAsString = 20
+valueAsDouble = 20.000000
+CountryName, keyword, value = sg, "Airports", 20.0
+Population Tree
+bn
+by
+cd
+gv
+sg
+AreaTotal Tree
+cd
+by
+bn
+mi
+sg
+AreaLand Tree
+et
+by
+mi
+bn
+sg
+AreaWater Tree
+gv
+mo
+bn
+by
+sg
+
+File no 15 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/ug.json
+-------------------------------------
+
+valueAsString = 38,319,241
+valueAsString = 38319241
+valueAsDouble = 38319241.000000
+CountryName, keyword, value = ug, "Population", 3.8319241E7
+valueAsString = 241,038 sq km
+valueAsString = 241038
+valueAsDouble = 241038.000000
+CountryName, keyword, value = ug, "Area", 241038.0
+valueAsString = 197,100 sq km
+valueAsString = 197100
+valueAsDouble = 197100.000000
+CountryName, keyword, value = ug, "Area", 197100.0
+valueAsString = 43,938 sq km
+valueAsString = 43938
+valueAsDouble = 43938.000000
+CountryName, keyword, value = ug, "Area", 43938.0
+valueAsString = 15.6 years
+valueAsString = 15.6
+valueAsDouble = 15.600000
+CountryName, keyword, value = ug, "Median age", 15.6
+valueAsString = 15.8 years (2016 est.)
+valueAsString = 15.8
+valueAsDouble = 15.800000
+CountryName, keyword, value = ug, "Median age", 15.8
+valueAsString = 43.4 births/1,000 population (2016 est.)
+valueAsString = 43.4
+valueAsDouble = 43.400000
+CountryName, keyword, value = ug, "Birth rate", 43.4
+valueAsString = 10.4 deaths/1,000 population (2016 est.)
+valueAsString = 10.4
+valueAsDouble = 10.400000
+CountryName, keyword, value = ug, "Death rate", 10.4
+valueAsString = 71.5% (2015 est.)
+valueAsString = 71.5
+valueAsDouble = 71.500000
+CountryName, keyword, value = ug, "Literacy", 71.5
+valueAsString = 47 (2013)
+valueAsString = 47
+valueAsDouble = 47.000000
+CountryName, keyword, value = ug, "Airports", 47.0
+Population Tree
+bn
+by
+cd
+gv
+sg
+AreaTotal Tree
+cd
+by
+bn
+mi
+sg
+AreaLand Tree
+et
+by
+mi
+bn
+sg
+AreaWater Tree
+gv
+mo
+bn
+by
+sg
+
+File no 16 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/uv.json
+-------------------------------------
+
+valueAsString = 19,512,533
+valueAsString = 19512533
+valueAsDouble = 19512533.000000
+CountryName, keyword, value = uv, "Population", 1.9512533E7
+valueAsString = 274,200 sq km
+valueAsString = 274200
+valueAsDouble = 274200.000000
+CountryName, keyword, value = uv, "Area", 274200.0
+valueAsString = 273,800 sq km
+valueAsString = 273800
+valueAsDouble = 273800.000000
+CountryName, keyword, value = uv, "Area", 273800.0
+valueAsString = 400 sq km
+valueAsString = 400
+valueAsDouble = 400.000000
+CountryName, keyword, value = uv, "Area", 400.0
+valueAsString = 17 years
+valueAsString = 17
+valueAsDouble = 17.000000
+CountryName, keyword, value = uv, "Median age", 17.0
+valueAsString = 17.3 years (2016 est.)
+valueAsString = 17.3
+valueAsDouble = 17.300000
+CountryName, keyword, value = uv, "Median age", 17.3
+valueAsString = 41.6 births/1,000 population (2016 est.)
+valueAsString = 41.6
+valueAsDouble = 41.600000
+CountryName, keyword, value = uv, "Birth rate", 41.6
+valueAsString = 11.5 deaths/1,000 population (2016 est.)
+valueAsString = 11.5
+valueAsDouble = 11.500000
+CountryName, keyword, value = uv, "Death rate", 11.5
+valueAsString = 29.3% (2015 est.)
+valueAsString = 29.3
+valueAsDouble = 29.300000
+CountryName, keyword, value = uv, "Literacy", 29.3
+valueAsString = 23 (2013)
+valueAsString = 23
+valueAsDouble = 23.000000
+CountryName, keyword, value = uv, "Airports", 23.0
+Population Tree
+bn
+by
+cd
+gv
+sg
+AreaTotal Tree
+cd
+by
+bn
+mi
+sg
+AreaLand Tree
+et
+by
+mi
+bn
+sg
+AreaWater Tree
+gv
+mo
+uv
+bn
+by
+
+File no 1 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/bn.json
+-------------------------------------
+
+valueAsString = 10,741,458
+valueAsString = 10741458
+valueAsDouble = 10741458.000000
+CountryName, keyword, value = bn, "Population", 1.0741458E7
+valueAsString = 112,622 sq km
+valueAsString = 112622
+valueAsDouble = 112622.000000
+CountryName, keyword, value = bn, "Area", 112622.0
+valueAsString = 110,622 sq km
+valueAsString = 110622
+valueAsDouble = 110622.000000
+CountryName, keyword, value = bn, "Area", 110622.0
+valueAsString = 2,000 sq km
+valueAsString = 2000
+valueAsDouble = 2000.000000
+CountryName, keyword, value = bn, "Area", 2000.0
+valueAsString = 17.7 years
+valueAsString = 17.7
+valueAsDouble = 17.700000
+CountryName, keyword, value = bn, "Median age", 17.7
+valueAsString = 18.4 years (2016 est.)
+valueAsString = 18.4
+valueAsDouble = 18.400000
+CountryName, keyword, value = bn, "Median age", 18.4
+valueAsString = 35.5 births/1,000 population (2016 est.)
+valueAsString = 35.5
+valueAsDouble = 35.500000
+CountryName, keyword, value = bn, "Birth rate", 35.5
+valueAsString = 8 deaths/1,000 population (2016 est.)
+valueAsString = 8
+valueAsDouble = 8.000000
+CountryName, keyword, value = bn, "Death rate", 8.0
+valueAsString = 27.3% (2015 est.)
+valueAsString = 27.3
+valueAsDouble = 27.300000
+CountryName, keyword, value = bn, "Literacy", 27.3
+valueAsString = 6 (2013)
+valueAsString = 6
+valueAsDouble = 6.000000
+CountryName, keyword, value = bn, "Airports", 6.0
+Population Tree
+bn
+null
+null
+null
+null
+AreaTotal Tree
+bn
+null
+null
+null
+null
+AreaLand Tree
+bn
+null
+null
+null
+null
+AreaWater Tree
+bn
+null
+null
+null
+null
+
+File no 2 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/by.json
+-------------------------------------
+
+valueAsString = 11,099,298
+valueAsString = 11099298
+valueAsDouble = 11099298.000000
+CountryName, keyword, value = by, "Population", 1.1099298E7
+valueAsString = 27,830 sq km
+valueAsString = 27830
+valueAsDouble = 27830.000000
+CountryName, keyword, value = by, "Area", 27830.0
+valueAsString = 25,680 sq km
+valueAsString = 25680
+valueAsDouble = 25680.000000
+CountryName, keyword, value = by, "Area", 25680.0
+valueAsString = 2,150 sq km
+valueAsString = 2150
+valueAsDouble = 2150.000000
+CountryName, keyword, value = by, "Area", 2150.0
+valueAsString = 16.8 years
+valueAsString = 16.8
+valueAsDouble = 16.800000
+CountryName, keyword, value = by, "Median age", 16.8
+valueAsString = 17.2 years (2016 est.)
+valueAsString = 17.2
+valueAsDouble = 17.200000
+CountryName, keyword, value = by, "Median age", 17.2
+valueAsString = 41.7 births/1,000 population (2016 est.)
+valueAsString = 41.7
+valueAsDouble = 41.700000
+CountryName, keyword, value = by, "Birth rate", 41.7
+valueAsString = 9 deaths/1,000 population (2016 est.)
+valueAsString = 9
+valueAsDouble = 9.000000
+CountryName, keyword, value = by, "Death rate", 9.0
+valueAsString = 83.1% (2015 est.)
+valueAsString = 83.1
+valueAsDouble = 83.100000
+CountryName, keyword, value = by, "Literacy", 83.1
+valueAsString = 7 (2013)
+valueAsString = 7
+valueAsDouble = 7.000000
+CountryName, keyword, value = by, "Airports", 7.0
+Population Tree
+bn
+by
+null
+null
+null
+AreaTotal Tree
+by
+bn
+null
+null
+null
+AreaLand Tree
+by
+bn
+null
+null
+null
+AreaWater Tree
+bn
+by
+null
+null
+null
+
+File no 3 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/cd.json
+-------------------------------------
+
+valueAsString = 11,852,462 (July 2016 est.)
+valueAsString = 11852462
+valueAsDouble = 11852462.000000
+CountryName, keyword, value = cd, "Population", 1.1852462E7
+valueAsString = 1.284 million sq km
+valueAsString = 1.284
+valueAsDouble = 1.284000
+CountryName, keyword, value = cd, "Area", 1.284
+valueAsString = 1,259,200 sq km
+valueAsString = 1259200
+valueAsDouble = 1259200.000000
+CountryName, keyword, value = cd, "Area", 1259200.0
+valueAsString = 24,800 sq km
+valueAsString = 24800
+valueAsDouble = 24800.000000
+CountryName, keyword, value = cd, "Area", 24800.0
+valueAsString = 16.6 years
+valueAsString = 16.6
+valueAsDouble = 16.600000
+CountryName, keyword, value = cd, "Median age", 16.6
+valueAsString = 18.6 years (2016 est.)
+valueAsString = 18.6
+valueAsDouble = 18.600000
+CountryName, keyword, value = cd, "Median age", 18.6
+valueAsString = 36.1 births/1,000 population (2016 est.)
+valueAsString = 36.1
+valueAsDouble = 36.100000
+CountryName, keyword, value = cd, "Birth rate", 36.1
+valueAsString = 14 deaths/1,000 population (2016 est.)
+valueAsString = 14
+valueAsDouble = 14.000000
+CountryName, keyword, value = cd, "Death rate", 14.0
+valueAsString = 31.9% (2015 est.)
+valueAsString = 31.9
+valueAsDouble = 31.900000
+CountryName, keyword, value = cd, "Literacy", 31.9
+valueAsString = 59 (2013)
+valueAsString = 59
+valueAsDouble = 59.000000
+CountryName, keyword, value = cd, "Airports", 59.0
+Population Tree
+bn
+by
+cd
+null
+null
+AreaTotal Tree
+cd
+by
+bn
+null
+null
+AreaLand Tree
+by
+bn
+cd
+null
+null
+AreaWater Tree
+bn
+by
+cd
+null
+null
+
+File no 4 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/eg.json
+-------------------------------------
+
+valueAsString = 94,666,993 (July 2016 est.)
+valueAsString = 94666993
+valueAsDouble = 94666993.000000
+CountryName, keyword, value = eg, "Population", 9.4666993E7
+valueAsString = 1,001,450 sq km
+valueAsString = 1001450
+valueAsDouble = 1001450.000000
+CountryName, keyword, value = eg, "Area", 1001450.0
+valueAsString = 995,450 sq km
+valueAsString = 995450
+valueAsDouble = 995450.000000
+CountryName, keyword, value = eg, "Area", 995450.0
+valueAsString = 6,000 sq km
+valueAsString = 6000
+valueAsDouble = 6000.000000
+CountryName, keyword, value = eg, "Area", 6000.0
+valueAsString = 23.5 years
+valueAsString = 23.5
+valueAsDouble = 23.500000
+CountryName, keyword, value = eg, "Median age", 23.5
+valueAsString = 24.1 years (2016 est.)
+valueAsString = 24.1
+valueAsDouble = 24.100000
+CountryName, keyword, value = eg, "Median age", 24.1
+valueAsString = 30.3 births/1,000 population (2016 est.)
+valueAsString = 30.3
+valueAsDouble = 30.300000
+CountryName, keyword, value = eg, "Birth rate", 30.3
+valueAsString = 4.7 deaths/1,000 population (2016 est.)
+valueAsString = 4.7
+valueAsDouble = 4.700000
+CountryName, keyword, value = eg, "Death rate", 4.7
+valueAsString = 65.4% (2015 est.)
+valueAsString = 65.4
+valueAsDouble = 65.400000
+CountryName, keyword, value = eg, "Literacy", 65.4
+valueAsString = 83 (2013)
+valueAsString = 83
+valueAsDouble = 83.000000
+CountryName, keyword, value = eg, "Airports", 83.0
+Population Tree
+bn
+by
+cd
+eg
+null
+AreaTotal Tree
+cd
+by
+bn
+eg
+null
+AreaLand Tree
+by
+bn
+eg
+cd
+null
+AreaWater Tree
+bn
+by
+eg
+cd
+null
+
+File no 5 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/et.json
+-------------------------------------
+
+valueAsString = 102,374,044
+valueAsString = 102374044
+valueAsDouble = 102374044.000000
+CountryName, keyword, value = et, "Population", 1.02374044E8
+valueAsString = 1,104,300 sq km
+valueAsString = 1104300
+valueAsDouble = 1104300.000000
+CountryName, keyword, value = et, "Area", 1104300.0
+valueAsString = 1 million sq km
+valueAsString = 1
+valueAsDouble = 1.000000
+CountryName, keyword, value = et, "Area", 1.0
+valueAsString = 104,300 sq km
+valueAsString = 104300
+valueAsDouble = 104300.000000
+CountryName, keyword, value = et, "Area", 104300.0
+valueAsString = 17.6 years
+valueAsString = 17.6
+valueAsDouble = 17.600000
+CountryName, keyword, value = et, "Median age", 17.6
+valueAsString = 18 years (2016 est.)
+valueAsString = 18
+valueAsDouble = 18.000000
+CountryName, keyword, value = et, "Median age", 18.0
+valueAsString = 36.9 births/1,000 population (2016 est.)
+valueAsString = 36.9
+valueAsDouble = 36.900000
+CountryName, keyword, value = et, "Birth rate", 36.9
+valueAsString = 7.9 deaths/1,000 population (2016 est.)
+valueAsString = 7.9
+valueAsDouble = 7.900000
+CountryName, keyword, value = et, "Death rate", 7.9
+valueAsString = 41.1% (2015 est.)
+valueAsString = 41.1
+valueAsDouble = 41.100000
+CountryName, keyword, value = et, "Literacy", 41.1
+valueAsString = 57 (2013)
+valueAsString = 57
+valueAsDouble = 57.000000
+CountryName, keyword, value = et, "Airports", 57.0
+Population Tree
+bn
+by
+cd
+eg
+et
+AreaTotal Tree
+cd
+by
+bn
+eg
+et
+AreaLand Tree
+et
+by
+bn
+eg
+cd
+AreaWater Tree
+bn
+by
+eg
+cd
+et
+
+File no 6 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/gh.json
+-------------------------------------
+
+valueAsString = 26,908,262
+valueAsString = 26908262
+valueAsDouble = 26908262.000000
+CountryName, keyword, value = gh, "Population", 2.6908262E7
+valueAsString = 238,533 sq km
+valueAsString = 238533
+valueAsDouble = 238533.000000
+CountryName, keyword, value = gh, "Area", 238533.0
+valueAsString = 227,533 sq km
+valueAsString = 227533
+valueAsDouble = 227533.000000
+CountryName, keyword, value = gh, "Area", 227533.0
+valueAsString = 11,000 sq km
+valueAsString = 11000
+valueAsDouble = 11000.000000
+CountryName, keyword, value = gh, "Area", 11000.0
+valueAsString = 20.5 years
+valueAsString = 20.5
+valueAsDouble = 20.500000
+CountryName, keyword, value = gh, "Median age", 20.5
+valueAsString = 21.5 years (2016 est.)
+valueAsString = 21.5
+valueAsDouble = 21.500000
+CountryName, keyword, value = gh, "Median age", 21.5
+valueAsString = 30.8 births/1,000 population (2016 est.)
+valueAsString = 30.8
+valueAsDouble = 30.800000
+CountryName, keyword, value = gh, "Birth rate", 30.8
+valueAsString = 7.1 deaths/1,000 population (2016 est.)
+valueAsString = 7.1
+valueAsDouble = 7.100000
+CountryName, keyword, value = gh, "Death rate", 7.1
+valueAsString = 71.4% (2015 est.)
+valueAsString = 71.4
+valueAsDouble = 71.400000
+CountryName, keyword, value = gh, "Literacy", 71.4
+valueAsString = 10 (2013)
+valueAsString = 10
+valueAsDouble = 10.000000
+CountryName, keyword, value = gh, "Airports", 10.0
+Population Tree
+bn
+by
+cd
+gh
+eg
+AreaTotal Tree
+cd
+by
+bn
+gh
+eg
+AreaLand Tree
+et
+by
+bn
+gh
+eg
+AreaWater Tree
+bn
+by
+eg
+gh
+cd
+
+File no 7 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/gv.json
+-------------------------------------
+
+valueAsString = 12,093,349 (July 2016 est.)
+valueAsString = 12093349
+valueAsDouble = 12093349.000000
+CountryName, keyword, value = gv, "Population", 1.2093349E7
+valueAsString = 245,857 sq km
+valueAsString = 245857
+valueAsDouble = 245857.000000
+CountryName, keyword, value = gv, "Area", 245857.0
+valueAsString = 245,717 sq km
+valueAsString = 245717
+valueAsDouble = 245717.000000
+CountryName, keyword, value = gv, "Area", 245717.0
+valueAsString = 140 sq km
+valueAsString = 140
+valueAsDouble = 140.000000
+CountryName, keyword, value = gv, "Area", 140.0
+valueAsString = 18.6 years
+valueAsString = 18.6
+valueAsDouble = 18.600000
+CountryName, keyword, value = gv, "Median age", 18.6
+valueAsString = 19.1 years (2016 est.)
+valueAsString = 19.1
+valueAsDouble = 19.100000
+CountryName, keyword, value = gv, "Median age", 19.1
+valueAsString = 35.4 births/1,000 population (2016 est.)
+valueAsString = 35.4
+valueAsDouble = 35.400000
+CountryName, keyword, value = gv, "Birth rate", 35.4
+valueAsString = 9.2 deaths/1,000 population (2016 est.)
+valueAsString = 9.2
+valueAsDouble = 9.200000
+CountryName, keyword, value = gv, "Death rate", 9.2
+valueAsString = 22.8% (2015 est.)
+valueAsString = 22.8
+valueAsDouble = 22.800000
+CountryName, keyword, value = gv, "Literacy", 22.8
+valueAsString = 16 (2013)
+valueAsString = 16
+valueAsDouble = 16.000000
+CountryName, keyword, value = gv, "Airports", 16.0
+Population Tree
+bn
+by
+cd
+gv
+gh
+AreaTotal Tree
+cd
+by
+bn
+gh
+gv
+AreaLand Tree
+et
+by
+bn
+gh
+gv
+AreaWater Tree
+gv
+bn
+by
+eg
+gh
+
+File no 8 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/iv.json
+-------------------------------------
+
+valueAsString = 23,740,424
+valueAsString = 23740424
+valueAsDouble = 23740424.000000
+CountryName, keyword, value = iv, "Population", 2.3740424E7
+valueAsString = 322,463 sq km
+valueAsString = 322463
+valueAsDouble = 322463.000000
+CountryName, keyword, value = iv, "Area", 322463.0
+valueAsString = 318,003 sq km
+valueAsString = 318003
+valueAsDouble = 318003.000000
+CountryName, keyword, value = iv, "Area", 318003.0
+valueAsString = 4,460 sq km
+valueAsString = 4460
+valueAsDouble = 4460.000000
+CountryName, keyword, value = iv, "Area", 4460.0
+valueAsString = 20.8 years
+valueAsString = 20.8
+valueAsDouble = 20.800000
+CountryName, keyword, value = iv, "Median age", 20.8
+valueAsString = 20.6 years (2016 est.)
+valueAsString = 20.6
+valueAsDouble = 20.600000
+CountryName, keyword, value = iv, "Median age", 20.6
+valueAsString = 28.2 births/1,000 population (2016 est.)
+valueAsString = 28.2
+valueAsDouble = 28.200000
+CountryName, keyword, value = iv, "Birth rate", 28.2
+valueAsString = 9.5 deaths/1,000 population (2016 est.)
+valueAsString = 9.5
+valueAsDouble = 9.500000
+CountryName, keyword, value = iv, "Death rate", 9.5
+valueAsString = 32.5% (2015 est.)
+valueAsString = 32.5
+valueAsDouble = 32.500000
+CountryName, keyword, value = iv, "Literacy", 32.5
+valueAsString = 27 (2013)
+valueAsString = 27
+valueAsDouble = 27.000000
+CountryName, keyword, value = iv, "Airports", 27.0
+Population Tree
+bn
+by
+cd
+gv
+iv
+AreaTotal Tree
+cd
+by
+bn
+gh
+gv
+AreaLand Tree
+et
+by
+bn
+gh
+gv
+AreaWater Tree
+gv
+bn
+by
+iv
+eg
+
+File no 9 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/mi.json
+-------------------------------------
+
+valueAsString = 18,570,321
+valueAsString = 18570321
+valueAsDouble = 18570321.000000
+CountryName, keyword, value = mi, "Population", 1.8570321E7
+valueAsString = 118,484 sq km
+valueAsString = 118484
+valueAsDouble = 118484.000000
+CountryName, keyword, value = mi, "Area", 118484.0
+valueAsString = 94,080 sq km
+valueAsString = 94080
+valueAsDouble = 94080.000000
+CountryName, keyword, value = mi, "Area", 94080.0
+valueAsString = 24,404 sq km
+valueAsString = 24404
+valueAsDouble = 24404.000000
+CountryName, keyword, value = mi, "Area", 24404.0
+valueAsString = 16.3 years
+valueAsString = 16.3
+valueAsDouble = 16.300000
+CountryName, keyword, value = mi, "Median age", 16.3
+valueAsString = 16.6 years (2016 est.)
+valueAsString = 16.6
+valueAsDouble = 16.600000
+CountryName, keyword, value = mi, "Median age", 16.6
+valueAsString = 41.3 births/1,000 population (2016 est.)
+valueAsString = 41.3
+valueAsDouble = 41.300000
+CountryName, keyword, value = mi, "Birth rate", 41.3
+valueAsString = 8.1 deaths/1,000 population (2016 est.)
+valueAsString = 8.1
+valueAsDouble = 8.100000
+CountryName, keyword, value = mi, "Death rate", 8.1
+valueAsString = 58.6% (2015 est.)
+valueAsString = 58.6
+valueAsDouble = 58.600000
+CountryName, keyword, value = mi, "Literacy", 58.6
+valueAsString = 32 (2013)
+valueAsString = 32
+valueAsDouble = 32.000000
+CountryName, keyword, value = mi, "Airports", 32.0
+Population Tree
+bn
+by
+cd
+gv
+mi
+AreaTotal Tree
+cd
+by
+bn
+mi
+gh
+AreaLand Tree
+et
+by
+mi
+bn
+gh
+AreaWater Tree
+gv
+bn
+by
+iv
+eg
+
+File no 10 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/ml.json
+-------------------------------------
+
+valueAsString = 17,467,108 (July 2016 est.)
+valueAsString = 17467108
+valueAsDouble = 17467108.000000
+CountryName, keyword, value = ml, "Population", 1.7467108E7
+valueAsString = 1,240,192 sq km
+valueAsString = 1240192
+valueAsDouble = 1240192.000000
+CountryName, keyword, value = ml, "Area", 1240192.0
+valueAsString = 1,220,190 sq km
+valueAsString = 1220190
+valueAsDouble = 1220190.000000
+CountryName, keyword, value = ml, "Area", 1220190.0
+valueAsString = 20,002 sq km
+valueAsString = 20002
+valueAsDouble = 20002.000000
+CountryName, keyword, value = ml, "Area", 20002.0
+valueAsString = 15.5 years
+valueAsString = 15.5
+valueAsDouble = 15.500000
+CountryName, keyword, value = ml, "Median age", 15.5
+valueAsString = 16.8 years (2016 est.)
+valueAsString = 16.8
+valueAsDouble = 16.800000
+CountryName, keyword, value = ml, "Median age", 16.8
+valueAsString = 44.4 births/1,000 population (2016 est.)
+valueAsString = 44.4
+valueAsDouble = 44.400000
+CountryName, keyword, value = ml, "Birth rate", 44.4
+valueAsString = 12.6 deaths/1,000 population (2016 est.)
+valueAsString = 12.6
+valueAsDouble = 12.600000
+CountryName, keyword, value = ml, "Death rate", 12.6
+valueAsString = 29.2% (2015 est.)
+valueAsString = 29.2
+valueAsDouble = 29.200000
+CountryName, keyword, value = ml, "Literacy", 29.2
+valueAsString = 25 (2013)
+valueAsString = 25
+valueAsDouble = 25.000000
+CountryName, keyword, value = ml, "Airports", 25.0
+Population Tree
+bn
+by
+cd
+gv
+ml
+AreaTotal Tree
+cd
+by
+bn
+mi
+gh
+AreaLand Tree
+et
+by
+mi
+bn
+gh
+AreaWater Tree
+gv
+bn
+by
+iv
+eg
+
+File no 11 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/mo.json
+-------------------------------------
+
+valueAsString = 33,655,786 (July 2016 est.)
+valueAsString = 33655786
+valueAsDouble = 33655786.000000
+CountryName, keyword, value = mo, "Population", 3.3655786E7
+valueAsString = 446,550 sq km
+valueAsString = 446550
+valueAsDouble = 446550.000000
+CountryName, keyword, value = mo, "Area", 446550.0
+valueAsString = 446,300 sq km
+valueAsString = 446300
+valueAsDouble = 446300.000000
+CountryName, keyword, value = mo, "Area", 446300.0
+valueAsString = 250 sq km
+valueAsString = 250
+valueAsDouble = 250.000000
+CountryName, keyword, value = mo, "Area", 250.0
+valueAsString = 28.3 years
+valueAsString = 28.3
+valueAsDouble = 28.300000
+CountryName, keyword, value = mo, "Median age", 28.3
+valueAsString = 29.5 years (2016 est.)
+valueAsString = 29.5
+valueAsDouble = 29.500000
+CountryName, keyword, value = mo, "Median age", 29.5
+valueAsString = 18 births/1,000 population (2016 est.)
+valueAsString = 18
+valueAsDouble = 18.000000
+CountryName, keyword, value = mo, "Birth rate", 18.0
+valueAsString = 4.8 deaths/1,000 population (2016 est.)
+valueAsString = 4.8
+valueAsDouble = 4.800000
+CountryName, keyword, value = mo, "Death rate", 4.8
+valueAsString = 58.8% (2015 est.)
+valueAsString = 58.8
+valueAsDouble = 58.800000
+CountryName, keyword, value = mo, "Literacy", 58.8
+valueAsString = 55 (2013)
+valueAsString = 55
+valueAsDouble = 55.000000
+CountryName, keyword, value = mo, "Airports", 55.0
+Population Tree
+bn
+by
+cd
+gv
+ml
+AreaTotal Tree
+cd
+by
+bn
+mi
+gh
+AreaLand Tree
+et
+by
+mi
+bn
+gh
+AreaWater Tree
+gv
+mo
+bn
+by
+iv
+
+File no 12 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/mz.json
+-------------------------------------
+
+valueAsString = 25,930,150
+valueAsString = 25930150
+valueAsDouble = 25930150.000000
+CountryName, keyword, value = mz, "Population", 2.593015E7
+valueAsString = 799,380 sq km
+valueAsString = 799380
+valueAsDouble = 799380.000000
+CountryName, keyword, value = mz, "Area", 799380.0
+valueAsString = 786,380 sq km
+valueAsString = 786380
+valueAsDouble = 786380.000000
+CountryName, keyword, value = mz, "Area", 786380.0
+valueAsString = 13,000 sq km
+valueAsString = 13000
+valueAsDouble = 13000.000000
+CountryName, keyword, value = mz, "Area", 13000.0
+valueAsString = 16.5 years
+valueAsString = 16.5
+valueAsDouble = 16.500000
+CountryName, keyword, value = mz, "Median age", 16.5
+valueAsString = 17.7 years (2016 est.)
+valueAsString = 17.7
+valueAsDouble = 17.700000
+CountryName, keyword, value = mz, "Median age", 17.7
+valueAsString = 38.3 births/1,000 population (2016 est.)
+valueAsString = 38.3
+valueAsDouble = 38.300000
+CountryName, keyword, value = mz, "Birth rate", 38.3
+valueAsString = 11.9 deaths/1,000 population (2016 est.)
+valueAsString = 11.9
+valueAsDouble = 11.900000
+CountryName, keyword, value = mz, "Death rate", 11.9
+valueAsString = 45.4% (2015 est.)
+valueAsString = 45.4
+valueAsDouble = 45.400000
+CountryName, keyword, value = mz, "Literacy", 45.4
+valueAsString = 98 (2013)
+valueAsString = 98
+valueAsDouble = 98.000000
+CountryName, keyword, value = mz, "Airports", 98.0
+Population Tree
+bn
+by
+cd
+gv
+ml
+AreaTotal Tree
+cd
+by
+bn
+mi
+gh
+AreaLand Tree
+et
+by
+mi
+bn
+gh
+AreaWater Tree
+gv
+mo
+bn
+by
+iv
+
+File no 13 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/sf.json
+-------------------------------------
+
+valueAsString = 54,300,704
+valueAsString = 54300704
+valueAsDouble = 54300704.000000
+CountryName, keyword, value = sf, "Population", 5.4300704E7
+valueAsString = 1,219,090 sq km
+valueAsString = 1219090
+valueAsDouble = 1219090.000000
+CountryName, keyword, value = sf, "Area", 1219090.0
+valueAsString = 1,214,470 sq km
+valueAsString = 1214470
+valueAsDouble = 1214470.000000
+CountryName, keyword, value = sf, "Area", 1214470.0
+valueAsString = 4,620 sq km
+valueAsString = 4620
+valueAsDouble = 4620.000000
+CountryName, keyword, value = sf, "Area", 4620.0
+valueAsString = 26.5 years
+valueAsString = 26.5
+valueAsDouble = 26.500000
+CountryName, keyword, value = sf, "Median age", 26.5
+valueAsString = 27 years (2016 est.)
+valueAsString = 27
+valueAsDouble = 27.000000
+CountryName, keyword, value = sf, "Median age", 27.0
+valueAsString = 20.5 births/1,000 population (2016 est.)
+valueAsString = 20.5
+valueAsDouble = 20.500000
+CountryName, keyword, value = sf, "Birth rate", 20.5
+valueAsString = 9.6 deaths/1,000 population (2016 est.)
+valueAsString = 9.6
+valueAsDouble = 9.600000
+CountryName, keyword, value = sf, "Death rate", 9.6
+valueAsString = 93.1% (2015 est.)
+valueAsString = 93.1
+valueAsDouble = 93.100000
+CountryName, keyword, value = sf, "Literacy", 93.1
+valueAsString = 566 (2013)
+valueAsString = 566
+valueAsDouble = 566.000000
+CountryName, keyword, value = sf, "Airports", 566.0
+Population Tree
+bn
+by
+cd
+gv
+ml
+AreaTotal Tree
+cd
+by
+bn
+mi
+gh
+AreaLand Tree
+et
+by
+mi
+bn
+gh
+AreaWater Tree
+gv
+mo
+bn
+by
+iv
+
+File no 14 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/sg.json
+-------------------------------------
+
+valueAsString = 14,320,055 (July 2016 est.)
+valueAsString = 14320055
+valueAsDouble = 14320055.000000
+CountryName, keyword, value = sg, "Population", 1.4320055E7
+valueAsString = 196,722 sq km
+valueAsString = 196722
+valueAsDouble = 196722.000000
+CountryName, keyword, value = sg, "Area", 196722.0
+valueAsString = 192,530 sq km
+valueAsString = 192530
+valueAsDouble = 192530.000000
+CountryName, keyword, value = sg, "Area", 192530.0
+valueAsString = 4,192 sq km
+valueAsString = 4192
+valueAsDouble = 4192.000000
+CountryName, keyword, value = sg, "Area", 4192.0
+valueAsString = 17.8 years
+valueAsString = 17.8
+valueAsDouble = 17.800000
+CountryName, keyword, value = sg, "Median age", 17.8
+valueAsString = 19.6 years (2016 est.)
+valueAsString = 19.6
+valueAsDouble = 19.600000
+CountryName, keyword, value = sg, "Median age", 19.6
+valueAsString = 34 births/1,000 population (2016 est.)
+valueAsString = 34
+valueAsDouble = 34.000000
+CountryName, keyword, value = sg, "Birth rate", 34.0
+valueAsString = 8.3 deaths/1,000 population (2016 est.)
+valueAsString = 8.3
+valueAsDouble = 8.300000
+CountryName, keyword, value = sg, "Death rate", 8.3
+valueAsString = 46.6% (2015 est.)
+valueAsString = 46.6
+valueAsDouble = 46.600000
+CountryName, keyword, value = sg, "Literacy", 46.6
+valueAsString = 20 (2013)
+valueAsString = 20
+valueAsDouble = 20.000000
+CountryName, keyword, value = sg, "Airports", 20.0
+Population Tree
+bn
+by
+cd
+gv
+sg
+AreaTotal Tree
+cd
+by
+bn
+mi
+sg
+AreaLand Tree
+et
+by
+mi
+bn
+sg
+AreaWater Tree
+gv
+mo
+bn
+by
+sg
+
+File no 15 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/ug.json
+-------------------------------------
+
+valueAsString = 38,319,241
+valueAsString = 38319241
+valueAsDouble = 38319241.000000
+CountryName, keyword, value = ug, "Population", 3.8319241E7
+valueAsString = 241,038 sq km
+valueAsString = 241038
+valueAsDouble = 241038.000000
+CountryName, keyword, value = ug, "Area", 241038.0
+valueAsString = 197,100 sq km
+valueAsString = 197100
+valueAsDouble = 197100.000000
+CountryName, keyword, value = ug, "Area", 197100.0
+valueAsString = 43,938 sq km
+valueAsString = 43938
+valueAsDouble = 43938.000000
+CountryName, keyword, value = ug, "Area", 43938.0
+valueAsString = 15.6 years
+valueAsString = 15.6
+valueAsDouble = 15.600000
+CountryName, keyword, value = ug, "Median age", 15.6
+valueAsString = 15.8 years (2016 est.)
+valueAsString = 15.8
+valueAsDouble = 15.800000
+CountryName, keyword, value = ug, "Median age", 15.8
+valueAsString = 43.4 births/1,000 population (2016 est.)
+valueAsString = 43.4
+valueAsDouble = 43.400000
+CountryName, keyword, value = ug, "Birth rate", 43.4
+valueAsString = 10.4 deaths/1,000 population (2016 est.)
+valueAsString = 10.4
+valueAsDouble = 10.400000
+CountryName, keyword, value = ug, "Death rate", 10.4
+valueAsString = 71.5% (2015 est.)
+valueAsString = 71.5
+valueAsDouble = 71.500000
+CountryName, keyword, value = ug, "Literacy", 71.5
+valueAsString = 47 (2013)
+valueAsString = 47
+valueAsDouble = 47.000000
+CountryName, keyword, value = ug, "Airports", 47.0
+Population Tree
+bn
+by
+cd
+gv
+sg
+AreaTotal Tree
+cd
+by
+bn
+mi
+sg
+AreaLand Tree
+et
+by
+mi
+bn
+sg
+AreaWater Tree
+gv
+mo
+bn
+by
+sg
+
+File no 16 = /mnt/akademik/akd/basal/bbm204-4-test/CIF/africa/uv.json
+-------------------------------------
+
+valueAsString = 19,512,533
+valueAsString = 19512533
+valueAsDouble = 19512533.000000
+CountryName, keyword, value = uv, "Population", 1.9512533E7
+valueAsString = 274,200 sq km
+valueAsString = 274200
+valueAsDouble = 274200.000000
+CountryName, keyword, value = uv, "Area", 274200.0
+valueAsString = 273,800 sq km
+valueAsString = 273800
+valueAsDouble = 273800.000000
+CountryName, keyword, value = uv, "Area", 273800.0
+valueAsString = 400 sq km
+valueAsString = 400
+valueAsDouble = 400.000000
+CountryName, keyword, value = uv, "Area", 400.0
+valueAsString = 17 years
+valueAsString = 17
+valueAsDouble = 17.000000
+CountryName, keyword, value = uv, "Median age", 17.0
+valueAsString = 17.3 years (2016 est.)
+valueAsString = 17.3
+valueAsDouble = 17.300000
+CountryName, keyword, value = uv, "Median age", 17.3
+valueAsString = 41.6 births/1,000 population (2016 est.)
+valueAsString = 41.6
+valueAsDouble = 41.600000
+CountryName, keyword, value = uv, "Birth rate", 41.6
+valueAsString = 11.5 deaths/1,000 population (2016 est.)
+valueAsString = 11.5
+valueAsDouble = 11.500000
+CountryName, keyword, value = uv, "Death rate", 11.5
+valueAsString = 29.3% (2015 est.)
+valueAsString = 29.3
+valueAsDouble = 29.300000
+CountryName, keyword, value = uv, "Literacy", 29.3
+valueAsString = 23 (2013)
+valueAsString = 23
+valueAsDouble = 23.000000
+CountryName, keyword, value = uv, "Airports", 23.0
+Population Tree
+bn
+by
+cd
+gv
+sg
+AreaTotal Tree
+cd
+by
+bn
+mi
+sg
+AreaLand Tree
+et
+by
+mi
+bn
+sg
+AreaWater Tree
+gv
+mo
+uv
+bn
+by
+finish
+bbm204-19-4/b21427176/src
+Exp4.java:1: warning: Tree is internal proprietary API and may be removed in a future release
+import sun.reflect.generics.tree.Tree;
+                                ^
+1 warning
+start
+finish
+bbm204-19-4/b21427181/src
+Exp4.java:4: error: package org.json.simple.parser does not exist
+import org.json.simple.parser.ParseException;
+                             ^
+Exp4.java:9: error: cannot find symbol
+	public static void main(String[] args) throws IOException, ParseException {
+	                                                           ^
+  symbol:   class ParseException
+  location: class Exp4
+./ReadFile.java:77: error: 'catch' without 'try'
+				catch (IOException e) {
+				^
+./ReadFile.java:90: error: illegal start of type
+		return items;
+		^
+./ReadFile.java:90: error: ';' expected
+		return items;
+		      ^
+./ReadFile.java:98: error: class, interface, or enum expected
+	public String getItem() {
+	       ^
+./ReadFile.java:100: error: class, interface, or enum expected
+	}
+	^
+./ReadFile.java:103: error: class, interface, or enum expected
+	public void setItem(String item) {
+	       ^
+./ReadFile.java:105: error: class, interface, or enum expected
+	}
+	^
+./ReadFile.java:108: error: class, interface, or enum expected
+	public int getPosition() {
+	       ^
+./ReadFile.java:110: error: class, interface, or enum expected
+	}
+	^
+./ReadFile.java:113: error: class, interface, or enum expected
+	public void setPosition(int position) {
+	       ^
+./ReadFile.java:115: error: class, interface, or enum expected
+	}
+	^
+./ReadFile.java:118: error: class, interface, or enum expected
+	public String getFileName() {
+	       ^
+./ReadFile.java:120: error: class, interface, or enum expected
+	}
+	^
+./ReadFile.java:123: error: class, interface, or enum expected
+	public void setFileName(String fileName) {
+	       ^
+./ReadFile.java:125: error: class, interface, or enum expected
+	}
+	^
+./ReadFile.java:14: error: package org.json.simple.parser does not exist
+import org.json.simple.parser.JSONParser;
+                             ^
+./ReadFile.java:15: error: package org.json.simple.parser does not exist
+import org.json.simple.parser.ParseException;
+                             ^
+./ReadFile.java:16: error: package org.json does not exist
+import org.json.JSONArray;
+               ^
+./ReadFile.java:17: error: package org.json.simple does not exist
+import org.json.simple.JSONObject;
+                      ^
+./ReadFile.java:27: error: cannot find symbol
+	public ArrayList<ReadFile> readFile(String Path) throws IOException, ParseException{
+	                                                                     ^
+  symbol:   class ParseException
+  location: class ReadFile
+start
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+finish
+bbm204-19-4/b21427325/src
+Exp4.java:114: error: incompatible types: List<String> cannot be converted to int[]
+        tree.treeins(arr); 
+                     ^
+Note: Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+1 error
+start
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+finish
+bbm204-19-4/b21427344/src
+Exp4.java:10: error: class Main is public, should be declared in a file named Main.java
+public class Main
+       ^
+1 error
+start
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+finish
+bbm204-19-4/b21483416/src
+Exp4.java:11: error: class Exp2 is public, should be declared in a file named Exp2.java
+public class Exp2 {
+       ^
+Exp4.java:13: error: cannot find symbol
+		BST bstree = new BST();
+		^
+  symbol:   class BST
+  location: class Exp2
+Exp4.java:13: error: cannot find symbol
+		BST bstree = new BST();
+		                 ^
+  symbol:   class BST
+  location: class Exp2
+3 errors
+start
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+finish
+bbm204-19-4/b21485385/src
+start
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.main(Exp4.java:66)
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.main(Exp4.java:66)
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.main(Exp4.java:66)
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.main(Exp4.java:66)
+finish
+bbm204-19-4/b21526605/src
+Exp4.java:80: error: class Assignment4 is public, should be declared in a file named Assignment4.java
+public class Assignment4 {
+       ^
+1 error
+start
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+finish
+bbm204-19-4/b21526681/src
+start
+finish
+bbm204-19-4/b21526772/src
+Note: ./Program.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+start
+finish
+bbm204-19-4/b21526858/src
+start
+finish
+bbm204-19-4/b21526949/src
+start
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 187
+	at Exp4.readInput(Exp4.java:717)
+	at Exp4.main(Exp4.java:820)
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 187
+	at Exp4.readInput(Exp4.java:642)
+	at Exp4.main(Exp4.java:820)
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 187
+	at Exp4.readInput(Exp4.java:657)
+	at Exp4.main(Exp4.java:820)
+finish
+bbm204-19-4/b21526973/src
+javac: file not found: Exp4.java
+Usage: javac <options> <source files>
+use -help for a list of possible options
+start
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+finish
+bbm204-19-4/b21527046/src
+start
+finish
+bbm204-19-4/b21527084/src
+start
+/mnt/akademik/akd/basal/bbm204-4-test/CIF/
+/mnt/akademik/akd/basal/bbm204-4-test/input1.txt
+output1.txt
+Exception in thread "main" java.lang.NullPointerException
+	at Manager.buildArray(Manager.java:278)
+	at Exp4.main(Exp4.java:71)
+/mnt/akademik/akd/basal/bbm204-4-test/CIF/
+/mnt/akademik/akd/basal/bbm204-4-test/input2.txt
+output2.txt
+Exception in thread "main" java.lang.NullPointerException
+	at Manager.buildArray(Manager.java:278)
+	at Exp4.main(Exp4.java:71)
+/mnt/akademik/akd/basal/bbm204-4-test/CIF/
+/mnt/akademik/akd/basal/bbm204-4-test/input3.txt
+output3.txt
+Exception in thread "main" java.lang.NullPointerException
+	at Manager.buildArray(Manager.java:278)
+	at Exp4.main(Exp4.java:71)
+/mnt/akademik/akd/basal/bbm204-4-test/CIF/
+/mnt/akademik/akd/basal/bbm204-4-test/input4.txt
+output4.txt
+Exception in thread "main" java.lang.NullPointerException
+	at Manager.buildArray(Manager.java:278)
+	at Exp4.main(Exp4.java:71)
+finish
+bbm204-19-4/b21527137/src
+start
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.main(Exp4.java:7)
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.main(Exp4.java:7)
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.main(Exp4.java:7)
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.main(Exp4.java:7)
+finish
+bbm204-19-4/b21527175/src
+start
+finish
+bbm204-19-4/b21527582/src
+start
+finish
+bbm204-19-4/b21590939/src
+start
+[Brazil, China, Russia]
+[Bolivia, Brazil, China, Mexico, Russia]
+[Brazil, China, Indonesia, Russia]
+[Brazil, Burkina Faso, Burundi, China, Indonesia, Malawi, Mali, Mozambique, Uganda]
+[Burundi, Chad, Ethiopia, Malawi, Mali, Russia]
+[Bolivia, Brazil, Colombia, Mexico, Russia]
+[Benin, Bolivia, Burundi, Ethiopia, Greece, Malawi]
+[Chad, China, Kazakhstan, Mali, North Korea, Russia, Spain]
+[Benin, Burundi, Ghana, Iraq, Kazakhstan, North Korea, Syria]
+[Burkina Faso, Burundi, China, Guinea, Indonesia, Morocco, North Korea]
+[Brazil, China, Kazakhstan, Mexico, Russia]
+[Brazil, China, Kazakhstan, Mexico, Russia]
+[Brazil, China, Colombia, Ethiopia, Russia]
+[Brazil, China, Indonesia, Mexico, Russia]
+[Chile, China, Greece, Russia, Spain]
+[China, Greece, North Korea, Russia, Spain]
+[Burkina Faso, Burundi, Malawi, Mali, Uganda]
+[Burkina Faso, Chad, Mali, Mozambique, Russia]
+[Chile, Kazakhstan, North Korea, Russia, Spain]
+[Bolivia, Brazil, Colombia, Mexico, Russia]
+[Benin, Burundi, Chad, Malawi, North Korea]
+[Benin, Burundi, Ethiopia, Malawi, North Korea]
+[Burkina Faso, Guinea, Iraq, Morocco, North Korea]
+[Benin, Bolivia, Burundi, Chad, Greece]
+[Chad, Malawi, Mali, Mozambique, Uganda]
+[Burkina Faso, Burundi, Malawi, Mali, Uganda]
+[Chile, China, Greece, Russia, Spain]
+[Ecuador, Egypt, Iraq, Morocco, Syria]
+[Benin, Burkina Faso, Chad, Guinea, Mali]
+[Benin, Burundi, Ghana, Guinea, Senegal]
+finish
+bbm204-19-4/b21591132/src
+start
+
+[2, 21, 25, 1]
+
+[2, 21, 25, 1, 8]
+
+[2, 21, 25, 1, 8]
+
+finish
+bbm204-19-4/b21626876/src
+start
+finish
+bbm204-19-4/b21626895/src
+Exp4.java:1: error: class main is public, should be declared in a file named main.java
+public class main {
+       ^
+1 error
+start
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+finish
+bbm204-19-4/b21626915/src
+start
+finish
+bbm204-19-4/b21626934/src
+start
+finish
+bbm204-19-4/b21626948/src
+start
+finish
+bbm204-19-4/b21626972/src
+start
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: String index out of range: 455
+	at java.lang.String.charAt(String.java:658)
+	at ProcessCIF.buildName(ProcessCIF.java:95)
+	at ProcessCIF.adjustCategories(ProcessCIF.java:292)
+	at Exp4.readFolder(Exp4.java:45)
+	at Exp4.main(Exp4.java:260)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: String index out of range: 455
+	at java.lang.String.charAt(String.java:658)
+	at ProcessCIF.buildName(ProcessCIF.java:95)
+	at ProcessCIF.adjustCategories(ProcessCIF.java:292)
+	at Exp4.readFolder(Exp4.java:45)
+	at Exp4.main(Exp4.java:260)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: String index out of range: 455
+	at java.lang.String.charAt(String.java:658)
+	at ProcessCIF.buildName(ProcessCIF.java:95)
+	at ProcessCIF.adjustCategories(ProcessCIF.java:292)
+	at Exp4.readFolder(Exp4.java:45)
+	at Exp4.main(Exp4.java:260)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: String index out of range: 455
+	at java.lang.String.charAt(String.java:658)
+	at ProcessCIF.buildName(ProcessCIF.java:95)
+	at ProcessCIF.adjustCategories(ProcessCIF.java:292)
+	at Exp4.readFolder(Exp4.java:45)
+	at Exp4.main(Exp4.java:260)
+finish
+bbm204-19-4/b21627007/src
+start
+finish
+bbm204-19-4/b21627012/src
+start
+finish
+bbm204-19-4/b21627064/src
+start
+finish
+bbm204-19-4/b21627117/src
+start
+Exception in thread "main" java.lang.NullPointerException
+	at Functions.getNames(Functions.java:51)
+	at Exp4.main(Exp4.java:39)
+Exception in thread "main" java.lang.NullPointerException
+	at Functions.getNames(Functions.java:51)
+	at Exp4.main(Exp4.java:39)
+Exception in thread "main" java.lang.NullPointerException
+	at Functions.getNames(Functions.java:51)
+	at Exp4.main(Exp4.java:39)
+Exception in thread "main" java.lang.NullPointerException
+	at Functions.getNames(Functions.java:51)
+	at Exp4.main(Exp4.java:39)
+finish
+bbm204-19-4/b21627122/src
+start
+Exception in thread "main" java.io.FileNotFoundException: bn.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.util.Scanner.<init>(Scanner.java:611)
+	at FileOperations.printFilesinFolder(FileOperations.java:69)
+	at FileOperations.printFilesinFolder(FileOperations.java:53)
+	at Exp4.main(Exp4.java:14)
+Exception in thread "main" java.io.FileNotFoundException: bn.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.util.Scanner.<init>(Scanner.java:611)
+	at FileOperations.printFilesinFolder(FileOperations.java:69)
+	at FileOperations.printFilesinFolder(FileOperations.java:53)
+	at Exp4.main(Exp4.java:14)
+Exception in thread "main" java.io.FileNotFoundException: bn.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.util.Scanner.<init>(Scanner.java:611)
+	at FileOperations.printFilesinFolder(FileOperations.java:69)
+	at FileOperations.printFilesinFolder(FileOperations.java:53)
+	at Exp4.main(Exp4.java:14)
+Exception in thread "main" java.io.FileNotFoundException: bn.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.util.Scanner.<init>(Scanner.java:611)
+	at FileOperations.printFilesinFolder(FileOperations.java:69)
+	at FileOperations.printFilesinFolder(FileOperations.java:53)
+	at Exp4.main(Exp4.java:14)
+finish
+bbm204-19-4/b21627136/src
+Note: Exp4.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+start
+java.lang.NullPointerException
+	at Exp4.main(Exp4.java:31)
+java.lang.NullPointerException
+	at Exp4.main(Exp4.java:31)
+java.lang.NullPointerException
+	at Exp4.main(Exp4.java:31)
+java.lang.NullPointerException
+	at Exp4.main(Exp4.java:31)
+finish
+bbm204-19-4/b21627193/src
+start
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.insert(Exp4.java:470)
+	at Exp4.main(Exp4.java:168)
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.insert(Exp4.java:470)
+	at Exp4.main(Exp4.java:168)
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.insert(Exp4.java:470)
+	at Exp4.main(Exp4.java:168)
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.insert(Exp4.java:470)
+	at Exp4.main(Exp4.java:168)
+finish
+bbm204-19-4/b21627213/src
+start
+Exception in thread "main" java.lang.NullPointerException
+	at TreeSortInt.insertRecur(TreeSortInt.java:16)
+	at TreeSortInt.insert(TreeSortInt.java:9)
+	at TreeSortInt.treeBuild(TreeSortInt.java:34)
+	at Exp4.main(Exp4.java:382)
+Exception in thread "main" java.lang.NullPointerException
+	at TreeSortInt.insertRecur(TreeSortInt.java:16)
+	at TreeSortInt.insert(TreeSortInt.java:9)
+	at TreeSortInt.treeBuild(TreeSortInt.java:34)
+	at Exp4.main(Exp4.java:382)
+Exception in thread "main" java.lang.NullPointerException
+	at TreeSortInt.insertRecur(TreeSortInt.java:16)
+	at TreeSortInt.insert(TreeSortInt.java:9)
+	at TreeSortInt.treeBuild(TreeSortInt.java:34)
+	at Exp4.main(Exp4.java:382)
+Exception in thread "main" java.lang.NullPointerException
+	at TreeSortInt.insertRecur(TreeSortInt.java:16)
+	at TreeSortInt.insert(TreeSortInt.java:9)
+	at TreeSortInt.treeBuild(TreeSortInt.java:34)
+	at Exp4.main(Exp4.java:382)
+finish
+bbm204-19-4/b21627227/src
+Note: Exp4.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+start
+Exception in thread "main" java.lang.NumberFormatException: For input string: "3
+"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at Exp4.main(Exp4.java:357)
+Exception in thread "main" java.lang.NumberFormatException: For input string: "1
+"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at Exp4.main(Exp4.java:357)
+Exception in thread "main" java.lang.NumberFormatException: For input string: "5
+"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at Exp4.main(Exp4.java:357)
+Exception in thread "main" java.lang.NumberFormatException: For input string: "5
+"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at Exp4.main(Exp4.java:357)
+finish
+bbm204-19-4/b21627251/src
+start
+finish
+bbm204-19-4/b21627318/src
+start
+finish
+bbm204-19-4/b21627342/src
+start
+[Brazil, China, Russia]
+[Bolivia, Brazil, China, Mexico, Russia]
+[Brazil, China, Indonesia, Russia]
+[Brazil, Burkina Faso, Burundi, China, Indonesia, Malawi, Mali, Mozambique, Uganda]
+[Benin, Burundi, Chad, Malawi, Mali, Russia]
+[Bolivia, Brazil, Colombia, Mexico, Russia]
+[Benin, Bolivia, Burundi, Greece, Malawi]
+[Chad, China, Kazakhstan, Mali, North Korea, Russia, Spain]
+[Benin, Burundi, Ghana, Iraq, Kazakhstan, North Korea, Syria]
+[Burkina Faso, Burundi, China, Guinea, Indonesia, Morocco, North Korea]
+[Brazil, China, Kazakhstan, Mexico, Russia]
+[Brazil, China, Kazakhstan, Mexico, Russia]
+[Brazil, China, Colombia, Ethiopia, Russia]
+[Brazil, China, Indonesia, Mexico, Russia]
+[Chile, China, Greece, Russia, Spain]
+[China, Greece, North Korea, Russia, Spain]
+[Burkina Faso, Burundi, Malawi, Mali, Uganda]
+[Burkina Faso, Chad, Mali, Mozambique, Russia]
+[Chile, Kazakhstan, North Korea, Russia, Spain]
+[Bolivia, Brazil, Colombia, Mexico, Russia]
+[Benin, Burundi, Greece, Malawi, North Korea]
+[Benin, Burundi, Greece, Malawi, North Korea]
+[Burkina Faso, Guinea, Iraq, Morocco, North Korea]
+[Benin, Bolivia, Burundi, Chad, Greece]
+[Chad, Malawi, Mali, Mozambique, Uganda]
+[Burkina Faso, Burundi, Malawi, Mali, Uganda]
+[Chile, China, Greece, Russia, Spain]
+[Ecuador, Egypt, Iraq, Morocco, Syria]
+[Benin, Burkina Faso, Chad, Guinea, Mali]
+[Benin, Burundi, Ghana, Guinea, Senegal]
+finish
+bbm204-19-4/b21627394/src
+start
+Exception in thread "main" java.lang.NullPointerException
+	at Util.value_Float(Util.java:23)
+	at TreeSortClass.insertRec(TreeSortClass.java:53)
+	at TreeSortClass.insert(TreeSortClass.java:35)
+	at TreeSortClass.treeins(TreeSortClass.java:88)
+	at Exp4.main(Exp4.java:108)
+Exception in thread "main" java.lang.NullPointerException
+	at Util.value_Float(Util.java:23)
+	at TreeSortClass.insertRec(TreeSortClass.java:53)
+	at TreeSortClass.insert(TreeSortClass.java:35)
+	at TreeSortClass.treeins(TreeSortClass.java:88)
+	at Exp4.main(Exp4.java:108)
+Exception in thread "main" java.lang.NullPointerException
+	at Util.value_Float(Util.java:23)
+	at TreeSortClass.insertRec(TreeSortClass.java:53)
+	at TreeSortClass.insert(TreeSortClass.java:35)
+	at TreeSortClass.treeins(TreeSortClass.java:88)
+	at Exp4.main(Exp4.java:108)
+Exception in thread "main" java.lang.NullPointerException
+	at Util.value_Float(Util.java:23)
+	at TreeSortClass.insertRec(TreeSortClass.java:53)
+	at TreeSortClass.insert(TreeSortClass.java:35)
+	at TreeSortClass.treeins(TreeSortClass.java:88)
+	at Exp4.main(Exp4.java:108)
+finish
+bbm204-19-4/b21627452/src
+start
+finish
+bbm204-19-4/b21627471/src
+start
+finish
+bbm204-19-4/b21627557/src
+start
+/mnt/akademik/akd/basal/bbm204-4-test/CIF/
+/mnt/akademik/akd/basal/bbm204-4-test/CIF/
+/mnt/akademik/akd/basal/bbm204-4-test/CIF/
+/mnt/akademik/akd/basal/bbm204-4-test/CIF/
+finish
+bbm204-19-4/b21627581/src
+start
+Exception in thread "main" java.lang.NullPointerException
+	at Execution.execution(Execution.java:57)
+	at Exp4.main(Exp4.java:27)
+Exception in thread "main" java.lang.NullPointerException
+	at Execution.execution(Execution.java:57)
+	at Exp4.main(Exp4.java:27)
+Exception in thread "main" java.lang.NullPointerException
+	at Execution.execution(Execution.java:57)
+	at Exp4.main(Exp4.java:27)
+Exception in thread "main" java.lang.NullPointerException
+	at Execution.execution(Execution.java:57)
+	at Exp4.main(Exp4.java:27)
+finish
+bbm204-19-4/b21627634/src
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+start
+java.lang.Exception
+	at Experiment.countryName(Experiment.java:137)
+	at Exp4.main(Exp4.java:25)
+java.lang.IndexOutOfBoundsException: Index: 27, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:657)
+	at java.util.ArrayList.get(ArrayList.java:433)
+	at Experiment.countryName(Experiment.java:148)
+	at Exp4.main(Exp4.java:25)
+area-total,top,3
+java.lang.NullPointerException
+	at Experiment.sortAreaTotal(Experiment.java:361)
+	at Exp4.callExperimentSorting(Exp4.java:120)
+	at Exp4.main(Exp4.java:88)
+java.lang.Exception
+	at Experiment.countryName(Experiment.java:137)
+	at Exp4.main(Exp4.java:25)
+java.lang.IndexOutOfBoundsException: Index: 27, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:657)
+	at java.util.ArrayList.get(ArrayList.java:433)
+	at Experiment.countryName(Experiment.java:148)
+	at Exp4.main(Exp4.java:25)
+airports,top,5
+java.lang.NullPointerException
+	at Experiment.sortAirports(Experiment.java:473)
+	at Exp4.callExperimentSorting(Exp4.java:156)
+	at Exp4.main(Exp4.java:88)
+java.lang.Exception
+	at Experiment.countryName(Experiment.java:137)
+	at Exp4.main(Exp4.java:25)
+java.lang.IndexOutOfBoundsException: Index: 27, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:657)
+	at java.util.ArrayList.get(ArrayList.java:433)
+	at Experiment.countryName(Experiment.java:148)
+	at Exp4.main(Exp4.java:25)
+area-total,top,5
+java.lang.NullPointerException
+	at Experiment.sortAreaTotal(Experiment.java:361)
+	at Exp4.callExperimentSorting(Exp4.java:120)
+	at Exp4.main(Exp4.java:88)
+java.lang.Exception
+	at Experiment.countryName(Experiment.java:137)
+	at Exp4.main(Exp4.java:25)
+java.lang.IndexOutOfBoundsException: Index: 27, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:657)
+	at java.util.ArrayList.get(ArrayList.java:433)
+	at Experiment.countryName(Experiment.java:148)
+	at Exp4.main(Exp4.java:25)
+area-total,last,5
+java.lang.NullPointerException
+	at Experiment.sortAreaTotal(Experiment.java:361)
+	at Exp4.callExperimentSorting(Exp4.java:120)
+	at Exp4.main(Exp4.java:88)
+finish
+bbm204-19-4/b21627648/src
+start
+africa
+bn.json
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 8211
+	at Exp4.boyerMoore(Exp4.java:64)
+	at Exp4.main(Exp4.java:120)
+africa
+bn.json
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 8211
+	at Exp4.boyerMoore(Exp4.java:64)
+	at Exp4.main(Exp4.java:120)
+africa
+bn.json
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 8211
+	at Exp4.boyerMoore(Exp4.java:64)
+	at Exp4.main(Exp4.java:120)
+africa
+bn.json
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 8211
+	at Exp4.boyerMoore(Exp4.java:64)
+	at Exp4.main(Exp4.java:120)
+finish
+bbm204-19-4/b21627706/src
+start
+bn.json
+by.json
+cd.json
+eg.json
+et.json
+gh.json
+gv.json
+iv.json
+mi.json
+ml.json
+mo.json
+mz.json
+sf.json
+sg.json
+ug.json
+uv.json
+bl.json
+br.json
+ci.json
+co.json
+ec.json
+mx.json
+ve.json
+ch.json
+id.json
+kn.json
+kz.json
+rs.json
+vm.json
+gr.json
+sp.json
+iz.json
+sy.json
+[Brazil, China, Russia]
+[Bolivia, Brazil, China, Mexico, Russia]
+[Brazil, China, Indonesia, Russia]
+[Brazil, Burkina Faso, Burundi, China, Indonesia, Malawi, Mali, Mozambique, Uganda]
+[Benin, Burundi, Chad, Malawi, Mali, Russia]
+bn.json
+by.json
+cd.json
+eg.json
+et.json
+gh.json
+gv.json
+iv.json
+mi.json
+ml.json
+mo.json
+mz.json
+sf.json
+sg.json
+ug.json
+uv.json
+bl.json
+br.json
+ci.json
+co.json
+ec.json
+mx.json
+ve.json
+ch.json
+id.json
+kn.json
+kz.json
+rs.json
+vm.json
+gr.json
+sp.json
+iz.json
+sy.json
+[Bolivia, Brazil, Colombia, Mexico, Russia]
+[Benin, Bolivia, Burundi, Greece, Malawi]
+[Chad, China, Kazakhstan, Mali, North Korea, Russia, Spain]
+[Benin, Burundi, Ghana, Iraq, Kazakhstan, North Korea, Syria]
+[Burkina Faso, Burundi, China, Guinea, Indonesia, Morocco, North Korea]
+bn.json
+by.json
+cd.json
+eg.json
+et.json
+gh.json
+gv.json
+iv.json
+mi.json
+ml.json
+mo.json
+mz.json
+sf.json
+sg.json
+ug.json
+uv.json
+bl.json
+br.json
+ci.json
+co.json
+ec.json
+mx.json
+ve.json
+ch.json
+id.json
+kn.json
+kz.json
+rs.json
+vm.json
+gr.json
+sp.json
+iz.json
+sy.json
+[Brazil, China, Kazakhstan, Mexico, Russia]
+[Brazil, China, Kazakhstan, Mexico, Russia]
+[Brazil, China, Colombia, Ethiopia, Russia]
+[Brazil, China, Indonesia, Mexico, Russia]
+[Chile, China, Greece, Russia, Spain]
+[China, Greece, North Korea, Russia, Spain]
+[Burkina Faso, Burundi, Malawi, Mali, Uganda]
+[Burkina Faso, Chad, Mali, Mozambique, Russia]
+[Chile, Kazakhstan, North Korea, Russia, Spain]
+[Bolivia, Brazil, Colombia, Mexico, Russia]
+bn.json
+by.json
+cd.json
+eg.json
+et.json
+gh.json
+gv.json
+iv.json
+mi.json
+ml.json
+mo.json
+mz.json
+sf.json
+sg.json
+ug.json
+uv.json
+bl.json
+br.json
+ci.json
+co.json
+ec.json
+mx.json
+ve.json
+ch.json
+id.json
+kn.json
+kz.json
+rs.json
+vm.json
+gr.json
+sp.json
+iz.json
+sy.json
+[Benin, Burundi, Greece, Malawi, North Korea]
+[Benin, Burundi, Greece, Malawi, North Korea]
+[Burkina Faso, Guinea, Iraq, Morocco, North Korea]
+[Benin, Bolivia, Burundi, Chad, Greece]
+[Chad, Malawi, Mali, Mozambique, Uganda]
+[Burkina Faso, Burundi, Malawi, Mali, Uganda]
+[Chile, China, Greece, Russia, Spain]
+[Ecuador, Egypt, Iraq, Morocco, Syria]
+[Benin, Burkina Faso, Chad, Guinea, Mali]
+[Benin, Burundi, Ghana, Guinea, Senegal]
+finish
+bbm204-19-4/b21627725/src
+start
+finish
+bbm204-19-4/b21627758/src
+start
+java.lang.NullPointerException
+	at READ.Read(READ.java:172)
+	at OP.Operate(OP.java:10)
+	at Exp4.main(Exp4.java:3)
+Exception in thread "main" java.lang.NullPointerException
+	at OP.Operate(OP.java:12)
+	at Exp4.main(Exp4.java:3)
+java.lang.NullPointerException
+	at READ.Read(READ.java:172)
+	at OP.Operate(OP.java:10)
+	at Exp4.main(Exp4.java:3)
+Exception in thread "main" java.lang.NullPointerException
+	at OP.Operate(OP.java:12)
+	at Exp4.main(Exp4.java:3)
+java.lang.NullPointerException
+	at READ.Read(READ.java:172)
+	at OP.Operate(OP.java:10)
+	at Exp4.main(Exp4.java:3)
+Exception in thread "main" java.lang.NullPointerException
+	at OP.Operate(OP.java:12)
+	at Exp4.main(Exp4.java:3)
+java.lang.NullPointerException
+	at READ.Read(READ.java:172)
+	at OP.Operate(OP.java:10)
+	at Exp4.main(Exp4.java:3)
+Exception in thread "main" java.lang.NullPointerException
+	at OP.Operate(OP.java:12)
+	at Exp4.main(Exp4.java:3)
+finish
+bbm204-19-4/b21627763/src
+start
+finish
+bbm204-19-4/b21627777/src
+start
+finish
+bbm204-19-4/b21627816/src
+Exp4.java:4: error: package org.json.simple does not exist
+import org.json.simple.JSONObject;
+                      ^
+Exp4.java:5: error: package org.json.simple.parser does not exist
+import org.json.simple.parser.*;
+^
+Exp4.java:118: error: cannot find symbol
+            Object obj = new JSONParser().parse(new FileReader(file));
+                             ^
+  symbol:   class JSONParser
+  location: class Exp4
+Exp4.java:119: error: cannot find symbol
+            JSONObject jsonObject = (JSONObject) obj;
+            ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:119: error: cannot find symbol
+            JSONObject jsonObject = (JSONObject) obj;
+                                     ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:120: error: cannot find symbol
+            String cName = (String)((JSONObject)((JSONObject)((JSONObject)jsonObject.get("Government")).get("Country name")).get("conventional short form")).get("text");
+                                     ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:120: error: cannot find symbol
+            String cName = (String)((JSONObject)((JSONObject)((JSONObject)jsonObject.get("Government")).get("Country name")).get("conventional short form")).get("text");
+                                                  ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:120: error: cannot find symbol
+            String cName = (String)((JSONObject)((JSONObject)((JSONObject)jsonObject.get("Government")).get("Country name")).get("conventional short form")).get("text");
+                                                               ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:121: error: cannot find symbol
+            JSONObject geo = (JSONObject) jsonObject.get("Geography");
+            ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:121: error: cannot find symbol
+            JSONObject geo = (JSONObject) jsonObject.get("Geography");
+                              ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:122: error: cannot find symbol
+            JSONObject area = (JSONObject) geo.get("Area");
+            ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:122: error: cannot find symbol
+            JSONObject area = (JSONObject) geo.get("Area");
+                               ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:123: error: cannot find symbol
+            JSONObject totalArea = (JSONObject) area.get("total");
+            ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:123: error: cannot find symbol
+            JSONObject totalArea = (JSONObject) area.get("total");
+                                    ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:124: error: cannot find symbol
+            JSONObject landArea = (JSONObject) area.get("land");
+            ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:124: error: cannot find symbol
+            JSONObject landArea = (JSONObject) area.get("land");
+                                   ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:125: error: cannot find symbol
+            JSONObject waterArea = (JSONObject) area.get("water");
+            ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:125: error: cannot find symbol
+            JSONObject waterArea = (JSONObject) area.get("water");
+                                    ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:126: error: cannot find symbol
+            JSONObject people = (JSONObject) jsonObject.get("People and Society");
+            ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:126: error: cannot find symbol
+            JSONObject people = (JSONObject) jsonObject.get("People and Society");
+                                 ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:127: error: cannot find symbol
+            JSONObject population = (JSONObject) people.get("Population");
+            ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:127: error: cannot find symbol
+            JSONObject population = (JSONObject) people.get("Population");
+                                     ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:128: error: cannot find symbol
+            JSONObject medianAge = (JSONObject) people.get("Median age");
+            ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:128: error: cannot find symbol
+            JSONObject medianAge = (JSONObject) people.get("Median age");
+                                    ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:129: error: cannot find symbol
+            JSONObject birthRate = (JSONObject) people.get("Birth rate");
+            ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:129: error: cannot find symbol
+            JSONObject birthRate = (JSONObject) people.get("Birth rate");
+                                    ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:130: error: cannot find symbol
+            JSONObject deathRate = (JSONObject) people.get("Death rate");
+            ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:130: error: cannot find symbol
+            JSONObject deathRate = (JSONObject) people.get("Death rate");
+                                    ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:131: error: cannot find symbol
+            JSONObject literacy = (JSONObject) people.get("Literacy");
+            ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:131: error: cannot find symbol
+            JSONObject literacy = (JSONObject) people.get("Literacy");
+                                   ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:132: error: cannot find symbol
+            JSONObject transportation = (JSONObject) jsonObject.get("Transportation");
+            ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:132: error: cannot find symbol
+            JSONObject transportation = (JSONObject) jsonObject.get("Transportation");
+                                         ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:133: error: cannot find symbol
+            JSONObject airport = (JSONObject) transportation.get("Airports");
+            ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:133: error: cannot find symbol
+            JSONObject airport = (JSONObject) transportation.get("Airports");
+                                  ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:187: error: cannot find symbol
+                JSONObject maleMedian = (JSONObject) medianAge.get("male");
+                ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:187: error: cannot find symbol
+                JSONObject maleMedian = (JSONObject) medianAge.get("male");
+                                         ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:204: error: cannot find symbol
+                JSONObject femaleMedian = (JSONObject) medianAge.get("female");
+                ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:204: error: cannot find symbol
+                JSONObject femaleMedian = (JSONObject) medianAge.get("female");
+                                           ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:250: error: cannot find symbol
+                JSONObject femaleLiteracy = (JSONObject) literacy.get("female");
+                ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:250: error: cannot find symbol
+                JSONObject femaleLiteracy = (JSONObject) literacy.get("female");
+                                             ^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:281: error: cannot find symbol
+        } catch (ParseException e) {
+                 ^
+  symbol:   class ParseException
+  location: class Exp4
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+41 errors
+start
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+finish
+bbm204-19-4/b21627835/src
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+start
+finish
+bbm204-19-4/b21627868/src
+start
+Exception in thread "main" java.lang.NullPointerException
+	at java.util.Objects.requireNonNull(Objects.java:203)
+	at Read_File.Reading_Entities(Read_File.java:86)
+	at Exp4.main(Exp4.java:36)
+Exception in thread "main" java.lang.NullPointerException
+	at java.util.Objects.requireNonNull(Objects.java:203)
+	at Read_File.Reading_Entities(Read_File.java:86)
+	at Exp4.main(Exp4.java:36)
+Exception in thread "main" java.lang.NullPointerException
+	at java.util.Objects.requireNonNull(Objects.java:203)
+	at Read_File.Reading_Entities(Read_File.java:86)
+	at Exp4.main(Exp4.java:36)
+Exception in thread "main" java.lang.NullPointerException
+	at java.util.Objects.requireNonNull(Objects.java:203)
+	at Read_File.Reading_Entities(Read_File.java:86)
+	at Exp4.main(Exp4.java:36)
+finish
+bbm204-19-4/b21685015/src
+start
+Exception in thread "main" java.lang.NullPointerException
+	at java.util.TreeMap.compare(TreeMap.java:1294)
+	at java.util.TreeMap.put(TreeMap.java:538)
+	at java.util.TreeSet.add(TreeSet.java:255)
+	at Exp4.writerHelper(Exp4.java:107)
+	at Exp4.query(Exp4.java:98)
+	at Exp4.main(Exp4.java:50)
+Exception in thread "main" java.lang.NullPointerException
+	at java.util.TreeMap.compare(TreeMap.java:1294)
+	at java.util.TreeMap.put(TreeMap.java:538)
+	at java.util.TreeSet.add(TreeSet.java:255)
+	at Exp4.writerHelper(Exp4.java:120)
+	at Exp4.query(Exp4.java:98)
+	at Exp4.main(Exp4.java:50)
+Exception in thread "main" java.lang.NullPointerException
+	at java.util.TreeMap.compare(TreeMap.java:1294)
+	at java.util.TreeMap.put(TreeMap.java:538)
+	at java.util.TreeSet.add(TreeSet.java:255)
+	at Exp4.writerHelper(Exp4.java:131)
+	at Exp4.query(Exp4.java:98)
+	at Exp4.main(Exp4.java:50)
+finish
+bbm204-19-4/b21685508/src
+start
+finish
+bbm204-19-4/b21693191/src
+Exp4.java:49: error: unmappable character for encoding UTF8
+		PrintWriter yaz�lacak_dosya=new PrintWriter(fw);
+		               ^
+Exp4.java:388: error: unmappable character for encoding UTF8
+            	yaz�lacak_dosya.print(result_program);
+            	   ^
+Exp4.java:389: error: unmappable character for encoding UTF8
+            	yaz�lacak_dosya.println();            	
+            	   ^
+Exp4.java:395: error: unmappable character for encoding UTF8
+    	yaz�lacak_dosya.close();
+    	   ^
+Exp4.java:388: error: not a statement
+            	yaz�lacak_dosya.print(result_program);
+            	^
+Exp4.java:389: error: not a statement
+            	yaz�lacak_dosya.println();            	
+            	^
+Exp4.java:395: error: not a statement
+    	yaz�lacak_dosya.close();
+    	^
+7 errors
+start
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+finish
+bbm204-19-4/b21693431/src
+start
+finish
+bbm204-19-4/b21727011/src
+javac: file not found: Exp4.java
+Usage: javac <options> <source files>
+use -help for a list of possible options
+start
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+finish
+bbm204-19-4/b21727082/src
+start
+finish
+bbm204-19-4/b21727102/src
+start
+finish
+bbm204-19-4/b21727245/src
+start
+Exception in thread "main" java.io.FileNotFoundException: /mnt/akademik/akd/basal/bbm204-4-test/CIF (Is a directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:126)
+	at Read.read(Read.java:31)
+	at Exp4.main(Exp4.java:7)
+Exception in thread "main" java.io.FileNotFoundException: /mnt/akademik/akd/basal/bbm204-4-test/CIF (Is a directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:126)
+	at Read.read(Read.java:31)
+	at Exp4.main(Exp4.java:7)
+Exception in thread "main" java.io.FileNotFoundException: /mnt/akademik/akd/basal/bbm204-4-test/CIF (Is a directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:126)
+	at Read.read(Read.java:31)
+	at Exp4.main(Exp4.java:7)
+Exception in thread "main" java.io.FileNotFoundException: /mnt/akademik/akd/basal/bbm204-4-test/CIF (Is a directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:126)
+	at Read.read(Read.java:31)
+	at Exp4.main(Exp4.java:7)
+finish
+bbm204-19-4/b21727432/src
+start
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.sortList(Exp4.java:887)
+	at Exp4.commandFinder(Exp4.java:778)
+	at Exp4.main(Exp4.java:204)
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.sortList(Exp4.java:887)
+	at Exp4.commandFinder(Exp4.java:681)
+	at Exp4.main(Exp4.java:160)
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.sortList(Exp4.java:887)
+	at Exp4.commandFinder(Exp4.java:657)
+	at Exp4.main(Exp4.java:140)
+finish
+bbm204-19-4/b21727666/src
+start
+finish
+bbm204-19-4/b21727705/src
+start
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.main(Exp4.java:76)
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.main(Exp4.java:76)
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.main(Exp4.java:76)
+Exception in thread "main" java.lang.NullPointerException
+	at Exp4.main(Exp4.java:76)
+finish
+bbm204-19-4/b21727738/src
+start
+finish
+bbm204-19-4/b21727762/src
+Note: ./Tree.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+start
+finish
+bbm204-19-4/b21727829/src
+Exp4.java:10: error: cannot find symbol
+      ListFiles listFiles = new ListFiles();
+      ^
+  symbol:   class ListFiles
+  location: class Exp4
+Exp4.java:10: error: cannot find symbol
+      ListFiles listFiles = new ListFiles();
+                                ^
+  symbol:   class ListFiles
+  location: class Exp4
+2 errors
+start
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+finish
+bbm204-19-4/b21783561/src
+Exp4.java:1: error: package org.json.simple does not exist
+import org.json.simple.JSONArray;
+                      ^
+Exp4.java:2: error: package org.json.simple does not exist
+import org.json.simple.JSONObject;
+                      ^
+Exp4.java:3: error: package org.json.simple.parser does not exist
+import org.json.simple.parser.JSONParser;
+                             ^
+Exp4.java:4: error: package org.json.simple.parser does not exist
+import org.json.simple.parser.ParseException;
+                             ^
+Exp4.java:11: error: cannot find symbol
+    public static void main(String args[]) throws IOException, ParseException {
+                                                               ^
+  symbol:   class ParseException
+  location: class Exp4
+Exp4.java:16: error: cannot find symbol
+        JSONParser parser = new JSONParser();
+        ^
+  symbol:   class JSONParser
+  location: class Exp4
+Exp4.java:16: error: cannot find symbol
+        JSONParser parser = new JSONParser();
+                                ^
+  symbol:   class JSONParser
+  location: class Exp4
+Exp4.java:68: error: cannot find symbol
+                JSONArray mytext = new JSONArray();  //convert the json file to an array
+                ^
+  symbol:   class JSONArray
+  location: class Exp4
+Exp4.java:68: error: cannot find symbol
+                JSONArray mytext = new JSONArray();  //convert the json file to an array
+                                       ^
+  symbol:   class JSONArray
+  location: class Exp4
+9 errors
+start
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+finish
+bbm204-19-4/b21783575/src
+start
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.charAt(String.java:658)
+	at Exp4.searchPatternsOnFiles(Exp4.java:138)
+	at Exp4.main(Exp4.java:37)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.charAt(String.java:658)
+	at Exp4.searchPatternsOnFiles(Exp4.java:138)
+	at Exp4.main(Exp4.java:37)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.charAt(String.java:658)
+	at Exp4.searchPatternsOnFiles(Exp4.java:138)
+	at Exp4.main(Exp4.java:37)
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.charAt(String.java:658)
+	at Exp4.searchPatternsOnFiles(Exp4.java:138)
+	at Exp4.main(Exp4.java:37)
+finish
+bbm204-19-4/b21783872/src
+start
+finish
+bbm204-19-4/b21785229/src
+start
+finish
+bbm204-19-4/b21787184/src
+Exp4.java:8: error: package org.json.simple does not exist
+import org.json.simple.JSONObject;
+                      ^
+Exp4.java:9: error: package org.json.simple.parser does not exist
+import org.json.simple.parser.JSONParser;
+                             ^
+Exp4.java:10: error: package org.json.simple.parser does not exist
+import org.json.simple.parser.ParseException;
+                             ^
+Exp4.java:17: error: cannot find symbol
+	public static void main(String[] args) throws FileNotFoundException, IOException, ParseException {
+	                                                                                  ^
+  symbol:   class ParseException
+  location: class Exp4
+Exp4.java:21: error: cannot find symbol
+		JSONParser parser = new JSONParser();
+		^
+  symbol:   class JSONParser
+  location: class Exp4
+Exp4.java:21: error: cannot find symbol
+		JSONParser parser = new JSONParser();
+		                        ^
+  symbol:   class JSONParser
+  location: class Exp4
+Exp4.java:148: error: cannot find symbol
+								JSONObject jsonObject = (JSONObject) obj;
+								^
+  symbol:   class JSONObject
+  location: class Exp4
+Exp4.java:148: error: cannot find symbol
+								JSONObject jsonObject = (JSONObject) obj;
+								                         ^
+  symbol:   class JSONObject
+  location: class Exp4
+8 errors
+start
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+Error: Could not find or load main class Exp4
+finish
+bbm204-19-4/b21791675/src
+start
+Exception in thread "main" java.lang.IllegalArgumentException: 0 > -1
+	at java.util.Arrays.copyOfRange(Arrays.java:3663)
+	at Tools.getPartOfString(Tools.java:37)
+	at Exp4.main(Exp4.java:148)
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.elementData(ArrayList.java:422)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at Exp4.main(Exp4.java:130)
+Exception in thread "main" java.lang.IllegalArgumentException: 0 > -1
+	at java.util.Arrays.copyOfRange(Arrays.java:3663)
+	at Tools.getPartOfString(Tools.java:37)
+	at Exp4.main(Exp4.java:148)
+finish
