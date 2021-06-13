@@ -1,0 +1,13 @@
+CreateBST 7,3,1,5,19,11,9,15,13,17,18,21
+FindHeight
+FindWidth
+Preorder
+LeavesAsc
+DelRoot
+Preorder
+DelRootLc
+LeavesAsc
+DelRootRc
+Preorder
+CreateBSTH 3
+Preorder
