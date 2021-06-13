@@ -1,5 +1,0 @@
-[Canada, Russia, United States]
-[Brazil, Canada, China, Mexico, Russia, United States]
-[Algeria, Angola, China, India, United States]
-[Burundi, China, India, Malawi, Mali, Niger, Uganda, United States, Zambia]
-[Ethiopia, Gibraltar, Latvia, Lithuania, Monaco, Ukraine]
