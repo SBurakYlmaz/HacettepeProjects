@@ -1,0 +1,32 @@
+iptables -F
+
+(Lan 1)
+Computer Engineering:
+iptables -A OUTPUT -o eth1 -p tcp --dport 80,443 -d 170.192.40.234 -m state --state NEW,ESTABLISHED -j ACCEPT
+iptables -A OUTPUT -o eth1 -p tcp --dport 80,443 -d 144.188.127.195 -m state --state NEW,ESTABLISHED -j ACCEPT
+
+iptables -A INPUT -i eth1 -p tcp --sport 80,443 -s 170.192.40.234 -m state --state NEW,ESTABLISHED -j ACCEPT
+iptables -A INPUT -i eth1 -p tcp --sport 80,443 -s 144.188.127.195 -m state --state NEW,ESTABLISHED -j ACCEPT
+
+(Lan 2)
+Electronic Engineering:
+iptables -A OUTPUT -o eth2 -p tcp --dport 80,443 -d 170.192.40.234 -m state --state NEW,ESTABLISHED -j ACCEPT
+iptables -A OUTPUT -o eth2 -p tcp --dport 80,443 -d 144.188.127.195 -m state --state NEW,ESTABLISHED -j ACCEPT
+
+iptables -A INPUT -i eth2 -p tcp --sport 80,443 -s 170.192.40.234 -m state --state NEW,ESTABLISHED -j ACCEPT
+iptables -A INPUT -i eth2 -p tcp --sport 80,443 -s 144.188.127.195 -m state --state NEW,ESTABLISHED -j ACCEPT
+
+(Lan 3)
+Physics Engineering:
+iptables -A OUTPUT -o eth3 -p tcp --dport 80,443 -d 170.192.40.234 -m state --state ESTABLISHED -j ACCEPT
+iptables -A OUTPUT -o eth3 -p tcp --dport 80,443 -d 144.188.127.195 -m state --state ESTABLISHED -j ACCEPT
+
+iptables -A INPUT -i eth3 -p tcp --sport 80,443 -s 170.192.40.234 -m state --state ESTABLISHED -j ACCEPT
+iptables -A INPUT -i eth3 -p tcp --sport 80,443 -s 144.188.127.195 -m state --state ESTABLISHED -j ACCEPT
+
+Firewall:
+iptables -A FORWARD -i eth1,eth2,eth3 -o eth4 -p tcp --dport 80,443 -m state --state ESTABLISHED -d 170.192.40.234 -j ACCEPT
+iptables -A FORWARD -i eth1,eth2,eth3 -o eth4 -p tcp --dport 80,443 -m state --state ESTABLISHED -d 144.188.127.195 -j ACCEPT
+
+iptables -A FORWARD -i eth4 -o eth1,eth2,eth3 -p tcp --sport 80,443 -m state --state ESTABLISHED -s 170.192.40.234 -j ACCEPT
+iptables -A FORWARD -i eth4 -o eth1,eth2,eth3 -p tcp --sport 80,443 -m state --state ESTABLISHED -s 144.188.127.195 -j ACCEPT

@@ -1,0 +1,20 @@
+iptables -F
+
+(Lan 1)
+Computer Engineering:
+iptables -A OUTPUT -o eth1 -p tcp --dport 110,143 -d 192.168.1.3 -m state --state NEW,ESTABLISHED -j ACCEPT
+iptables -A INPUT -i eth1 -p tcp --sport 110,143 -s 192.168.1.3 -m state --state NEW,ESTABLISHED -j ACCEPT
+
+(Lan 2)
+Electronic Engineering:
+iptables -A OUTPUT -o eth2 -p tcp --dport 110,143 -d 192.168.1.3 -m state --state NEW,ESTABLISHED -j ACCEPT
+iptables -A INPUT -o eth2 -p tcp --sport 110,143 -s 192.168.1.3 -m state --state NEW,ESTABLISHED -j ACCEPT
+
+(Lan 3)
+Physics Engineering:
+iptables -A OUTPUT -o eth3 -p tcp --dport 110,143 -d 192.168.1.3 -m state --state NEW,ESTABLISHED -j ACCEPT
+iptables -A INPUT -o eth3 -p tcp --sport 110,143 -s 192.168.1.3 -m state --state NEW,ESTABLISHED -j ACCEPT
+
+Firewall:
+iptables -A FORWARD -i eth1,eth2,eth3 -o eth0 -p tcp -s 192.168.5.0/24,192.168.10.0/24,192.168.25.0/24 --dport 110,143 -d 192.168.1.3 -m state --state ESTABLISHED -j ACCEPT
+iptables -A FORWARD -i eth0 -o eth1,eth2,eth3 -p tcp -d 192.168.5.0/24,192.168.10.0/24,192.168.25.0/24 --sport 110,143 -s 192.168.1.3 -m state --state ESTABLISHED -j ACCEPT

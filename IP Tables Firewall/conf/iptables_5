@@ -1,0 +1,24 @@
+iptables -F
+
+(Lan 1)
+Computer Engineering:
+iptables -A INPUT -i eth1 -p icmp -s 85.77.42.63 -m state --state NEW,ESTABLISHED -j ACCEPT
+iptables -A OUTPUT -o eth1 -p icmp -d 85.77.42.63 -m state --state NEW,ESTABLISHED -j ACCEPT
+
+(Lan 2)
+Electronic Engineering:
+iptables -A INPUT -i eth2 -p icmp -s 85.77.42.63 -m state --state NEW,ESTABLISHED -j ACCEPT
+iptables -A OUTPUT -o eth2 -p icmp -d 85.77.42.63 -m state --state NEW,ESTABLISHED -j ACCEPT
+
+(Lan 3)
+Physics Engineering:
+iptables -A INPUT -i eth3 -p icmp -s 85.77.42.63 -m state --state NEW,ESTABLISHED -j ACCEPT
+iptables -A OUTPUT -o eth3 -p icmp -d 85.77.42.63 -m state --state NEW,ESTABLISHED -j ACCEPT
+
+Remote Computer:
+iptables -A INPUT -i eth4 -p icmp -s 192.168.5.0/24,192.168.10.0/24,192.168.25.0/24 -m state --state NEW,ESTABLISHED -j ACCEPT
+iptables -A OUTPUT -o eth4 -p icmp -d 192.168.5.0/24,192.168.10.0/24,192.168.25.0/24 -m state --state NEW,ESTABLISHED -j ACCEPT
+
+Firewall:
+iptables -A FORWARD -i eth1,eth2,eth3 -o eth4 -p icmp -s 192.168.5.0/24,192.168.10.0/24,192.168.25.0/24 -d 85.77.42.63 -m state --state ESTABLISHED -j ACCEPT
+iptables -A FORWARD -i eth4 -o eth1,eth2,eth3 -s 85.77.42.63 -p icmp -d 192.168.5.0/24,192.168.10.0/24,192.168.25.0/24 -m state --state ESTABLISHED -j ACCEPT

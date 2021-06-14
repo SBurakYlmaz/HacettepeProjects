@@ -1,0 +1,17 @@
+iptables -F
+
+(Lan 1)
+Computer Engineering:
+iptables -A OUTPUT -o eth1 -p all -d 192.168.10.0/24 -m state --state NEW,ESTABLISHED -j ACCEPT
+iptables -A INPUT -i eth1 -p all -s 192.168.10.0/24 -m state --state NEW,ESTABLISHED -j ACCEPT
+
+(Lan 2)
+Electronic Engineering:
+iptables -A OUTPUT -o eth2 -p all -d 192.168.5.0/24 -m state --state NEW,ESTABLISHED -j ACCEPT
+iptables -A INPUT -i eth2 -p all -s 192.168.5.0/24 -m state --state NEW,ESTABLISHED -j ACCEPT
+
+Firewall:
+iptables -A FORWARD -i eth1 -o eth2 -p all -d 192.168.10.0/24 -m state --state ESTABLISHED -j ACCEPT
+iptables -A FORWARD -i eth2 -o eth1 -p all -s 192.168.10.0/24 -m state --state ESTABLISHED -j ACCEPT
+iptables -A FORWARD -i eth2 -o eth1 -p all -d 192.168.5.0/24 -m state --state ESTABLISHED -j ACCEPT
+iptables -A FORWARD -i eth1 -o eth2 -p all -s 192.168.5.0/24 -m state --state ESTABLISHED -j ACCEPT

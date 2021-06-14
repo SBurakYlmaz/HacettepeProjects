@@ -1,0 +1,4 @@
+iptables -F
+
+Firewall:
+iptables -A FORWARD -p tcp --syn --dport 443 -m connlimit --connlimit-upto 100 -j ACCEPT
