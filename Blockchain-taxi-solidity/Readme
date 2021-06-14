@@ -1,0 +1,6 @@
+﻿Assumptions : 
+1. In order to deploy the contract adjust gas Limit 4000000.
+2. One month equals 30 days.
+3. To get correct results we should try unixTimestamp on date or time fields such as offeredValidTime (ex. 1618755803 == 04/18/2021 in order to try feature time and 1608755904 == 12/23/2020 in order to try past time).
+4. I assumed entrance fee as 10 ether to make things more simple.
+5. pragma solidity >=0.7.0 <0.8.0; .
